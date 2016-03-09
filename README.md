@@ -1,24 +1,13 @@
-# Source for redconfetti.com
+# redconfetti dotfiles
 
-This is a static website generated using [Jekyll](https://jekyllrb.com/), hosted by [Neocities](https://neocities.org/),
-with assets hosted by [Amazon S3](https://aws.amazon.com/s3/).
+My personal configuration files.
 
-## Installation
+Inspired by [Managing Dotfiles With Git: Get Your Dotfiles Under Control](https://www.foraker.com/blog/get-your-dotfiles-under-control). See also [Unofficial guide to dotfiles on GitHub](http://dotfiles.github.io/)
 
-Make sure you install and use RVM - [RVM installation](https://rvm.io/rvm/install)
+## Other Examples
 
-```shell
-cd com.redconfetti
-bundle install
-```
+I might want to steal something from these other examples eventually. For now I'm sticking to Ryan Bates version, because it uses a Rakefile instead of a Bash script.
 
-## Usage
-
-```shell
-# Run Jekyll Server while updating pages
-jekyll serve
-
-# Build static website
-rm -rf _site
-jekyll build
-```
+- [ryanb/dotfiles](https://github.com/ryanb/dotfiles)
+- [paulmillr/dotfiles](https://github.com/paulmillr/dotfiles/blob/master/bootstrap-new-system.sh)
+- [holman/dotfiles](https://github.com/holman/dotfiles)
