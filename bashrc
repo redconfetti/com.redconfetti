@@ -97,3 +97,6 @@ if ! shopt -oq posix; then
     . /etc/bash_completion
   fi
 fi
+
+# Homepage for Web Browsers
+export WWW_HOME=http://www.google.com/
