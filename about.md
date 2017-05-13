@@ -4,12 +4,11 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hello
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
+This is my personal blog where I muse about anything. I have always been interested
+in the internet, music, and psychology / spirituality.
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+I am a website developer, with a tech blog at [Ruby Colored Glasses](http://www.rubycoloredglasses.com/)
+
+I am currently a student of the [Diamond Approach](https://en.wikipedia.org/wiki/A._H._Almaas#Diamond_Approach).
