@@ -10,6 +10,6 @@ categories:
 - personal
 ---
 
-![what success looks like](/assets/images/posts/what-success-looks-like.jpg "what success really looks like")
+![what success looks like](http://assets.redconfetti.com/images/posts/what-success-looks-like.jpg "what success really looks like")
 
 Success: What people think it looks like. What it really looks like.

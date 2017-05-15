@@ -9,7 +9,7 @@ categories:
 - personal
 ---
 
-![Unthink KFC](http://redconfetti-assets.s3-us-west-2.amazonaws.com/images/posts/kfc-unthink.jpg "Unthink KFC")
+![Unthink KFC](http://assets.redconfetti.com/images/posts/kfc-unthink.jpg "Unthink KFC")
 
 KFC made a coupon available for a free meal which features their new [Kentucky *Grilled* Chicken](http://www.unthinkfc.com/) recently,
 which got me thinking about fried chicken...and their new product of course.

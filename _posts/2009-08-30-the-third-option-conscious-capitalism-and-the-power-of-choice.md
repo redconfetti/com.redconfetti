@@ -45,7 +45,7 @@ the greed which exists within the free market, but the
 has placed on that market. From my point of view it is very frustrating to hear people such as Michael Moore say that
 the free market has failed, when it wasn't really free due to such regulations.
 
-![Scrooge McDuck](/assets/images/posts/scrooge-mcduck.jpg "Scrooge McDuck, swimming in his money")
+![Scrooge McDuck](http://redconfetti-assets.s3-us-west-2.amazonaws.com/images/posts/scrooge-mcduck.jpg "Scrooge McDuck, swimming in his money")
 
 *Scrooge McDuck swimming in his money, while poor people starve...Or does he spend it, or invest it in other companies,
 which creates new jobs?*

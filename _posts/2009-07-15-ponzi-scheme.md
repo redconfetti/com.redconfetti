@@ -9,4 +9,4 @@ categories:
 - web development
 ---
 
-![Bernie Madoff Ponzi Scheme Interogation](/assets/images/posts/ponzi-scheme-madoff.jpg "Bernie Madoff Ponzi Scheme Interogation")
+![Bernie Madoff Ponzi Scheme Interogation](http://redconfetti-assets.s3-us-west-2.amazonaws.com/images/posts/ponzi-scheme-madoff.jpg "Bernie Madoff Ponzi Scheme Interogation")

@@ -78,4 +78,4 @@ I used to get very emotional with this 4th grade teacher, storm out of the class
 the door. She had a system to keep track of whether or not you got to go to a special recess session at the end of
 the day, at the end of the week (Friday). That whole year I never had a situation where my card wasn't pulled.
 
-![I hate getting my card pulled](/assets/images/posts/i-hate-getting-my-cardpulled.jpg "I hate getting my card pulled")
+![I hate getting my card pulled](http://assets.redconfetti.com/images/posts/i-hate-getting-my-cardpulled.jpg "I hate getting my card pulled")

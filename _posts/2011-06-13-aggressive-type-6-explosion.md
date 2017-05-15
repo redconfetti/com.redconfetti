@@ -14,4 +14,4 @@ comments: []
 
 I know exactly how you feel sometimes Meatloaf.
 
-![meatloaf art supply fight](/assets/images/posts/meat-loaf-art-supply-fight.jpg "I'm the last person in the world you want to fuck with!")
+![meatloaf art supply fight](http://assets.redconfetti.com/images/posts/meat-loaf-art-supply-fight.jpg "I'm the last person in the world you want to fuck with!")

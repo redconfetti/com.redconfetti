@@ -36,7 +36,7 @@ Ampitheater.
 
 Here is a shot from the Rock Spring Trail, North-East of the Ampitheater, where you can see the entire bay.
 
-![Mount Tamalpais Ampitheater](/assets/images/posts/mount-tamalpais-ampitheater.jpg "Mount Tamalpais Ampitheater")
+![Mount Tamalpais Ampitheater](http://assets.redconfetti.com/images/posts/mount-tamalpais-ampitheater.jpg "Mount Tamalpais Ampitheater")
 
 # Purisima Creek Redwoods Open Space Preserve
 

@@ -12,7 +12,7 @@ tags: []
 comments: []
 ---
 
-![left and right brain](/assets/images/posts/left-right-side-of-brain.jpg "left and right brain")
+![left and right brain](http://assets.redconfetti.com/images/posts/left-right-side-of-brain.jpg "left and right brain")
 
 I've spent so long in my left brain trying to build my knowledge of computers, the world, trying to figure it all out
 ...trying to relieve this anxiety, fear, sadness. My right brain has atrophied, I'm cut off from it, I feel dead
@@ -22,4 +22,4 @@ as children.
 
 [brainpickings.org - Intuition vs Rationality](http://www.brainpickings.org/index.php/2012/01/11/intuition-vs-rationality/)
 
-![get your intution back](/assets/images/posts/intuition-mental-space.jpg "get your intuition back when you make space")
+![get your intution back](http://assets.redconfetti.com/images/posts/intuition-mental-space.jpg "get your intuition back when you make space")

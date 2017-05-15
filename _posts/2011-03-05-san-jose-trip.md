@@ -74,7 +74,7 @@ going in the same direction I was going the bike seemed to wobble in a weird way
 like it does when you go across a bridge that has a steel grate. When I first noticed this I had thought that perhaps
 something happened to my front tire or something...because it felt like the wind pushed me to the left or right easily.
 
-![bridge steel grate](/assets/images/posts/bridge-steel-grate.png "bridge steel grate")
+![bridge steel grate](http://assets.redconfetti.com/images/posts/bridge-steel-grate.png "bridge steel grate")
 
 Well, I found out that the bike is more stable when going at higher speeds due to the increased
 [gyroscopic](http://en.wikipedia.org/wiki/Gyroscope) force. The reason why the bike felt like it had less grip on the

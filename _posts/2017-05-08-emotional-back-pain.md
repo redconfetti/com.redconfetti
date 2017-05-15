@@ -10,4 +10,4 @@ categories:
 - spirituality
 ---
 
-![emotional energy centers of the body](http://redconfetti-assets.s3-us-west-2.amazonaws.com/images/posts/emotional-energy-centers-of-the-body.jpg "emotional energy centers of the body")
+![emotional energy centers of the body](http://assets.redconfetti.com/images/posts/emotional-energy-centers-of-the-body.jpg "emotional energy centers of the body")

@@ -12,7 +12,7 @@ tags:
 - health
 ---
 
-![healthier food](http://redconfetti-assets.s3-us-west-2.amazonaws.com/images/posts/healthier-food.jpg "healthier food")
+![healthier food](http://assets.redconfetti.com/images/posts/healthier-food.jpg "healthier food")
 
 As part of my aim to switch to a healthier lifestyle. I'm trying to cook using more vegetables. Tonight I'm having
 crab cakes with brown rice, diakon raddish, carrots, steamed greens (spinach, mustard, collard, turnip), and some

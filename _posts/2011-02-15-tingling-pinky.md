@@ -109,7 +109,7 @@ that is common amongst people who use a computer like I do 8 hours a day for the
 however and found that CTS only affects the
 [other portions of my hand](http://www.nlm.nih.gov/medlineplus/ency/imagepages/1081.htm).
 
-![carpal tunnel syndrome](/assets/images/posts/carpal-tunnel-syndrome.jpg "carpal tunnel syndrome")
+![carpal tunnel syndrome](http://assets.redconfetti.com/images/posts/carpal-tunnel-syndrome.jpg "carpal tunnel syndrome")
 
 So there must be something less intense with a different nerve going on here, and not the median nerve. It turns out
 that in my case it's the ulnar nerve that is being pinched or something. I read the article on wikipedia on
@@ -138,7 +138,7 @@ noticed that the right hand was more numb and tingly than it is during the day. 
 [Cubital Tunnel Syndrome](http://en.wikipedia.org/wiki/Ulnar_nerve_entrapment#Cubital_Tunnel_Syndrome). I guess some
 call this 'Cell Phone Elbow Syndrome'.
 
-[<img title="cubital-tunnel-syndrome" src="/assets/images/posts/cubital-tunnel-syndrome.jpg" alt="" width="300" />](http://www.thepicky.com/gadgets/what-is-cell-phone-elbow-syndrome/)
+[<img title="cubital-tunnel-syndrome" src="http://assets.redconfetti.com/images/posts/cubital-tunnel-syndrome.jpg" alt="" width="300" />](http://www.thepicky.com/gadgets/what-is-cell-phone-elbow-syndrome/)
 
 > __Cubital tunnel syndrome__ occurs when the ulnar nerve is obstructed during its path along the
 [cubital tunnel](http://en.wikipedia.org/wiki/Cubital_tunnel); the outer edge of the elbow. This compression of the

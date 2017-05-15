@@ -9,9 +9,9 @@ categories:
 - web development
 ---
 
-[Josh in my closet drunk](/assets/mp3/josh-drunk-improvisation.mp3)
+[Josh in my closet drunk](http://assets.redconfetti.com/mp3/misc/josh-drunk-improvisation.mp3)
 
 <audio controls>
-  <source src="http://redconfetti-assets.s3-us-west-2.amazonaws.com/mp3/misc/josh-drunk-improvisation.mp3" type="audio/mpeg">
+  <source src="http://assets.redconfetti.com/mp3/misc/josh-drunk-improvisation.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>

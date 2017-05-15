@@ -23,4 +23,4 @@ comments:
 I just wanted to quickly note that Burger King coffee is horrible. It always tastes burnt. I don't know if it's the coffee
 maker, or if they're still using that frozen concentrated coffee crap. But it sucks, I don't understand how people put up with it.
 
-![Burger King Joe Coffee](/assets/images/posts/burger-king-joe-coffee.jpg "Burger King Joe Coffee")
+![Burger King Joe Coffee](http://assets.redconfetti.com/images/posts/burger-king-joe-coffee.jpg "Burger King Joe Coffee")

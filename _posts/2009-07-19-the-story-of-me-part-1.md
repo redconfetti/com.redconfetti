@@ -1,7 +1,6 @@
 ---
 layout: post
-status: private
-published: true
+published: false
 title: The Story of Me - Part 1
 author: maxwell keyes
 date: '2009-07-19 04:53:16 -0700'
@@ -40,18 +39,18 @@ So what am I doing now? I'm going to write a non-published biography. Do I remem
 remember what I did when on each day last week, let alone years ago. Maybe the memories are hidden under fear. Maybe they will
 reveal themselves as we explore.
 
-![jason baby](/assets/images/posts/jason-baby.jpg "jason baby")
+![jason baby](http://redconfetti-assets.s3-us-west-2.amazonaws.com/images/posts/jason-baby.jpg "jason baby")
 
 I, Jason Carl Miller, was born on January 26, 1982.
 
 I don't remember anything before around age 4. I don't think I have a single memory from before I was about 4 years of age. Here
 are the people who brought me into this world. Steve and Brenda Miller.
 
-![Brenda and Steve](/assets/images/posts/brenda-steve.jpg "Brenda and Steve")
+![Brenda and Steve](http://redconfetti-assets.s3-us-west-2.amazonaws.com/images/posts/brenda-steve.jpg "Brenda and Steve")
 
 For 17 years of my life I grew up in this house at 3221 Walton Rd., Apopka, FL 32703. (Photo circa 1985)
 
-![walton road January 1985](/assets/images/posts/walton-rd-jan-1985.jpg "walton road January 1985")
+![walton road January 1985](http://redconfetti-assets.s3-us-west-2.amazonaws.com/images/posts/walton-rd-jan-1985.jpg "walton road January 1985")
 
 The earliest memory I have is sitting on the floor next to some sort of recliner or chair in the living room. My mom was sitting
 in the chair, and she put her hand on me and said something such as 'I love you', or something else to express some sort of love
@@ -64,7 +63,7 @@ for pimento cheese too much, but its like bologne...nice once in a while. This h
 keep sliced pickes in some sort of tupperware thing that allowed you to pull the pickles up out of the juice, so they would be
 dry. It was box shaped, with rounded corners.
 
-![image](/assets/images/posts/pickle-tupperware.jpg "pickle tupperware")
+![image](http://redconfetti-assets.s3-us-west-2.amazonaws.com/images/posts/pickle-tupperware.jpg "pickle tupperware")
 
 I remember we had a gas stove when I was younger. I remember figuring out how to get onto the counter top so I could reach
 for things in the cupboards. What else do I remember about my father living with me? What else did I see him do? I don't

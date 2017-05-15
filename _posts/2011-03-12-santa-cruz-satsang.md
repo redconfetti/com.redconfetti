@@ -16,6 +16,6 @@ I'm going to Satsang in Santa Cruz, then stopping by Babaks house for a while on
 
 Here are some photos I took while during a short stop at [Pescadero State Beach](https://goo.gl/maps/GVZvQ7PxHKL2)...my first cool scenery + motorcycle photos.
 
-![GS500F Pacifica](/assets/images/posts/pacifica-gs-500f-1.jpg "GS500F Pacifica")
+![GS500F Pacifica](http://assets.redconfetti.com/images/posts/pacifica-gs-500f-1.jpg "GS500F Pacifica")
 
-![GS500F Pacifica](/assets/images/posts/pacifica-gs-500f-2.jpg "GS500F Pacifica")
+![GS500F Pacifica](http://assets.redconfetti.com/images/posts/pacifica-gs-500f-2.jpg "GS500F Pacifica")

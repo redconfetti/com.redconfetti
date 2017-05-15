@@ -30,13 +30,13 @@ think I've even seen this on the street and liked it. It has a sport bike style,
 and standard. It's black and silver, which means you're not being flashy but still cool (though black doesn't help
 with visibility by other drivers). And the price is great, with a 487cc engine!
 
-![1997 Suzuki GS500E](/assets/images/posts/1997-SuzukiGS500E.jpg "1997 Suzuki GS500E")
+![1997 Suzuki GS500E](http://assets.redconfetti.com/images/posts/1997-SuzukiGS500E.jpg "1997 Suzuki GS500E")
 
 Still though there needs to be visibility, and the fairings improve "rider comfort by providing wind protection and
 better aerodynamics", so I might go with a
 [GS500F](http://suzukicycles.com/Product%20Lines/Cycles/Products/GS500F/2009/GS500F.aspx?category=sportbike).
 
-![2008 Suzuki GS500F](/assets/images/posts/suzuki-GS500F.jpg "2008 Suzuki GS500F")
+![2008 Suzuki GS500F](http://assets.redconfetti.com/images/posts/suzuki-GS500F.jpg "2008 Suzuki GS500F")
 
 The one in the picture above is a 2008 GS500F, with a MSRP of $4,399 displayed on the Suzuki website. That's not bad
 at all, and I love the black, red, grey, and white. I'll wear a flashy jacket.
