@@ -1,3 +1,6 @@
 _site
 .sass-cache
 .jekyll-metadata
+
+# Ignore application configuration
+/config/application.yml

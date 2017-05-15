@@ -26,3 +26,6 @@ end
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
+# Amazon S3 Library
+# https://github.com/qoobaa/s3
+gem 's3', '~> 0.3.25'
