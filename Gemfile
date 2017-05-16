@@ -29,3 +29,7 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 # Amazon S3 Library
 # https://github.com/qoobaa/s3
 gem 's3', '~> 0.3.25'
+
+# Neocities
+gem 'neocities'
+
