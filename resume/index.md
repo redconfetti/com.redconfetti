@@ -1,6 +1,6 @@
 ---
 layout: resume
-published: true
+published: false
 title: Resume
 author: maxwell keyes
 date: '2009-04-08 04:06:10 -0700'

@@ -1,4 +1,3 @@
-
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 
@@ -8,388 +7,385 @@
   <meta name="keywords" content="xhtml, css, xml, javascript, jquery, smarty, php, mysql, ruby, rails, git, subversion, prototype, wordpress, themes, plugins, photoshop, dreamweaver, linux, ubuntu, centos, whm, cpanel" />
   <meta name="description" content="Jason Miller is a Ruby on Rails web developer with a background front-end and back-end web development, as well as desktop and network technical support" />
 
-  <link rel="stylesheet" type="text/css" href="/resume/css/resume.css" media="screen" />
-  <link rel="stylesheet" type="text/css" href="/resume/css/print.css" media="print" />
-
-  <script type="text/javascript" src="/resume/js/jquery-1.3.2.min.js"></script>
-  <script type="text/javascript" src="/resume/js/jquery-ui-1.7.1.custom.min.js"></script>
+  <script type="text/javascript" src="https://code.jquery.com/jquery-2.2.4.min.js"></script>
+  <script type="text/javascript" src="https://code.jquery.com/ui/1.12.1/jquery-ui.min.js"></script>
   <script type="text/javascript" src="/resume/js/jquery.dropshadow.js"></script>
   <script type="text/javascript" src="/resume/js/jquery.corners.min.js"></script>
   <script type="text/javascript" src="/resume/js/Adoro.PrintButton.js"></script>
   <script type="text/javascript" src="/resume/js/email-mungle.js"></script>
   <script type="text/javascript" src="/resume/js/resume.js"></script>
+  <link rel="stylesheet" type="text/css" href="/assets/resume.css" />
 </head>
 
 <body>
 
-<div id="nav">
-	<ul>
-	  <li><a href="/">Home</a></li>
-	  <li><a href="/about/" title="About">About</a></li>
-		<li><a href="/resume/" title="Resume" style="color: #fff;">Resume</a></li>
-	</ul>
-	<div class="clear"></div>
-</div>
+  <div id="nav">
+    <ul>
+      <li><a href="/">Home</a></li>
+      <li><a href="/about/" title="About">About</a></li>
+      <li><a href="/resume/" title="Resume" style="color: #fff;">Resume</a></li>
+    </ul>
+    <div class="clear"></div>
+  </div>
 
-<div id="container">
-	<div id="polaroid"></div>
+  <div id="container">
+    <div id="polaroid"></div>
 
-	<div id="content">
+    <div id="content">
 
-		<div id="tools">
-			<div id="print-button"></div>
-			<div id="pdf-download">
-				<a href="./jason-miller-resume.pdf"><img src="http://assets.redconfetti.com/images/pages/resume/pdf-icon-48x48.gif" alt="[PDF Download]" style="border:0;" /></a>
-			</div>
-		</div>
+      <div id="tools">
+        <div id="print-button"></div>
+        <div id="pdf-download">
+          <a href="./jason-miller-resume.pdf"><img src="{{site.assets.url_prefix}}/images/pages/resume/pdf-icon-48x48.gif" alt="[PDF Download]" style="border:0;" /></a>
+        </div>
+      </div>
 
-		<h1 id="header">Jason Miller - Web Developer</h1>
+      <h1 id="header">Jason Miller - Web Developer</h1>
 
-		<div id="contact">
-			<ul>
-			  <li>2309 Blake St Apt 217</li>
-			  <li>Berkeley, CA 94704</li>
-			  <li>
-          <script type="text/javascript">
-            <!-- ecpfoJiUJIYjKOj(); -->
-				  </script>
-			  </li>
-            </ul>
-		</div>
+      <div id="contact">
+        <ul>
+          <li>2309 Blake St Apt 217</li>
+          <li>Berkeley, CA 94704</li>
+          <li>
+            <script type="text/javascript">
+              <!-- ecpfoJiUJIYjKOj(); -->
+            </script>
+          </li>
+        </ul>
+      </div>
 
-		<!-- ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
+      <!-- /////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 
-		<div id="skills">
-			<h1>Skills</h1>
+      <div id="skills">
+        <h1>Skills</h1>
 
-			<h2>Development Technologies</h2>
-			<p>
-                          Ruby on Rails, Rspec, Cucumber, Git.
-			  HTML, CSS, SCSS, Coffeescript, and pure Javascript using jQuery and AngularJS. 
-			  Linux, Apache, PHP, MySQL (LAMP stack). Wordpress Plugins and Themes,
-			</p>
-		</div>
-
-    <!-- ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
-
-		<div id="experience">
-			<h1>Experience</h1>
-
-			<div class="position">
-				<div class="p_head">
-					<h2>University of Berkeley - ETS Department</h2>
-					<h3>Applications Developer | <i>October, 2013 - Present</i></h3>
-				</div>
-				<div class="p_body">
-					<p>
-						The University of California, Berkeley is a public research university located in Berkeley, California, United States.
-						The
-            <a href="http://ets.berkeley.edu/" rel="external">
-              Educational Technology Services (ETS)
-            </a> department provides technology services essential to teaching and learning, including the
-						<a href="https://calcentral.berkeley.edu/" rel="external">CalCentral</a> portal website, and the
-            <a href="http://ets.berkeley.edu/bcourses/" rel="external">bCourses</a> learning management
-						system powered by Instructure's <a href="http://www.instructure.com/" rel="external">Canvas</a>.
-					</p>
-					<p>
-						Acted as primary developer on the bSpace replacement project, implementing tools and solutions for its replacement - <a href="http://ets.berkeley.edu/bcourses/" rel="external">bCourses</a>.
-					</p>
-					<p>
-						All contributions visible via public Github repository for <a href="https://github.com/ets-berkeley-edu/calcentral/commits?author=redconfetti" rel="external">ets-berkeley-edu/calcentral</a>, full stack development involving Ruby on Rails 4 and AngularJS 1.3.15.
-					</p>
-					<dl>
-						<dt>Responsibilities/Accomplishments include:</dt>
-						<dd>
-						  Developed <a href="http://www.imsglobal.org/toolsinteroperability2.cfm" rel="external">LTI Tools</a> to integrate Student Information System (SIS) data into workflows such as:
-						  <ul>
-						    <li>Official Course Site Creation and Modification</li>
-						    <li>Campus specific Grade Exporting</li>
-						    <li>Manual Enrollment Addition with Directory Search</li>
-						    <li>Project Site Creation</li>
-						  </ul>
-						</dd>
-						<dd>Engineered solution for incremental updates to users and course enrollments based on differences between campus and LMS data due to lack of incremental querying in existing SIS systems.</dd>
-					</dl>
-				</div>
-			</div>
-
-			<div class="position">
-				<div class="p_head">
-					<h2>Kabam</h2>
-					<h3>Ruby on Rails Web Developer | <i>February, 2012 - June 2013 (16 months)</i></h3>
-				</div>
-
-				<div class="p_body">
-					<p>
-						<a href="http://www.kabam.com/" rel="external">Kabam</a> is an interactive entertainment company that creates free-to-play games 
-            for social networks, designed to appeal to the growing number of serious gamers and game enthusiasts who are also engaged in 
-						social networks.
-					</p>
-					<dl>
-						<dt>Internal Tool Development</dt>
-						<dd>
-              Created Rails 3 application purposed with making dynamic requests to game systems for promotional purposes.
-              Utilized test driven development approach using Rspec and Cucumber. Dynamic user targeting interface using jQuery/Coffeescript.
-              Developed API interface for game systems as Rails 2 and Rails 3 engines, supplied via two separate Ruby gems. 
-              Aided heavily in project planning and specifications. Devised specifications for internationalized content provided by European
-              staff, though not implemented.
-            </dd>
-						<dt>Back-end Game Development</dt>
-						<dd>
-              Contributed bug fixes and features to
-              <a href="https://www.kabam.com/games/dragons-of-atlantis" rel="external">Dragons of Atlantis</a> game system.
-              Included refactoring of existing tool used to reward players for in-game contest participation, and tracking of troop
-              statistic modifications applied during battles (for purpose of display in Battle Report).
-              Provided high level overviews and guides for several sub-systems. Updated developer workstation setup guide, documented 
-              deployment procedures, and contributed many overviews of several sub-systems.
-            </dd>
-          </dl>
-				</div>
-			</div>
-
-			<div class="position">
-				<div class="p_head">
-					<h2>Agent Formula</h2>
-					<h3>Ruby on Rails Web Developer | <i>July, 2011 - February 2012 (7 months)</i></h3>
-				</div>
-
-				<div class="p_body">
-					<p>
-						<a href="http://www.agentformula.com/" rel="external">Agent Formula</a> provides an internet marketing system to 
-						the Las Vegas real estate market consisting of a website, drip email marketing, and social network integration.
-					</p>
-					<dl>
-						<dt>Responsibilities/Accomplishments include:</dt>
-						<dd>Real Estate Data Import/Normalization</dd>
-						<dd>Real Estate Property Search powered by <a href="http://pat.github.io/thinking-sphinx/" rel="external">Sphinx Search</a></dd>
-						<dd>Drip Email Marketing sub-system</dd>
-						<dd>Wordpress MU integration with Rails</dd>
-						<dd>Upgrade from Ruby on Rails 2.3 to 3.1.3</dd>
-						<dd>Customer Service and Technical Support</dd>
-						<dd>Facebook Page Integration</dd>
-					</dl>
-				</div>
-			</div>
-			<div class="position">
-				<div class="p_head">
-					<h2>iHomefinder.com</h2>
-					<h3>Technical Support Representative | <i>May 14, 2009 - July 2011 (2 years)</i></h3>
-				</div>
-				<div class="p_body">
-					<p>
-						<a href="http://www.ihomefinder.com/" rel="external">iHomefinder</a> is the leading national provider of online 
-            property search technology and MLS (Multiple Listing Service) data for real estate websites.
-					</p>
-					<dl>
-						<dt>Responsibilities/Accomplishments include:</dt>
-						<dd>Customer Service and Technical Support</dd>
-						<dd>Built custom tools and handled migration from <a href="http://bestpractical.com/rt/" rel="external">RT ticket tracking system</a>
-            to Kayako Helpdesk using custom PHP scripting
-            </dd>
-						<dd>Provided documentation for support purposes</dd>
-						<dd>Created screencasts using Camtasia and Screenflow software</dd>
-						<dd>Aided with marketing materials for resellers / partners</dd>
-						<dd>Minor bug fixes with ColdFusion back-end</dd>
-					</dl>
-				</div>
-			</div>
-
-			<div class="position">
-				<div class="p_head">
-					<h2>Self Employed</h2>
-					<h3>PHP / Ruby on Rails Developer | <i>August 2008 - May 2009 (9 months)</i></h3>
-				</div>
-
-				<div class="p_body">
-					<p>Contract work through Atlas Web Development - <a href=" http://www.atlaswebdev.com/" rel="external">http://www.atlaswebdev.com/</a></p>
-					<dl>
-						<dt><a href="http://www.smallbusinessadvocate.com/" rel="external">Smallbusinessadvocate.com</a></dt>
-						<dd>Development w/ Ruby on Rails using Git repository &amp; Capistrano deployment</dd>
-						<dd>Provided integration between Rails application and remote CGI/Perl audio editting interface</dd>
-						<dd>Created Content Management System (CMS)</dd>
-						<dd>Implemented FCKeditor for WYSIWYG functionality</dd>
-						<dd>Javascript character count for form fields</dd>
-						<dd>RSS/Podcast feeds</dd>
-						<dd>Sphinx search daemon integration via ThinkingSphinx plugin</dd>
-						<dd>Personal Briefcase (user bookmarking of site pages)</dd>
-						<dd>Login form drop down effect with Scriptaculous</dd>
-						<dd>301 Redirects for SEO purposes</dd>
-						<dd>Implemented widgets and Google gadget</dd>
-					</dl>
-
-					<dl>
-						<dt>15hole.com</dt>
-						<dd>Created custom Wordpress theme (HTML/CSS) from Photoshop file</dd>
-						<dd>Integrated Javascript/JQuery driven <a href="http://www.twospy.com/galleriffic/" rel="external">Gallerific</a> photo 
-            gallery with customizations</dd>
-						<dd>Custom Wordpress e-Commerce plugin</dd>
-					</dl>
-
-					<dl>
-						<dt><a href="http://www.doorcomponentsllc.com/" rel="external">Doorcomponentsllc.com</a></dt>
-						<dd>Design implementation via HTML/CSS layout</dd>
-						<dd>Custom <a href="http://www.twospy.com/galleriffic/" rel="external">Gallerific</a> photo gallery implementation</dd>
-						<dd>Extensive image processing via Photoshop</dd>
-						<dd>Javascript/JQuery based navigation and location search</dd>
-					</dl>
-
-					<p>Minor contributions to
-						<a href="http://www.wineq.com/" rel="external">WineQ.com</a>,
-						<a href="http://www.particled.com/" rel="external">Particled.com</a>,
-						<a href="http://www.sagebrushtech.com/" rel="external">SageBrushTech.com</a>,
-						<a href="http://www.mydesignsecrets.com/" rel="external">MyDesignSecrets.com</a>,
-						<a href="http://www.stephenhicks.org/" rel="external">StephenHicks.org</a>
-					</p>
-				</div>
-			</div>
-
-			<div class="position">
-				<div class="p_head">
-					<h2>HostDime.com, Inc.</h2>
-					<h3>Support Manager / Sr. Web Developer | <i>September 2004 - September 2008 (4 years)</i></h3>
-				</div>
-
-				<div class="p_body">
-					<p>
-            <a href="http://www.hostdime.com/" rel="external">HostDime.com</a>, Inc. is a web hosting company specializing in Linux 
-            and Windows based hosting solutions, with 100+ employees operating from Orlando, FL. 
-            I acted as a customer service and technical support manager, web developer, and system administrator.<br /><br />
-            While employed with HostDime I was able to increase the depth of my understanding from simply PHP/MySQL development 
-            to the full LAMP stack.
+        <h2>Development Technologies</h2>
+        <p>
+          Ruby on Rails, Rspec, Cucumber, Git.
+          HTML, CSS, SCSS, Coffeescript, and pure Javascript using jQuery<br>
+          and AngularJS. Linux, Apache, PHP, MySQL (LAMP stack). Wordpress Plugins and Themes.
           </p>
+      </div>
 
-					<dl>
-						<dt>Responsibilities/Accomplishments include:</dt>
-						<dd>Customer Service and Technical Support Training and Documentation</dd>
-						<dd>Development of policies and procedures</dd>
-						<dd>Implementing configuration standards, thus increasing service stability</dd>
-						<dd>Planning and coordination of software updates to 300+ live servers, resulting in zero complications</dd>
-						<dd>Implementation and administration of 10 systems responsible for shared/reseller/domain (Modernbill, WHM-AP, AWBS) 
-            accounting and payment processing</dd>
-						<dd>Implementation of backend tools, using PHP/MySQL, which integrated all systems in use (Modernbill, AWBS, 
-            Kayako eSupport, cPanel/WHM) as well as maintenance tools to maintain database integrity</dd>
-					</dl>
-				</div>
-			</div>
+      <!-- /////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 
-			<div class="position">
-				<div class="p_head">
-					<h2>GreatInsuranceJobs.com / OrlandoJobs.com</h2>
-					<h3>ASP/MS-SQL Developer | <i>March 2004 - September 2004 (7 months)</i></h3>
-				</div>
+      <div id="experience">
+        <h1>Experience</h1>
 
-				<div class="p_body">
-					<p>
-						<a href="http://www.orlandojobs.com/" rel="external">OrlandoJobs.com</a> /
-						<a href="http://www.greatinsurancejobs.com/" rel="external">GreatInsuranceJobs.com</a><br /><br />
-            Implemented new website application based on existing codebase -
-            <a href="http://www.greatinsurancerecruiters.com/" rel="external">http://www.greatinsurancerecruiters.com/</a>.
-						Provided documentation, debugging, and implementation of minor features.<br />
-					</p>
-				</div>
-			</div>
+        <div class="position">
+          <div class="p_head">
+            <h2>University of Berkeley - ETS Department</h2>
+            <h3>Applications Developer | <i>October, 2013 - Present</i></h3>
+          </div>
+          <div class="p_body">
+            <p>
+              The University of California, Berkeley is a public research university located in Berkeley, California, United States.
+              The
+              <a href="http://ets.berkeley.edu/" rel="external">
+                Educational Technology Services (ETS)
+              </a> department provides technology services essential to teaching and learning, including the
+              <a href="https://calcentral.berkeley.edu/" rel="external">CalCentral</a> portal website, and the
+              <a href="http://ets.berkeley.edu/bcourses/" rel="external">bCourses</a> learning management
+              system powered by Instructure's <a href="http://www.instructure.com/" rel="external">Canvas</a>.
+            </p>
+            <p>
+              Acted as primary developer on the bSpace replacement project, implementing tools and solutions for its replacement - <a href="http://ets.berkeley.edu/bcourses/" rel="external">bCourses</a>.
+            </p>
+            <p>
+              All contributions visible via public Github repository for <a href="https://github.com/ets-berkeley-edu/calcentral/commits?author=redconfetti" rel="external">ets-berkeley-edu/calcentral</a>, full stack development involving Ruby on Rails 4 and AngularJS 1.3.15.
+            </p>
+            <dl>
+              <dt>Responsibilities/Accomplishments include:</dt>
+              <dd>
+                Developed <a href="http://www.imsglobal.org/toolsinteroperability2.cfm" rel="external">LTI Tools</a> to integrate Student Information System (SIS) data into workflows such as:
+                <ul>
+                  <li>Official Course Site Creation and Modification</li>
+                  <li>Campus specific Grade Exporting</li>
+                  <li>Manual Enrollment Addition with Directory Search</li>
+                  <li>Project Site Creation</li>
+                </ul>
+              </dd>
+              <dd>Engineered solution for incremental updates to users and course enrollments based on differences between campus and LMS data due to lack of incremental querying in existing SIS systems.</dd>
+            </dl>
+          </div>
+        </div>
 
-			<div class="position">
-				<div class="p_head">
-					<h2>Devereux</h2>
-					<h3>Technical Support | <i>September 2003 - March 2004 (7 months)</i></h3>
-				</div>
+        <div class="position">
+          <div class="p_head">
+            <h2>Kabam</h2>
+            <h3>Ruby on Rails Web Developer | <i>February, 2012 - June 2013 (16 months)</i></h3>
+          </div>
 
-				<div class="p_body">
-					<p>
-            Provided on-site technical support for 20+ locations in the Central Florida region. Support included Win98 and WinXP 
-            workstations in a Novell Netware environment, Groupwise, and various Java database applications. Provided 
-            documentation for various resources and solutions as needed.
-          </p>
-				</div>
-			</div>
+          <div class="p_body">
+            <p>
+              <a href="http://www.kabam.com/" rel="external">Kabam</a> is an interactive entertainment company that creates free-to-play games
+              for social networks, designed to appeal to the growing number of serious gamers and game enthusiasts who are also engaged in
+              social networks.
+            </p>
+            <dl>
+              <dt>Internal Tool Development</dt>
+              <dd>
+                Created Rails 3 application purposed with making dynamic requests to game systems for promotional purposes.
+                Utilized test driven development approach using Rspec and Cucumber. Dynamic user targeting interface using jQuery/Coffeescript.
+                Developed API interface for game systems as Rails 2 and Rails 3 engines, supplied via two separate Ruby gems.
+                Aided heavily in project planning and specifications. Devised specifications for internationalized content provided by European
+                staff, though not implemented.
+              </dd>
+              <dt>Back-end Game Development</dt>
+              <dd>
+                Contributed bug fixes and features to
+                <a href="https://www.kabam.com/games/dragons-of-atlantis" rel="external">Dragons of Atlantis</a> game system.
+                Included refactoring of existing tool used to reward players for in-game contest participation, and tracking of troop
+                statistic modifications applied during battles (for purpose of display in Battle Report).
+                Provided high level overviews and guides for several sub-systems. Updated developer workstation setup guide, documented
+                deployment procedures, and contributed many overviews of several sub-systems.
+              </dd>
+            </dl>
+          </div>
+        </div>
 
-			<div class="position">
-				<div class="p_head">
-					<h2>APG Media Group</h2>
-					<h3>Lead Developer | <i>September 2002 - August 2003 (1 year)</i></h3>
-				</div>
+        <div class="position">
+          <div class="p_head">
+            <h2>Agent Formula</h2>
+            <h3>Ruby on Rails Web Developer | <i>July, 2011 - February 2012 (7 months)</i></h3>
+          </div>
 
-				<div class="p_body">
-					<p>
-            Consulted on design and functional specifications. Implemented PHP/MySQL content management system for a music 
-            entertainment directory website.
-          </p>
-				</div>
-			</div>
+          <div class="p_body">
+            <p>
+              <a href="http://www.agentformula.com/" rel="external">Agent Formula</a> provides an internet marketing system to the Las Vegas real estate market consisting of a website, drip email marketing, and social network integration.
+            </p>
+            <dl>
+              <dt>Responsibilities/Accomplishments include:</dt>
+              <dd>Real Estate Data Import/Normalization</dd>
+              <dd>Real Estate Property Search powered by <a href="http://pat.github.io/thinking-sphinx/" rel="external">Sphinx Search</a></dd>
+              <dd>Drip Email Marketing sub-system</dd>
+              <dd>Wordpress MU integration with Rails</dd>
+              <dd>Upgrade from Ruby on Rails 2.3 to 3.1.3</dd>
+              <dd>Customer Service and Technical Support</dd>
+              <dd>Facebook Page Integration</dd>
+            </dl>
+          </div>
+        </div>
+        <div class="position">
+          <div class="p_head">
+            <h2>iHomefinder.com</h2>
+            <h3>Technical Support Representative | <i>May 14, 2009 - July 2011 (2 years)</i></h3>
+          </div>
+          <div class="p_body">
+            <p>
+              <a href="http://www.ihomefinder.com/" rel="external">iHomefinder</a> is the leading national provider of online
+              property search technology and MLS (Multiple Listing Service) data for real estate websites.
+            </p>
+            <dl>
+              <dt>Responsibilities/Accomplishments include:</dt>
+              <dd>Customer Service and Technical Support</dd>
+              <dd>Built custom tools and handled migration from <a href="http://bestpractical.com/rt/" rel="external">RT ticket tracking system</a>
+              to Kayako Helpdesk using custom PHP scripting
+              </dd>
+              <dd>Provided documentation for support purposes</dd>
+              <dd>Created screencasts using Camtasia and Screenflow software</dd>
+              <dd>Aided with marketing materials for resellers / partners</dd>
+              <dd>Minor bug fixes with ColdFusion back-end</dd>
+            </dl>
+          </div>
+        </div>
 
-			<div class="position">
-				<div class="p_head">
-					<h2>Convergys</h2>
-					<h3>Tier 2 DSL Technical Support | <i>August 2002 - September 2002 (2 months)</i></h3>
-				</div>
-				<div class="p_body">
-					<p>Provided phone support for Digital Subscriber Line (DSL) and dial-up connectivity for SBC Global customers.</p>
-				</div>
-			</div>
+        <div class="position">
+          <div class="p_head">
+            <h2>Self Employed</h2>
+            <h3>PHP / Ruby on Rails Developer | <i>August 2008 - May 2009 (9 months)</i></h3>
+          </div>
 
-			<div class="position">
-				<div class="p_head">
-					<h2>MPInet.net / Volaris Online</h2>
-					<h3>Level 2 Technical Support | <i>June 2000 - August 2002 (2+ years)</i></h3>
-				</div>
+          <div class="p_body">
+            <p>Contract work through Atlas Web Development - <a href=" http://www.atlaswebdev.com/" rel="external">http://www.atlaswebdev.com/</a></p>
+            <dl>
+              <dt><a href="http://www.smallbusinessadvocate.com/" rel="external">Smallbusinessadvocate.com</a></dt>
+              <dd>Development w/ Ruby on Rails using Git repository &amp; Capistrano deployment</dd>
+              <dd>Provided integration between Rails application and remote CGI/Perl audio editting interface</dd>
+              <dd>Created Content Management System (CMS)</dd>
+              <dd>Implemented FCKeditor for WYSIWYG functionality</dd>
+              <dd>Javascript character count for form fields</dd>
+              <dd>RSS/Podcast feeds</dd>
+              <dd>Sphinx search daemon integration via ThinkingSphinx plugin</dd>
+              <dd>Personal Briefcase (user bookmarking of site pages)</dd>
+              <dd>Login form drop down effect with Scriptaculous</dd>
+              <dd>301 Redirects for SEO purposes</dd>
+              <dd>Implemented widgets and Google gadget</dd>
+            </dl>
 
-				<div class="p_body">
-					<p>
-            Provided phone support for dial-up internet access, with troubleshooting of web and email issues. 
-            Developed widely used employee resource website with screenshots, dial-up numbers, server addresses, etc.
-          </p>
-				</div>
-			</div>
+            <dl>
+              <dt>15hole.com</dt>
+              <dd>Created custom Wordpress theme (HTML/CSS) from Photoshop file</dd>
+              <dd>Integrated Javascript/JQuery driven <a href="http://www.twospy.com/galleriffic/" rel="external">Gallerific</a> photo
+              gallery with customizations</dd>
+              <dd>Custom Wordpress e-Commerce plugin</dd>
+            </dl>
 
-		</div>
+            <dl>
+              <dt><a href="http://www.doorcomponentsllc.com/" rel="external">Doorcomponentsllc.com</a></dt>
+              <dd>Design implementation via HTML/CSS layout</dd>
+              <dd>Custom <a href="http://www.twospy.com/galleriffic/" rel="external">Gallerific</a> photo gallery implementation</dd>
+              <dd>Extensive image processing via Photoshop</dd>
+              <dd>Javascript/JQuery based navigation and location search</dd>
+            </dl>
 
-		<!-- ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
+            <p>Minor contributions to
+              <a href="http://www.wineq.com/" rel="external">WineQ.com</a>,
+              <a href="http://www.particled.com/" rel="external">Particled.com</a>,
+              <a href="http://www.sagebrushtech.com/" rel="external">SageBrushTech.com</a>,
+              <a href="http://www.mydesignsecrets.com/" rel="external">MyDesignSecrets.com</a>,
+              <a href="http://www.stephenhicks.org/" rel="external">StephenHicks.org</a>
+            </p>
+          </div>
+        </div>
 
-		<div id="interests">
-			<h1>Interests</h1>
+        <div class="position">
+          <div class="p_head">
+            <h2>HostDime.com, Inc.</h2>
+            <h3>Support Manager / Sr. Web Developer | <i>September 2004 - September 2008 (4 years)</i></h3>
+          </div>
 
-			<ul>
-			  <li>Music (Cubase, Ableton Live, guitar, bass, keyboard, drum sequencing)</li>
-			  <li>Psychology / Spirituality</li>
-			  <li>Hiking</li>
-			</ul>
-		</div>
+          <div class="p_body">
+            <p>
+              <a href="http://www.hostdime.com/" rel="external">HostDime.com</a>, Inc. is a web hosting company specializing in Linux
+              and Windows based hosting solutions, with 100+ employees operating from Orlando, FL.
+              I acted as a customer service and technical support manager, web developer, and system administrator.<br /><br />
+              While employed with HostDime I was able to increase the depth of my understanding from simply PHP/MySQL development
+              to the full LAMP stack.
+            </p>
 
-		<!-- ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
+            <dl>
+              <dt>Responsibilities/Accomplishments include:</dt>
+              <dd>Customer Service and Technical Support Training and Documentation</dd>
+              <dd>Development of policies and procedures</dd>
+              <dd>Implementing configuration standards, thus increasing service stability</dd>
+              <dd>Planning and coordination of software updates to 300+ live servers, resulting in zero complications</dd>
+              <dd>Implementation and administration of 10 systems responsible for shared/reseller/domain (Modernbill, WHM-AP, AWBS)
+              accounting and payment processing</dd>
+              <dd>Implementation of backend tools, using PHP/MySQL, which integrated all systems in use (Modernbill, AWBS,
+              Kayako eSupport, cPanel/WHM) as well as maintenance tools to maintain database integrity</dd>
+            </dl>
+          </div>
+        </div>
 
-		<div id="references">
-			<h1>References</h1>
-			<p>References made available by request.</p>
-		</div>
+        <div class="position">
+          <div class="p_head">
+            <h2>GreatInsuranceJobs.com / OrlandoJobs.com</h2>
+            <h3>ASP/MS-SQL Developer | <i>March 2004 - September 2004 (7 months)</i></h3>
+          </div>
 
-		<!-- ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
+          <div class="p_body">
+            <p>
+              <a href="http://www.orlandojobs.com/" rel="external">OrlandoJobs.com</a> /
+              <a href="http://www.greatinsurancejobs.com/" rel="external">GreatInsuranceJobs.com</a><br /><br />
+              Implemented new website application based on existing codebase -
+              <a href="http://www.greatinsurancerecruiters.com/" rel="external">http://www.greatinsurancerecruiters.com/</a>.
+              Provided documentation, debugging, and implementation of minor features.<br />
+            </p>
+          </div>
+        </div>
 
-		<div id="footer">
-		  <a href="http://validator.w3.org/check?uri=referer" rel="external">
-      	<img src="/resume/images/xhtml10.png" alt="Valid XHTML 1.0 Strict" height="15" width="80" />
-			</a>
-		  <a href="http://jquery.com/" title="jQuery JavaScript Library" rel="external">
-				<img src="/resume/images/jquery-icon.png" alt="jQuery JavaScript Library" title="jQuery JavaScript Library" />
-		  </a>
-		</div>
+        <div class="position">
+          <div class="p_head">
+            <h2>Devereux</h2>
+            <h3>Technical Support | <i>September 2003 - March 2004 (7 months)</i></h3>
+          </div>
 
-	</div>
-	<!-- end of content div -->
+          <div class="p_body">
+            <p>
+              Provided on-site technical support for 20+ locations in the Central Florida region. Support included Win98 and WinXP
+              workstations in a Novell Netware environment, Groupwise, and various Java database applications. Provided
+              documentation for various resources and solutions as needed.
+            </p>
+          </div>
+        </div>
 
-</div>
+        <div class="position">
+          <div class="p_head">
+            <h2>APG Media Group</h2>
+            <h3>Lead Developer | <i>September 2002 - August 2003 (1 year)</i></h3>
+          </div>
 
-<!-- Begin Google Analytics Code -->
-<script type="text/javascript">
-  var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-  document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script>
-<script type="text/javascript">
-try {
-  var pageTracker = _gat._getTracker("UA-8486520-1");
-  pageTracker._trackPageview();
-} catch(err) {}</script>
-<!-- End Google Analytics Code -->
+          <div class="p_body">
+            <p>
+              Consulted on design and functional specifications. Implemented PHP/MySQL content management system for a music
+              entertainment directory website.
+            </p>
+          </div>
+        </div>
+
+        <div class="position">
+          <div class="p_head">
+            <h2>Convergys</h2>
+            <h3>Tier 2 DSL Technical Support | <i>August 2002 - September 2002 (2 months)</i></h3>
+          </div>
+          <div class="p_body">
+            <p>Provided phone support for Digital Subscriber Line (DSL) and dial-up connectivity for SBC Global customers.</p>
+          </div>
+        </div>
+
+        <div class="position">
+          <div class="p_head">
+            <h2>MPInet.net / Volaris Online</h2>
+            <h3>Level 2 Technical Support | <i>June 2000 - August 2002 (2+ years)</i></h3>
+          </div>
+
+          <div class="p_body">
+            <p>
+              Provided phone support for dial-up internet access, with troubleshooting of web and email issues.
+              Developed widely used employee resource website with screenshots, dial-up numbers, server addresses, etc.
+            </p>
+          </div>
+        </div>
+
+      </div>
+
+      <!-- /////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
+
+      <div id="interests">
+        <h1>Interests</h1>
+
+        <ul>
+          <li>Music (Cubase, Ableton Live, guitar, bass, keyboard, drum sequencing)</li>
+          <li>Psychology / Spirituality</li>
+          <li>Hiking</li>
+        </ul>
+      </div>
+
+      <!-- /////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
+
+      <div id="references">
+        <h1>References</h1>
+        <p>References made available by request.</p>
+      </div>
+
+      <!-- /////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
+
+      <div id="footer">
+        <a href="http://validator.w3.org/check?uri=referer" rel="external">
+          <img src="{{site.assets.url_prefix}}/images/pages/resume/xhtml10.png" alt="Valid XHTML 1.0 Strict" height="15" width="80" />
+        </a>
+        <a href="http://jquery.com/" title="jQuery JavaScript Library" rel="external">
+          <img src="{{site.assets.url_prefix}}/images/pages/resume/jquery-icon.png" alt="jQuery JavaScript Library" title="jQuery JavaScript Library" />
+        </a>
+      </div>
+
+    </div>
+    <!-- end of content div -->
+
+  </div>
+
+  <!-- Begin Google Analytics Code -->
+  <script type="text/javascript">
+    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+  </script>
+  <script type="text/javascript">
+  try {
+    var pageTracker = _gat._getTracker("UA-8486520-1");
+    pageTracker._trackPageview();
+  } catch(err) {}</script>
+  <!-- End Google Analytics Code -->
 
 </body>
 </html>
