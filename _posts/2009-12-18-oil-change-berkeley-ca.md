@@ -18,7 +18,7 @@ Update: 06/20/2010 - The mechanics at this shop might not have plugged the oil p
 
 Just a heads up, if your car is low on oil after getting it changed at this place, take it in somewhere and get it checked out. Don't try to replace the oil...or you'll end up with a blown head gasket like I did.
 
-![Pennzoil Speed Oil Change Center](http://assets.redconfetti.com/images/posts/pennzoil-speed-oil-change-center.jpeg "Pennzoil Speed Oil Change Center Oakland")
+![Pennzoil Speed Oil Change Center]({{site.assets.url_prefix}}/images/posts/pennzoil-speed-oil-change-center.jpeg "Pennzoil Speed Oil Change Center Oakland")
 
 
 [Pennzoil Speed Oil Change Center](http://maps.google.com/places/us/oakland/shattuck-ave/5225/-pennzoil-speed-oil-change-center) - 5225 Shattuck Avenue, Oakland, CA

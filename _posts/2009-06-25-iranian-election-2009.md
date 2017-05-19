@@ -11,8 +11,8 @@ categories:
 
 Here are some political cartoons I found regarding the Iranian Election and protest of 2009.
 
-![Lady Liberty Iran](http://redconfetti-assets.s3-us-west-2.amazonaws.com/images/posts/lady-liberty-iran.jpg "Lady Liberty Iran")
+![Lady Liberty Iran]({{site.assets.url_prefix}}/images/posts/lady-liberty-iran.jpg "Lady Liberty Iran")
 
-![Iranian Truths](http://redconfetti-assets.s3-us-west-2.amazonaws.com/images/posts/iran-truths.jpg "Iranian Truths")
+![Iranian Truths]({{site.assets.url_prefix}}/images/posts/iran-truths.jpg "Iranian Truths")
 
-![Iran Election Fraud](http://redconfetti-assets.s3-us-west-2.amazonaws.com/images/posts/color-iran-el-fraud-web.jpg "Iran Election Fraud")
+![Iran Election Fraud]({{site.assets.url_prefix}}/images/posts/color-iran-el-fraud-web.jpg "Iran Election Fraud")

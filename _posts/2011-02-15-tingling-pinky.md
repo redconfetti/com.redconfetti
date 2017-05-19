@@ -109,7 +109,7 @@ that is common amongst people who use a computer like I do 8 hours a day for the
 however and found that CTS only affects the
 [other portions of my hand](http://www.nlm.nih.gov/medlineplus/ency/imagepages/1081.htm).
 
-![carpal tunnel syndrome](http://assets.redconfetti.com/images/posts/carpal-tunnel-syndrome.jpg "carpal tunnel syndrome")
+![carpal tunnel syndrome]({{site.assets.url_prefix}}/images/posts/carpal-tunnel-syndrome.jpg "carpal tunnel syndrome")
 
 So there must be something less intense with a different nerve going on here, and not the median nerve. It turns out
 that in my case it's the ulnar nerve that is being pinched or something. I read the article on wikipedia on

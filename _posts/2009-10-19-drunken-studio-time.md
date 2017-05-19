@@ -12,6 +12,6 @@ categories:
 [Josh in my closet drunk](http://assets.redconfetti.com/mp3/misc/josh-drunk-improvisation.mp3)
 
 <audio controls>
-  <source src="http://assets.redconfetti.com/mp3/misc/josh-drunk-improvisation.mp3" type="audio/mpeg">
+  <source src="{{site.assets.url_prefix}}/mp3/misc/josh-drunk-improvisation.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>

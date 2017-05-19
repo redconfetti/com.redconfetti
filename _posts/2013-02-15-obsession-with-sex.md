@@ -20,4 +20,4 @@ of being isolated from your nature as a sensual human being in touch with your e
 
 [Why Men Are So Obsessed with Sex](http://www.interchangecounseling.com/blog/why-men-are-so-obsessed-with-sex/)
 
-![baby with naked bodies in background](http://assets.redconfetti.com/images/posts/man-baby-bodies.jpg "baby with naked bodies in background")
+![baby with naked bodies in background]({{site.assets.url_prefix}}/images/posts/man-baby-bodies.jpg "baby with naked bodies in background")

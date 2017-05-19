@@ -30,9 +30,9 @@ comments:
 I made this song a while back. It's a pretty nice one on acoustic guitar.
 You might have heard it while on hold for [HostDime.com](http://www.hostdime.com/) back in 2004-2008.
 
-[Golden Pot Tree](http://assets.redconfetti.com/mp3/misc/redconfetti-golden-pot-tree.mp3)
+[Golden Pot Tree]({{site.assets.url_prefix}}/mp3/misc/redconfetti-golden-pot-tree.mp3)
 
 <audio controls>
-  <source src="http://redconfetti-assets.s3-us-west-2.amazonaws.com/mp3/misc/redconfetti-golden-pot-tree.mp3" type="audio/mpeg">
+  <source src="{{site.assets.url_prefix}}/mp3/misc/redconfetti-golden-pot-tree.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>

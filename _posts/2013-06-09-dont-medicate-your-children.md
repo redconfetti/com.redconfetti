@@ -19,4 +19,4 @@ I remember when my 4th grade teacher sent me home with a note to my parents reco
 isn't how you solve the problem. It's likely the sugar and carbs in the child's diet that make them hyperactive, or
 the television that makes them unable to focus, or the environment at home that causes them to behave a certain way.
 
-![Snuff Out Creativity](http://assets.redconfetti.com/images/posts/alvin-and-hobbes-death-of-imagination.png "calvin and hobbes - death of imagination")
+![Snuff Out Creativity]({{site.assets.url_prefix}}/images/posts/alvin-and-hobbes-death-of-imagination.png "calvin and hobbes - death of imagination")

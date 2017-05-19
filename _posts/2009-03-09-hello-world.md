@@ -41,4 +41,4 @@ ok. Again I'm starting over with a fresh new blog. I hope to keep this one going
 
 Anyway, I'm back. I'll be blogging about anything: web development, spirituality, life in California, food, whatever.
 
-![maxwell keyes](http://assets.redconfetti.com/images/posts/photo-197.jpg "maxwell keyes")
+![maxwell keyes]({{site.assets.url_prefix}}/images/posts/photo-197.jpg "maxwell keyes")

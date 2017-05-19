@@ -11,7 +11,7 @@ categories:
 
 [Murder of Tina Watson](http://en.wikipedia.org/wiki/Murder_of_Tina_Watson)
 
-![Murder of Tina Watson](http://redconfetti-assets.s3-us-west-2.amazonaws.com/images/posts/david-gabriel-watson-tina.jpg "Murder of Tina Watson")
+![Murder of Tina Watson]({{site.assets.url_prefix}}/images/posts/david-gabriel-watson-tina.jpg "Murder of Tina Watson")
 
 I watched [the story about this](http://news.google.com/news?q=David+Gabriel+Watson+Scuba) on Dateline NBC tonight. I'd
 like to hear David's side of the story, which they reported has varied the 16 times he recounted the events to police.

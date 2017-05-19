@@ -14,7 +14,7 @@ categories:
 I just want to let everyone on the Internet know that the [Hulu Desktop](http://www.hulu.com/labs/hulu-desktop) application
 rocks. Seriously.
 
-![Hulu Desktop app](http://assets.redconfetti.com/images/posts/hulu-desktop.gif "Hulu Desktop application")
+![Hulu Desktop app]({{site.assets.url_prefix}}/images/posts/hulu-desktop.gif "Hulu Desktop application")
 
 I have an iMac, which came with a remote controller for use with FrontRow, a multimedia viewer which uses a
 [10-foot user interface](http://en.wikipedia.org/wiki/10-foot_user_interface), and came packaged with Mac OSX

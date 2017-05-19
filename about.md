@@ -8,7 +8,7 @@ My name is Jason. I am a website developer living in Berkeley, CA, originally fr
 
 I am currently a student of the [Diamond Approach](https://en.wikipedia.org/wiki/A._H._Almaas#Diamond_Approach).
 
-![Maxwell Keyes](http://assets.redconfetti.com/images/pages/about/maxwell-keyes.jpg "Maxwell Keyes")
+![Maxwell Keyes]({{site.assets.url_prefix}}/images/pages/about/maxwell-keyes.jpg "Maxwell Keyes")
 
 ```
 >> maxwell.created_at

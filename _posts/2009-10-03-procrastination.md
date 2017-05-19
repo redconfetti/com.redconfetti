@@ -10,4 +10,4 @@ categories:
 - web development
 ---
 
-![Procrastination](http://assets.redconfetti.com/images/posts/procrastination.png "Procrastination graph")
+![Procrastination]({{site.assets.url_prefix}}/images/posts/procrastination.png "Procrastination graph")

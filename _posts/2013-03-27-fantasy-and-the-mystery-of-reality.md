@@ -34,7 +34,7 @@ never had an experience which showed such ability in seeing the future to be tru
 seeing this illustration of a [fortune teller](http://zelda.wikia.com/wiki/Fortune_Teller) doesn't elicit that kind of
 feeling of mystery in my heart.
 
-![fortune teller](http://assets.redconfetti.com/images/posts/fortune-teller.png "fortune teller")
+![fortune teller]({{site.assets.url_prefix}}/images/posts/fortune-teller.png "fortune teller")
 
 This seems to give the sense of a wise old person, that may be eccentric, but that understands magic. In fantasy you
 can suspend a sense of disbelief, which means that in such a context you can feel this reaction to this image. But why
@@ -46,4 +46,4 @@ chosen? How did we discover the tarot?
 
 What do you feel when you see this [pentacle](http://en.wikipedia.org/wiki/Pentacle)?
 
-![seal of god](http://assets.redconfetti.com/images/posts/john-dees-seal-of-god.jpg "John Dee's Seal of God")
+![seal of god]({{site.assets.url_prefix}}/images/posts/john-dees-seal-of-god.jpg "John Dee's Seal of God")

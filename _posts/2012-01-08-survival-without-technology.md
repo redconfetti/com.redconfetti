@@ -13,7 +13,7 @@ tags:
 comments: []
 ---
 
-![garden](http://assets.redconfetti.com/images/posts/survival-garden.jpg "survival garden")
+![garden]({{site.assets.url_prefix}}/images/posts/survival-garden.jpg "survival garden")
 
 Used without permission by [Hometown Seeds](http://www.hometownseeds.com/survival-seeds-c-213/survival-seeds-peace-of-mind-for-your-family-p-35?zenid=bca328e42d30cec298d513c73af3c97d)
 

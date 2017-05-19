@@ -175,7 +175,7 @@ the replacement freewheel to me at no additional charge because the bike was und
 real bike shop which does adjustments and repairs, so I had to arrange for help in getting the old freewheel off and
 the new one on.
 
-![Huffy Savannah](http://assets.redconfetti.com/images/posts/huffy-savannah.jpg "Huffy Savannah")
+![Huffy Savannah]({{site.assets.url_prefix}}/images/posts/huffy-savannah.jpg "Huffy Savannah")
 
 More recently the chain started to come off, and I'd have to put it back on getting my hand all dirty and greasy, and
 avoid certain gear combinations so it didn't continue to happen. I figured it just needed to be adjusted or something,
@@ -193,7 +193,7 @@ ended up buying a Marin Larkspur hybrid, as I'm looking for a good street commut
 Isuzu Rodeo is repaired (after I save up approx. $2000). They recommended that I get something with strong wheels such
 as this model. I'm a pretty heavy guy, so strong wheels it is.
 
-![Marin Larkspur](http://assets.redconfetti.com/images/posts/marin-larkspur.jpg "Marin Larkspu")
+![Marin Larkspur]({{site.assets.url_prefix}}/images/posts/marin-larkspur.jpg "Marin Larkspu")
 
 I ended up paying $460 for the bike, and then re-investing into a new rack for the back, a solid U-Lock (instead of a
 cable lock), and front and rear lights for night time riding. I would have used the other lights I bought from Walmart,
@@ -204,7 +204,7 @@ I love my new bike. I like how I can bring it back to the bike shop and they'll 
 knowing that the bike shouldn't have any problems like the Huffy. Over the weekend I used the new bike to go do my
 laundry.
 
-![Bicycle Laundry](http://assets.redconfetti.com/images/posts/bicycle-laundry.jpg "Laundry loaded in bicycle")
+![Bicycle Laundry]({{site.assets.url_prefix}}/images/posts/bicycle-laundry.jpg "Laundry loaded in bicycle")
 
 So anyway, I've been taking my new bike into work and parking it next to my old bike. I really need to get rid of the
 Huffy, but I'm not sure what to do with it. A friend of mine suggested that I take it into Walmart and ask for a refund,

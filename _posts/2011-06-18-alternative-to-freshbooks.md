@@ -107,4 +107,4 @@ tracking).
 I believe I've found a worthy competitor of Freshbooks for my time tracking needs in
 [Harvest](http://www.getharvest.com/).
 
-![harvest](http://assets.redconfetti.com/images/posts/harvest-simple-timesheet.jpg "harvest simple online time tracking timesheet and reporting software")
+![harvest]({{site.assets.url_prefix}}/images/posts/harvest-simple-timesheet.jpg "harvest simple online time tracking timesheet and reporting software")

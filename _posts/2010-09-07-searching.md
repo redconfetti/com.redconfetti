@@ -14,9 +14,9 @@ tags:
 comments: []
 ---
 
-![Searching Uncanny](http://assets.redconfetti.com/images/posts/searching-uncanny.jpg "Searching Uncanny")
+![Searching Uncanny]({{site.assets.url_prefix}}/images/posts/searching-uncanny.jpg "Searching Uncanny")
 
-[Audio Illusion Remix](http://assets.redconfetti.com/images/mp3/misc/redconfetti-searching.mp3)
+[Audio Illusion Remix]({{site.assets.url_prefix}}/images/mp3/misc/redconfetti-searching.mp3)
 
 <audio controls>
   <source src="http://redconfetti-assets.s3-us-west-2.amazonaws.com/mp3/misc/redconfetti-searching.mp3" type="audio/mpeg">

@@ -9,7 +9,7 @@ categories:
 - personal
 ---
 
-![Glowing Puppy](http://assets.redconfetti.com/images/posts/glowing-puppy.jpg "Glowing puppy")
+![Glowing Puppy]({{site.assets.url_prefix}}/images/posts/glowing-puppy.jpg "Glowing puppy")
 
 It turns out that scientists in South Korea have somehow
 [inserted fluorescent genes into a dog egg](https://www.youtube.com/watch?v=z3zSZDjRUXA), and implanted the eggs into some

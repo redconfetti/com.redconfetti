@@ -23,9 +23,9 @@ Unfortunately with recent updates, Spotify no longer includes this social sideba
 using the Search bar, and then load their profile in the center of the screen. This is difficult though, because the
 option to share a song with them requires that you remember the exact title or artist that created the song.
 
-![find friend on spotify](http://assets.redconfetti.com/images/posts/spotify-sharing-friends.png "find friend on spotify")
+![find friend on spotify]({{site.assets.url_prefix}}/images/posts/spotify-sharing-friends.png "find friend on spotify")
 
-![send music on spotify](http://assets.redconfetti.com/images/posts/spotify-send-music.png "send music on spotify")
+![send music on spotify]({{site.assets.url_prefix}}/images/posts/spotify-send-music.png "send music on spotify")
 
 After pulling up your friend, you can't simply drag the song you're listening to over their profile. You have to
 manually search for the song. Sure it's loaded in the lower left corner, so you can read it's name, but still it slows
@@ -36,7 +36,7 @@ There is another way to share the song though. I didn't notice this until a frie
 current song is shown. If you click on this option, you're given the option to search for your friend by name. You
 already have to do this in the search bar with the first method shown above, so no loss there.
 
-![share music on spotify](http://assets.redconfetti.com/images/posts/spotify-share-button.png "share music on spotify")
+![share music on spotify]({{site.assets.url_prefix}}/images/posts/spotify-share-button.png "share music on spotify")
 
 Next you select to send the song to a friend, type in their name (with popup hints), and then type in your message if
 you want before you click on 'Send'. This is much more efficient. I wish I had noticed it sooner.

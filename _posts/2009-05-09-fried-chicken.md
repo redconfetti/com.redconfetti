@@ -9,7 +9,7 @@ categories:
 - personal
 ---
 
-![Unthink KFC](http://assets.redconfetti.com/images/posts/kfc-unthink.jpg "Unthink KFC")
+![Unthink KFC]({{site.assets.url_prefix}}/images/posts/kfc-unthink.jpg "Unthink KFC")
 
 KFC made a coupon available for a free meal which features their new [Kentucky *Grilled* Chicken](http://www.unthinkfc.com/) recently,
 which got me thinking about fried chicken...and their new product of course.
@@ -35,7 +35,7 @@ setup, but somehow a bug made this generic one become served to the public. Who 
 
 It sure does make the name of their promotion ironic however. 'UnThink'
 
-![KFC chicken men](http://redconfetti-assets.s3-us-west-2.amazonaws.com/images/posts/kfc-chicken-men.gif "KFC Chicken men")
+![KFC chicken men]({{site.assets.url_prefix}}/images/posts/kfc-chicken-men.gif "KFC Chicken men")
 
 I did happen to think that their grilled chicken still tasted fried. I happened to ask an employee at my local KFC if it was
 actually put in a fryer. She told me that they do grill it, and that the fat in the chicken itself gets on the outside and
@@ -45,7 +45,7 @@ But anyway, what was my point of posting this? Oh yeah! Speaking of fried chicke
 
 Anyone who happens to be in the South Eastern United States, I highly recommend [Maryland Fried Chicken](http://www.marylandfriedchicken.com/)
 
-![Maryland Fried Chicken](http://redconfetti-assets.s3-us-west-2.amazonaws.com/images/posts/maryland-fried-chicken.jpg "Maryland Fried Chicken")
+![Maryland Fried Chicken]({{site.assets.url_prefix}}/images/posts/maryland-fried-chicken.jpg "Maryland Fried Chicken")
 
 You'll probably think it's better than KFC.
 

@@ -44,14 +44,14 @@ What I want to be? My ego ideal. I want to be Michael J. Fox's character Marty M
 ...OMG? Is Marty an Enneagram of Personality Type Six? I don't know for sure. What I idealized about him was that he was
 heartfelt and authentic. I just got distracted, god do I want school cafeteria style pizza for nostalgias sake.
 
-![cafeteria pizza](http://redconfetti-assets.s3-us-west-2.amazonaws.com/images/posts/square_cafeteria_pizza-300x214.jpg "cafeteria pizza")
+![cafeteria pizza]({{site.assets.url_prefix}}/images/posts/square_cafeteria_pizza-300x214.jpg "cafeteria pizza")
 
 WHAAAAAAAA!!!!!
 
 Anyway, when I was a kid I often used a red tshirt on myself. It could have been any color, but I chose red...with blue jeans.
 I sense that I idealized Marty McFly wearing the same type of outfit.
 
-![back to the future nikes](http://redconfetti-assets.s3-us-west-2.amazonaws.com/images/posts/backtothefuturenikes-300x196.jpg "back to the future nikes")
+![back to the future nikes]({{site.assets.url_prefix}}/images/posts/backtothefuturenikes-300x196.jpg "back to the future nikes")
 
 This later gets refined into a more "timeless" style which involves red, black, shades of grey, and the necessary black and
 white. A secondary thing which is allowed is of course dull green Courier font which emulates old monochrome computer monitor

@@ -14,7 +14,7 @@ Say what you will about our love...
 
 ... But nothing can come between a sasquatch and his pine.
 
-![Sasquatch and Pine in Love](http://assets.redconfetti.com/images/posts/sasquatch-and-pine-love.jpg "Sasquatch and Pine in Love")
+![Sasquatch and Pine in Love]({{site.assets.url_prefix}}/images/posts/sasquatch-and-pine-love.jpg "Sasquatch and Pine in Love")
 
 I saw this on the wall at a rehearsal studio in San Francisco. I just had to take a picture and share it. I should just make a blog of the things people write on the walls in rehearsal studios. Seriously.
 
