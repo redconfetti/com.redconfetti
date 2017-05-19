@@ -31,5 +31,5 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem 's3', '~> 0.3.25'
 
 # Neocities
-gem 'neocities'
+gem 'neocities', '~> 0.0.4'
 
