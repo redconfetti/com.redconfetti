@@ -1,6 +1,5 @@
 ---
 layout: post
-status: publish
 published: true
 title: Pepe Deluxe Indifference
 author: maxwell keyes

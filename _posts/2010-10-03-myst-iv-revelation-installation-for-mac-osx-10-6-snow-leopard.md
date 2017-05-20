@@ -1,6 +1,5 @@
 ---
 layout: post
-status: publish
 published: true
 title: Myst IV (Revelation) Installation for Mac OSX 10.6 (Snow Leopard)
 author: maxwell keyes

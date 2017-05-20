@@ -1,6 +1,5 @@
 ---
 layout: post
-status: publish
 published: true
 title: Fast Food Hangover
 author: maxwell keyes

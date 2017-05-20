@@ -1,6 +1,5 @@
 ---
 layout: post
-status: publish
 published: true
 title: The Devil Teaches Us Too
 author: maxwell keyes

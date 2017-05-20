@@ -1,6 +1,5 @@
 ---
 layout: post
-status: publish
 published: true
 title: Why Can't I Be Healthy?
 author: maxwell keyes

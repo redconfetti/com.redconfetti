@@ -1,6 +1,5 @@
 ---
 layout: post
-status: publish
 published: true
 title: How to Get Healthy
 author: maxwell keyes

@@ -1,6 +1,5 @@
 ---
 layout: post
-status: publish
 published: true
 title: Sugar or Saturated Fats - Which is the Real Enemy?
 author: maxwell keyes

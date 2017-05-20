@@ -1,6 +1,5 @@
 ---
 layout: post
-status: publish
 published: true
 title: Awesome Defense from Bullied Kid in New Zealand
 author: maxwell keyes

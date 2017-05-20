@@ -1,6 +1,5 @@
 ---
 layout: post
-status: private
 published: false
 title: Shit My Mind Says
 author: maxwell keyes

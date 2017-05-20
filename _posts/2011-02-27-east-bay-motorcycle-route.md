@@ -1,6 +1,5 @@
 ---
 layout: post
-status: publish
 published: true
 title: East Bay Motorcycle Route
 author: maxwell keyes

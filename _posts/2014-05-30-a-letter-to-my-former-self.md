@@ -1,6 +1,5 @@
 ---
 layout: post
-status: publish
 published: true
 title: A Letter to My Former Self
 author: maxwell keyes
@@ -10,8 +9,10 @@ date: '2014-05-30 03:20:34 -0700'
 date_gmt: '2014-05-30 07:20:34 -0700'
 categories:
 - personal
-tags: []
-comments: []
+tags:
+- pick up artist
+- misogyny
+- elliot rodgers
 ---
 
 This is a work in progress.

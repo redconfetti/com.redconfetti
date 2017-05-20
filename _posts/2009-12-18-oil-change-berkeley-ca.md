@@ -1,6 +1,5 @@
 ---
 layout: post
-status: publish
 published: true
 title: Oil Change, Berkeley CA
 author: maxwell keyes

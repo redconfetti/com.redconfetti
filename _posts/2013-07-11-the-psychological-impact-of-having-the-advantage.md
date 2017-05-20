@@ -1,6 +1,5 @@
 ---
 layout: post
-status: publish
 published: true
 title: The Psychological Impact of Having the Advantage
 author: maxwell keyes

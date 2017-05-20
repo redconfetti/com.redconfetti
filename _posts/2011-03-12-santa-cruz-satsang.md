@@ -1,6 +1,5 @@
 ---
 layout: post
-status: publish
 published: true
 title: Santa Cruz Satsang
 author: maxwell keyes

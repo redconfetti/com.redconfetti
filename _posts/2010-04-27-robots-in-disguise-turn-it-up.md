@@ -1,6 +1,5 @@
 ---
 layout: post
-status: publish
 published: true
 title: Robots in Disguise - Turn It Up
 author: maxwell keyes

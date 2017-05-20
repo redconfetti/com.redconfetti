@@ -1,6 +1,5 @@
 ---
 layout: post
-status: publish
 published: true
 title: Die Antwoord is The Answer
 author: maxwell keyes

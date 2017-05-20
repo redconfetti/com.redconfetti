@@ -1,6 +1,5 @@
 ---
 layout: post
-status: publish
 published: true
 title: Netflix is Throwing It All Away
 author: maxwell keyes

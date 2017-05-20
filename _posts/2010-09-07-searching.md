@@ -1,6 +1,5 @@
 ---
 layout: post
-status: publish
 published: true
 title: Searching
 author: maxwell keyes

@@ -1,6 +1,5 @@
 ---
 layout: post
-status: publish
 published: true
 title: Unjoining a FireChat on Android
 author: maxwell keyes

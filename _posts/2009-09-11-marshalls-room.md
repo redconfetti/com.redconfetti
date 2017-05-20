@@ -1,6 +1,5 @@
 ---
 layout: post
-status: publish
 published: false
 title: Marshalls Room
 author: maxwell keyes

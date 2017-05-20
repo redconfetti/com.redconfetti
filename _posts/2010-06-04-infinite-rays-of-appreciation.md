@@ -1,6 +1,5 @@
 ---
 layout: post
-status: publish
 published: true
 title: Infinite Rays of Appreciation
 author: maxwell keyes

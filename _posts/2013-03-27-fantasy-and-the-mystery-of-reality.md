@@ -1,6 +1,5 @@
 ---
 layout: post
-status: publish
 published: true
 title: Fantasy and the Mystery of Reality
 author: maxwell keyes

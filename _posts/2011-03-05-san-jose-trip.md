@@ -1,6 +1,5 @@
 ---
 layout: post
-status: publish
 published: true
 title: First Highway Trip to San Jose
 author: maxwell keyes

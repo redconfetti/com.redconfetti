@@ -1,6 +1,5 @@
 ---
 layout: post
-status: publish
 published: true
 title: The Path to Success
 author: maxwell keyes

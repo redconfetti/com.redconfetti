@@ -1,6 +1,5 @@
 ---
 layout: post
-status: publish
 published: true
 title: Procrastination
 author: maxwell keyes

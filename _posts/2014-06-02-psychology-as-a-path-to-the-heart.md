@@ -1,6 +1,5 @@
 ---
 layout: post
-status: publish
 published: true
 title: Psychology as a Path to the Heart
 author: maxwell keyes
@@ -9,7 +8,9 @@ date_gmt: '2014-06-02 14:42:11 -0700'
 categories:
 - personal
 - spirituality
-tags: []
+tags:
+- psychology
+- heart
 comments:
 - id: 25344
   author: Misa Christina

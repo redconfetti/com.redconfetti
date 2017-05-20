@@ -1,6 +1,5 @@
 ---
 layout: post
-status: publish
 published: true
 title: Cool Quotes on Education
 author: maxwell keyes

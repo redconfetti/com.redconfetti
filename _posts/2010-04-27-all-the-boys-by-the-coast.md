@@ -1,6 +1,5 @@
 ---
 layout: post
-status: publish
 published: true
 title: '"All the Boys" by The Coast'
 author: maxwell keyes

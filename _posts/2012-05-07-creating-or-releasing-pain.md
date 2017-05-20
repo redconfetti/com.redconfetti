@@ -1,6 +1,5 @@
 ---
 layout: post
-status: publish
 published: true
 title: Creating or Releasing Pain
 author: maxwell keyes

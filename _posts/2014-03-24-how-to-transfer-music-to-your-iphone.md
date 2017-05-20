@@ -1,6 +1,5 @@
 ---
 layout: post
-status: publish
 published: true
 title: How to Transfer Music to your iPhone
 author: maxwell keyes

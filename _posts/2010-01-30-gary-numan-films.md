@@ -1,6 +1,5 @@
 ---
 layout: post
-status: publish
 published: true
 title: Gary Numan - Films
 author: maxwell keyes

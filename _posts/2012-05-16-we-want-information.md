@@ -1,6 +1,5 @@
 ---
 layout: post
-status: publish
 published: true
 title: We Want Information
 author: maxwell keyes

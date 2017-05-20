@@ -1,6 +1,5 @@
 ---
 layout: post
-status: publish
 published: true
 title: How to Loose Weight, Feel Great, and Drop the Medication
 author: maxwell keyes

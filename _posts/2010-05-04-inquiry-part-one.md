@@ -1,6 +1,5 @@
 ---
 layout: post
-status: publish
 published: true
 title: Inquiry - Part One
 author: maxwell keyes

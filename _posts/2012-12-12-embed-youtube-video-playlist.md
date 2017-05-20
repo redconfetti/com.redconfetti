@@ -1,6 +1,5 @@
 ---
 layout: post
-status: publish
 published: true
 title: Embed YouTube Video Playlist
 author: maxwell keyes

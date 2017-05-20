@@ -1,6 +1,5 @@
 ---
 layout: post
-status: publish
 published: true
 title: Representing your Social Change Ideology
 author: maxwell keyes

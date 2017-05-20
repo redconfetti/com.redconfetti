@@ -1,6 +1,5 @@
 ---
 layout: post
-status: publish
 published: true
 title: Motorcycles, not Scooters?
 author: maxwell keyes

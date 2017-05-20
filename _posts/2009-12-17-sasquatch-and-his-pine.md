@@ -1,6 +1,5 @@
 ---
 layout: post
-status: publish
 published: true
 title: Sasquatch and his Pine
 author: maxwell keyes

@@ -1,6 +1,5 @@
 ---
 layout: post
-status: publish
 published: true
 title: The Church cover Disarm by The Smashing Pumpkins
 date: '2010-04-23 12:35:37 -0700'

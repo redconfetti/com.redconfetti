@@ -1,6 +1,5 @@
 ---
 layout: post
-status: publish
 published: true
 title: Ableton Live Newbie
 author: maxwell keyes

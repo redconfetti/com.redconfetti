@@ -1,6 +1,5 @@
 ---
 layout: post
-status: publish
 published: true
 title: Come on! Just let the boy sleep in your bed!!
 author: maxwell keyes

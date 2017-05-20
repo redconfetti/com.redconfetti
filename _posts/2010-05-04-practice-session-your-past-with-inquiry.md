@@ -1,6 +1,5 @@
 ---
 layout: post
-status: publish
 published: true
 title: 'Practice Session: Your Past Experience with Inquiry'
 author: maxwell keyes

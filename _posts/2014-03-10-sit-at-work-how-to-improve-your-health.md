@@ -1,6 +1,5 @@
 ---
 layout: post
-status: publish
 published: true
 title: Sit at work? How to Improve your Health
 author: maxwell keyes

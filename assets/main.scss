@@ -1,0 +1,18 @@
+---
+---
+
+/*
+  Imports styles from Minima theme
+  https://github.com/jekyll/minima
+*/
+@import "minima";
+
+.classic-table-style {
+  border: 1px solid #000;
+  border-collapse: collapse;
+  td, th {
+    border: 1px solid black;
+    margin: 0;
+    padding: 10px;
+  }
+}

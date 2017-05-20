@@ -1,6 +1,5 @@
 ---
 layout: post
-status: publish
 published: true
 title: I remember, It is true
 author: maxwell keyes

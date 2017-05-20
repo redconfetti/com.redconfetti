@@ -1,6 +1,5 @@
 ---
 layout: post
-status: publish
 published: true
 title: Golden Pot Tree
 author: maxwell keyes

@@ -1,6 +1,5 @@
 ---
 layout: post
-status: publish
 published: true
 title: The Responsibility of the Triggered
 author: maxwell keyes

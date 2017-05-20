@@ -1,6 +1,5 @@
 ---
 layout: post
-status: publish
 published: true
 title: San Francisco Bay Area Hiking Suggestions
 author: maxwell keyes

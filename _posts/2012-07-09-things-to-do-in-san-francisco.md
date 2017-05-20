@@ -1,6 +1,5 @@
 ---
 layout: post
-status: publish
 published: true
 title: Things to Do in San Francisco
 author: maxwell keyes

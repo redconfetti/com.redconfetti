@@ -1,6 +1,5 @@
 ---
 layout: post
-status: publish
 published: true
 title: Burger King Coffee
 author: maxwell keyes

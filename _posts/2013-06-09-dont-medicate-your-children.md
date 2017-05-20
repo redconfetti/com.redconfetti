@@ -1,6 +1,5 @@
 ---
 layout: post
-status: publish
 published: true
 title: Don't Medicate Your Children
 author: maxwell keyes

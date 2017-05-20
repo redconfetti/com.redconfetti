@@ -1,6 +1,5 @@
 ---
 layout: post
-status: publish
 published: true
 title: Maxi Scooter
 author: maxwell keyes

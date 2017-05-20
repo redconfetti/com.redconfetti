@@ -1,6 +1,5 @@
 ---
 layout: post
-status: publish
 published: true
 title: Aggressive Type 6 Explosion
 author: maxwell keyes

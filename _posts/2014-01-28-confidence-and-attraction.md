@@ -1,6 +1,5 @@
 ---
 layout: post
-status: publish
 published: true
 title: Confidence and Attraction
 author: maxwell keyes
@@ -13,7 +12,6 @@ tags:
 - masculinity
 - vulnerability
 - dating
-comments: []
 ---
 
 For the longest time I've been convinced that women are attracted to confident men because they're not nice, a sort of

@@ -1,6 +1,5 @@
 ---
 layout: post
-status: publish
 published: true
 title: Conscious Capitalism and the Power of Choice
 author: maxwell keyes

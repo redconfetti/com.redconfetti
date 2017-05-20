@@ -1,6 +1,5 @@
 ---
 layout: post
-status: publish
 published: true
 title: Value and Self Esteem
 author: maxwell keyes
@@ -9,8 +8,9 @@ date_gmt: '2017-05-08 21:36:24 -0700'
 categories:
 - personal
 - spirituality
-tags: []
-comments: []
+tags:
+- self esteem
+- value
 ---
 
 I attended a workshop this weekend that I believe may be a turning point for me spiritually, if I honor it and let it.

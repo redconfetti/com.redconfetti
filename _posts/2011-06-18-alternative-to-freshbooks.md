@@ -1,6 +1,5 @@
 ---
 layout: post
-status: publish
 published: true
 title: Alternative to Freshbooks
 author: maxwell keyes
@@ -8,7 +7,6 @@ date: '2011-06-18 16:23:57 -0700'
 date_gmt: '2011-06-18 20:23:57 -0700'
 categories:
 - web development
-tags: []
 comments:
 - id: 2467
   author: emma dcosta

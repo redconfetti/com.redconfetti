@@ -1,6 +1,5 @@
 ---
 layout: post
-status: publish
 published: true
 title: Easily Share Songs with Friends on Spotify
 author: maxwell keyes
