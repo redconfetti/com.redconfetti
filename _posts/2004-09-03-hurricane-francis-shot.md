@@ -12,6 +12,6 @@ tags:
 
 Here is another good shot
 
-![hurricane frances]({{site.assets.url_prefix}}/images/posts/hurricane-frances-florida.jpg "hurricane frances")
+![Hurricane Frances]({{site.assets.url_prefix}}/images/posts/hurricane-frances-florida.jpg "Hurricane Frances")
 
 Taken from [http://www.noaa.gov/](http://www.noaa.gov/)
