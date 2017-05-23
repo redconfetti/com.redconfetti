@@ -23,7 +23,7 @@ twitter_username: redconfetti
 github_username:  redconfetti
 
 assets:
-  url_prefix: '//assets.redconfetti.com.s3.amazonaws.com'
+  url_prefix: '//s3-us-west-2.amazonaws.com/assets.redconfetti.com'
 
 # Build settings
 markdown: kramdown

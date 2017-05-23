@@ -12,7 +12,7 @@ tags:
 - iTunes
 ---
 
-<img src="/assets/images/posts/iphone-itunes.png" width="350" alt="iPhone iTunes" title="iPhone iTunes">
+<img src="{{site.assets.url_prefix}}/assets/images/posts/iphone-itunes.png" width="350" alt="iPhone iTunes" title="iPhone iTunes">
 
 This article is for new iPhone users.
 
