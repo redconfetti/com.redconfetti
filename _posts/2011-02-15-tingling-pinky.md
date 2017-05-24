@@ -137,7 +137,7 @@ noticed that the right hand was more numb and tingly than it is during the day. 
 [Cubital Tunnel Syndrome](http://en.wikipedia.org/wiki/Ulnar_nerve_entrapment#Cubital_Tunnel_Syndrome). I guess some
 call this 'Cell Phone Elbow Syndrome'.
 
-[<img title="cubital-tunnel-syndrome" src="http://assets.redconfetti.com/images/posts/cubital-tunnel-syndrome.jpg" alt="" width="300" />](http://www.thepicky.com/gadgets/what-is-cell-phone-elbow-syndrome/)
+[<img title="cubital-tunnel-syndrome" src="{{site.assets.url_prefix}}/images/posts/cubital-tunnel-syndrome.jpg" alt="" width="300" />](http://www.thepicky.com/gadgets/what-is-cell-phone-elbow-syndrome/)
 
 > __Cubital tunnel syndrome__ occurs when the ulnar nerve is obstructed during its path along the
 [cubital tunnel](http://en.wikipedia.org/wiki/Cubital_tunnel); the outer edge of the elbow. This compression of the

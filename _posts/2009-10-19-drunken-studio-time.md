@@ -9,7 +9,7 @@ categories:
 - web development
 ---
 
-[Josh in my closet drunk](http://assets.redconfetti.com/mp3/misc/josh-drunk-improvisation.mp3)
+[Josh in my closet drunk]({{site.assets.url_prefix}}/mp3/misc/josh-drunk-improvisation.mp3)
 
 <audio controls>
   <source src="{{site.assets.url_prefix}}/mp3/misc/josh-drunk-improvisation.mp3" type="audio/mpeg">

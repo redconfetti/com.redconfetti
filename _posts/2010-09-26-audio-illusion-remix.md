@@ -16,6 +16,6 @@ I decided to make a "remix" of the [Audio Illusion](http://www.youtube.com/watch
 [Audio Illusion Remix]({{site.assets.url_prefix}}/images/posts/mp3/misc/audio-illusion-remix.mp3)
 
 <audio controls>
-  <source src="http://redconfetti-assets.s3-us-west-2.amazonaws.com/mp3/misc/audio-illusion-remix.mp3" type="audio/mpeg">
+  <source src="{{site.assets.url_prefix}}/mp3/misc/audio-illusion-remix.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>

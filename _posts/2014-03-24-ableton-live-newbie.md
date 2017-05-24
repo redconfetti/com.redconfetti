@@ -55,7 +55,7 @@ Kawehi used in her Heart Shaped Box video, but it looks like she's actually usin
 [M-Audio Axiom AIR Mini 32](http://www.m-audio.com/products/en_us/AxiomAIRMini32New.html) that retails for about the
 same price.
 
-[<img alt="MPK Mini" src="http://redconfetti-assets.s3-us-west-2.amazonaws.com/images/posts/mpkmini.png" width="300" height="187" />](http://www.akaipro.com/product/mpkmini)
+[<img alt="MPK Mini" src="{{site.assets.url_prefix}}/images/posts/mpkmini.png" width="300" height="187" />](http://www.akaipro.com/product/mpkmini)
 
 I was just looking through some of the other MIDI interfaces that complement Ableton Live really well. It looks like
 the other thing Kawehi uses is a
@@ -63,7 +63,7 @@ the other thing Kawehi uses is a
 [Launchpad S](http://us.novationmusic.com/midi-controllers-digital-dj/launchpad-s), which goes for about $150, or the
 [Launchpad Mini](http://us.novationmusic.com/midi-controllers-digital-dj/launchpad-mini), which goes for $100.
 
-<img alt="Novation Launchpad S" src="http://redconfetti-assets.s3-us-west-2.amazonaws.com/images/posts/novation-launchpad-s.jpg" width="400">
+<img alt="Novation Launchpad S" src="{{site.assets.url_prefix}}/images/posts/novation-launchpad-s.jpg" width="400">
 
 Some other MIDI controllers that I might consider to complement or replace the MPK Mini are Akai's
 [APC20](http://www.akaipro.com/product/apc20) (retails for $200) or [APC40](http://www.akaipro.com/product/apc40).
@@ -71,4 +71,4 @@ Or ultimately, the new [Push interface](https://www.ableton.com/en/push/) (retai
 [$565 on Amazon](http://www.amazon.com/Ableton-Push-Controller-Touch-Sensitive-Encoders/dp/B00AZ98TVS)) seems to be
 the creme de la creme currently.
 
-<img alt="Ableton Push" src="http://redconfetti-assets.s3-us-west-2.amazonaws.com/images/posts/ableton-push.jpg" width="400">
+<img alt="Ableton Push" src="{{site.assets.url_prefix}}/images/posts/ableton-push.jpg" width="400">

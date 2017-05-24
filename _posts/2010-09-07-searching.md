@@ -18,7 +18,7 @@ comments: []
 [Audio Illusion Remix]({{site.assets.url_prefix}}/images/mp3/misc/redconfetti-searching.mp3)
 
 <audio controls>
-  <source src="http://redconfetti-assets.s3-us-west-2.amazonaws.com/mp3/misc/redconfetti-searching.mp3" type="audio/mpeg">
+  <source src="{{site.assets.url_prefix}}/mp3/misc/redconfetti-searching.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 
