@@ -15,6 +15,8 @@ tags:
 
 Based on [Full Emoji Data, v5.0](http://unicode.org/emoji/charts/full-emoji-list.html)
 
+There is also a great cheat sheet at [Emoji Cheat Sheet](http://www.emoji-cheat-sheet.com/)
+
 | Emoji | HTML Escape Code | Description |
 | ----- | ---- | ----------- |
 | &#x1F914; | `&#x1F914;` | thinking face |
