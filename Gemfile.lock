@@ -85,10 +85,9 @@ DEPENDENCIES
   minima (~> 2.0)
   neocities (~> 0.0.4)
   s3 (~> 0.3.25)
-  tzinfo-data
 
 RUBY VERSION
-   ruby 2.2.1p85
+   ruby 2.4.2p198
 
 BUNDLED WITH
-   1.14.6
+   1.16.0
