@@ -28,6 +28,8 @@ menu.
 
 # Au Coquelet
 
+[Website][16]
+
 [2000 University Ave, Berkeley, CA 94704][11]
 
 > Casual eats like sandwiches & pastries are available in a laid-back setting
@@ -44,7 +46,27 @@ They have brunch on weekends until 3 PM, with my all time favorite being the
 Blackstone Eggs Benedict. It comes with home fries that I like to pour Cholula
 hot sauce over.
 
+# Aunt Mary’s Cafe
+
+[Website][14]
+
+[4640 Telegraph Ave, Oakland, CA 94609][13]
+
+> A cozy local cafe serving homey comfort food with a Southern & Southwestern
+> twist in an airy space.
+
+# Betty’s Seaview Dinner
+
+[Website][15]
+
+[1807 Fourth St, Berkeley, CA 94710][12]
+
+> Landmark neighborhood diner dishes out breakfast classics with a twist, like
+> soufflé pancakes.
+
 # Brown Sugar Kitchen
+
+[Website][20]
 
 [2534 Mandela Pkwy, Oakland, CA 94607][1]
 
@@ -52,6 +74,8 @@ hot sauce over.
 > until 3 PM daily.
 
 # 900 Grayson St
+
+[Menu][19]
 
 [900 Grayson St, Berkeley, CA 94710][2]
 
@@ -78,6 +102,8 @@ This place has the same owner as Doña Tomás.
 
 # Bakesale Betty
 
+[Website][17]
+
 [5098 Telegraph Ave, Oakland, CA 94609][5]
 
 > Lunchtime bakery is a popular take-out stop for hefty fried chicken
@@ -87,6 +113,8 @@ I've had brunch here. They definitely have a menu you should check out.
 
 # Paradise Park Cafe
 
+[Website][18]
+
 [6334 San Pablo Ave, Oakland, CA 94608][6]
 
 > Convivial, family-friendly cafe for locally sourced & organic Californian
@@ -94,7 +122,9 @@ I've had brunch here. They definitely have a menu you should check out.
 
 # Lama Beans
 
-[1290 6th St, Berkeley, CA 94710][7] - [Menu][8]
+[Menu][8]
+
+[1290 6th St, Berkeley, CA 94710][7]
 
 > A casual cafe that dishes out American, Southwestern & Middle Eastern
 > favorites & breakfast all day.
@@ -113,3 +143,12 @@ serviced at [Berkeley Performance Motorcycle][9] nearby.
 [9]: http://www.bpmotorcycle.com/
 [10]: https://www.google.com/maps/place/Doyle+Street+Cafe/@37.8381187,-122.2892876,17z/data=!3m1!4b1!4m5!3m4!1s0x80857e69c6b1190f:0x4cb6776373016f4d!8m2!3d37.8381145!4d-122.2870936
 [11]: https://www.google.com/maps/place/Au+Coquelet/@37.8717402,-122.272772,17z/data=!3m1!4b1!4m5!3m4!1s0x80857e9ecee58a53:0x215ae5eaba9dda86!8m2!3d37.871736!4d-122.270578
+[12]: https://www.google.com/maps/place/Bette's+Oceanview+Diner/@37.8698197,-122.3026645,17z/data=!3m1!4b1!4m5!3m4!1s0x80857edd314a21fd:0x23c3f24958a1705b!8m2!3d37.8698197!4d-122.3004705
+[13]: https://www.google.com/maps/place/Aunt+Mary's+Cafe/@37.8341343,-122.2650834,17z/data=!4m5!3m4!1s0x80857de261216825:0xb81ef5f34a63df21!8m2!3d37.8341343!4d-122.2628894
+[14]: http://www.auntmaryscafe.com/
+[15]: http://bettesdiner.com/
+[16]: http://www.aucoquelet.com/
+[17]: http://www.bakesalebetty.com/
+[18]: https://www.paradiseparkcafe.com/
+[19]: https://www.900grayson.com/900-grayson-menus/
+[20]: http://www.brownsugarkitchen.com/
