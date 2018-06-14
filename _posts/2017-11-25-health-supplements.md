@@ -24,6 +24,7 @@ promote relaxation
 * [VitaMonk™ Pregnenolone][6] - Supplement to Support Brain Power and Neuroplasticity
 * [Reserveage - Resveratrol][7] - Promotes healthy collagen, keratin, and
 elastin
+* [Qualia Mind][8] - Nootropic stack, promotes mental capacities, energy, etc.
 
 [1]: https://www.linkedin.com/in/marshallsontag
 [2]: https://www.amazon.com/Antarctic-Strength-Omega-3s-Astaxanthin-Softgels/dp/B00IP1E3O0
@@ -32,3 +33,4 @@ elastin
 [5]: https://www.amazon.com/MAGNESIUM-InnovixLabs-Bioavailable-Bisglycinate-Vegetarian/dp/B00QSR9D9I/
 [6]: https://www.amazon.com/gp/product/B01L7L19Q4/
 [7]: https://www.amazon.com/Reserveage-Resveratrol-Cellular-Age-Defying-Formula/dp/B002WC8178/
+[8]: http://a.co/hnnNAVK

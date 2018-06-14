@@ -1,4 +1,4 @@
-source "https://rubygems.org"
+source 'https://rubygems.org'
 ruby RUBY_VERSION
 
 # Hello! This is where you manage which Jekyll version is used to run.
@@ -31,5 +31,5 @@ end
 gem 's3', '~> 0.3.25'
 
 # Neocities
-gem 'neocities', '~> 0.0.4'
+gem 'neocities', '~> 0.0.9'
 # gem 'neocities', '~> 0.0.4', :git => 'https://github.com/redconfetti/neocities-ruby.git', :branch => 'cli_resp_error'
