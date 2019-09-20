@@ -22,14 +22,10 @@ url: "redconfetti.com" # the base hostname & protocol for your site, e.g. http:/
 twitter_username: redconfetti
 github_username:  redconfetti
 
-assets:
-  # url_prefix: '//s3-us-west-2.amazonaws.com/assets.redconfetti.com'
-  url_prefix: '/assets'
-
 # Build settings
 markdown: kramdown
 theme: minima
-gems:
+plugins:
   - jekyll-feed
 exclude:
   - Gemfile
