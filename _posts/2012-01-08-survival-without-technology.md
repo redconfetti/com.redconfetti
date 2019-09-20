@@ -38,7 +38,7 @@ I love the spirit of the internet to provide open source software to benefit hum
 community of engineers contributing their ideas to the open source community, known as
 [Global Village Construction Set](http://opensourceecology.org/wiki/Global_Village_Construction_Set).
 
-<iframe src="http://player.vimeo.com/video/16106427?title=0&byline=0&portrait=0" width="400" height="225" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+<iframe src="//player.vimeo.com/video/16106427?title=0&byline=0&portrait=0" width="400" height="225" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 
 [Global Village Construction Set in 2 Minutes](http://vimeo.com/16106427) from
 [Open Source Ecology](http://vimeo.com/opensourceecology).
