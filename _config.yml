@@ -20,7 +20,10 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "redconfetti.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: redconfetti
-github_username:  redconfetti
+github_username: redconfetti
+
+assets:
+  url_prefix: "//s3-us-west-1.amazonaws.com/assets.redconfetti.com"
 
 # Build settings
 markdown: kramdown
