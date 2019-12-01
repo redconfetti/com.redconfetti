@@ -3,15 +3,16 @@
 # only Main files contain this front matter, not partials.
 # See https://github.com/jekyll/jekyll-sass-converter/tree/master/example
 ---
-$asset-url: '{{site.assets.url_prefix}}';
+
+$asset-url: "{{site.assets.url_prefix}}";
 
 body {
-  background: #46220C url(#{$asset-url}/images/pages/resume/woodgrain.jpg);
-  font-family: Arial,Helvetica,sans-serif;
+  background: #46220c url(#{$asset-url}/images/pages/resume/woodgrain.jpg);
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 75%;
   font-size-adjust: none;
   font-style: normal;
-	font-variant: normal;
+  font-variant: normal;
   font-weight: normal;
   line-height: 1;
   padding: 0;
@@ -20,12 +21,12 @@ body {
 
 dt {
   line-height: 22px;
-  color:#333;
-  font-weight:bold;
+  color: #333;
+  font-weight: bold;
 }
 
 dd {
-  line-height:18px;
+  line-height: 18px;
 }
 
 h1 {
@@ -62,8 +63,8 @@ a:hover {
 }
 
 a:active {
-  color:#009;
-  text-decoration:none;
+  color: #009;
+  text-decoration: none;
 }
 
 /* Navigation */
@@ -75,7 +76,7 @@ a:active {
   border-bottom: 1px solid #373737;
   height: 4.1em;
   color: #666666;
-  font-family: "Palatino","Georgia","Baskerville",serif;
+  font-family: "Palatino", "Georgia", "Baskerville", serif;
 }
 
 #nav ul {
@@ -118,7 +119,8 @@ h1#header {
 }
 
 #container {
-  background: #FFFFFF url(#{$asset-url}/images/pages/resume/papergrain2.jpg) repeat scroll 0 0;
+  background: #ffffff url(#{$asset-url}/images/pages/resume/papergrain2.jpg)
+    repeat scroll 0 0;
   color: #444444;
   margin: 50px auto;
   padding: 20px 60px;
@@ -133,7 +135,8 @@ h1#header {
   position: relative;
   top: -36px;
   left: 680px;
-  z-index: 10; }
+  z-index: 10;
+}
 
 #content {
   margin-top: -345px;
@@ -162,7 +165,7 @@ h1#header {
 }
 
 #contact ul {
-  font-family: georgia,times New Roman,times,serif;
+  font-family: georgia, times New Roman, times, serif;
   font-size: 16px;
   letter-spacing: 0.9px;
   line-height: 20px;
@@ -182,7 +185,7 @@ h1#header {
 /* ########################################################################################## */
 /* Experience */
 .position {
-  background: #DDD;
+  background: #ddd;
   padding: 5px 15px;
   margin-bottom: 5px;
 }
@@ -197,8 +200,8 @@ h1#header {
 /* Print Stylesheet */
 @media print {
   body {
-    background: #FFF;
-    font-family: Arial,Helvetica,sans-serif;
+    background: #fff;
+    font-family: Arial, Helvetica, sans-serif;
     font-style: normal;
     font-variant: normal;
     font-weight: normal;
@@ -277,7 +280,7 @@ h1#header {
   }
 
   #container {
-    background: #FFF;
+    background: #fff;
     color: #444444;
     margin: 10px auto;
     padding: 20px 60px;
@@ -289,7 +292,10 @@ h1#header {
     display: none;
   }
 
-  div#tools, div#nav, div#nav_dropShadow, div#polaroid {
+  div#tools,
+  div#nav,
+  div#nav_dropShadow,
+  div#polaroid {
     display: none;
   }
 
@@ -300,7 +306,7 @@ h1#header {
   }
 
   #contact ul {
-    font-family: georgia,times New Roman,times,serif;
+    font-family: georgia, times New Roman, times, serif;
     font-size: 14px;
     line-height: 18px;
     list-style-image: none;
@@ -318,9 +324,10 @@ h1#header {
 
   /* ######################### */
   /* Experience */
-  #experience { }
+  #experience {
+  }
   .position {
-    background: #DDD;
+    background: #ddd;
     padding: 0 15px;
     margin-bottom: 5px;
   }
@@ -329,7 +336,7 @@ h1#header {
   /* Interest */
   #interests {
     ul {
-      font-family: arial,helvetica,sans-serif;
+      font-family: arial, helvetica, sans-serif;
       font-size: 14px;
       line-height: 18px;
       list-style-position: outside;
@@ -340,5 +347,6 @@ h1#header {
 
   /* ########################################################################################## */
   /* References */
-  #references     { }
+  #references {
+  }
 }
