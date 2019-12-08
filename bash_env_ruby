@@ -11,3 +11,7 @@ export PATH="$PATH:$HOME/.rvm/bin"
 alias rspec="LOGGER_STDOUT=false bundle exec rspec --format documentation"
 alias gemdir='cd $(rvm gemset gemdir)'
 
+# Path to QT libraries (Cucumber)
+if [ -d "$HOME/Qt5.5.0/5.5/clang_64/bin" ] ; then
+  export PATH="$HOME/Qt5.5.0/5.5/clang_64/bin:$PATH"
+fi
