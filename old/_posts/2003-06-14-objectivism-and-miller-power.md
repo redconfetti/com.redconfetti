@@ -26,7 +26,7 @@ support free-will, and I think that the type of determinism which I think exists
 doesn't negate free-will.
 
 But I hold this idea with an open mind ready to take on any ideas which Rand's
-philosophy has t! o offer me. I'm waiting for an idea to correct a false premise
+philosophy has to offer me. I'm waiting for an idea to correct a false premise
 I might have. I haven't finished learning about her philosophy, and I've hardly
 read anyone elses philosophy. I'm going to wait until I finish studying
 Objectivism to study the other philosophies and to critique them from the point
@@ -40,7 +40,7 @@ doesn't agree, and he's going to develop his own philosophy, aptly titled
 his philosophy, but after his last name - Lundy. If I was to put a name to what
 I understand of reality right now, I'd probably call mine something like
 "Objective Determinism", or probably not call it a philosophy but "Theory of
-Deterministic Physics". I haven'! t studied anything of physics or quantum
+Deterministic Physics". I haven't studied anything of physics or quantum
 physics or anything of the sc mined order, a random chaos, or some third option
 which I know nothing of.
 
@@ -67,9 +67,9 @@ Lundy has his own philosophy now, and his own domain name -
 
 Here are my parody images
 
-- [Miller-Power 1]({{site.assets.url_prefix}}/images/millerism1.jpg)
-- [Miller-Power 2]({{site.assets.url_prefix}}/images/millerism2.jpg)
-- [Miller-Power 3]({{site.assets.url_prefix}}/images/millerism3.jpg)
-- [Miller-Power 4]({{site.assets.url_prefix}}/images/millerism4.jpg)
-- [Miller-Power 5]({{site.assets.url_prefix}}/images/millerism5.jpg)
-- [Lundaism]({{site.assets.url_prefix}}/images/lundaism.jpg)
+- [Miller-Power 1]({{site.assets.url_prefix}}/images/posts/2003-06-14-millerism1.jpg)
+- [Miller-Power 2]({{site.assets.url_prefix}}/images/posts/2003-06-14-millerism2.jpg)
+- [Miller-Power 3]({{site.assets.url_prefix}}/images/posts/2003-06-14-millerism3.jpg)
+- [Miller-Power 4]({{site.assets.url_prefix}}/images/posts/2003-06-14-millerism4.jpg)
+- [Miller-Power 5]({{site.assets.url_prefix}}/images/posts/2003-06-14-millerism5.jpg)
+- [Lundaism]({{site.assets.url_prefix}}/images/posts/2003-06-14-lundaism.jpg)
