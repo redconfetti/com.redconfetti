@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Healthy Lifestyle
 author: maxwell keyes
 date: "2019-12-10 19:07:56 -0800"
