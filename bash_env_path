@@ -4,6 +4,7 @@ if [ -d "/Applications/Julia-1.2.app/Contents/Resources/julia/bin" ] ; then
 fi
 
 # User specific environment and startup programs
+[[ -d "$HOME/.rbenv/bin" ]] && PATH="$HOME/.rbenv/bin:$PATH"
 [[ -d "$HOME/bin" ]] && PATH="$PATH:$HOME/bin"
 [[ -d "$HOME/.local/bin" ]] && PATH="$PATH:$HOME/.local/bin"
 [[ -d "/usr/local/sbin" ]] && PATH="$PATH:/usr/local/sbin"
