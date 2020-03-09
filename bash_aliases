@@ -1,5 +1,6 @@
 # User specific aliases and functions
 
+alias be="bundle exec "
 alias flushmem="echo 'flush_all' | nc localhost 11211"
 alias ll='ls -alF'
 alias la='ls -A'
