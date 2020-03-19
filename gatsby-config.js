@@ -7,4 +7,12 @@
 module.exports = {
   /* Your site config here */
   /* plugins: ["gatsby-transformer-remark"], */
-}
+  plugins: [
+    {
+      resolve: "gatsby-plugin-typography",
+      options: {
+        pathToConfigModule: "src/utils/typography",
+      }
+    }
+  ]
+};
