@@ -11,6 +11,7 @@ To run the local Gatsby server, run `gatsby develop`.
 
 - [Gatsby Tutorial - Part Three](https://www.gatsbyjs.org/tutorial/part-three/)
 - [Gatsby Totirial - Part Four](https://www.gatsbyjs.org/tutorial/part-four/)
+- [Migrate from Jekyll to Gatsby](https://www.gatsbyjs.org/blog/2017-11-08-migrate-from-jekyll-to-gatsby/)
 - [Gatsby Config Docs](https://www.gatsbyjs.org/docs/gatsby-config/)
 - [Gatsby browser APIs](https://www.gatsbyjs.org/docs/browser-apis/)
 - [Gatsby Node APIs](https://www.gatsbyjs.org/docs/node-apis/)
