@@ -40,7 +40,13 @@ const BlogIndex = ({ data, location }: PageProps<Data>) => {
       <SEO title="All posts" />
       <Bio />
       {posts.map(({ node }) => {
+        const published = node.frontmatter.published
         const title = node.frontmatter.title || node.fields.slug
+
+        if (!published) {
+          return false
+        }
+
         return (
           <article key={node.fields.slug}>
             <header>
@@ -92,6 +98,7 @@ export const pageQuery = graphql`
             date(formatString: "MMMM DD, YYYY")
             title
             description
+            published
           }
         }
       }

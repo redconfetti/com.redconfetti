@@ -5,8 +5,8 @@ module.exports = {
       name: `Jason Miller`,
       summary: `who lives and works in Berkeley, CA developing websites and focusing on personal development.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
+    description: `The Journal of Maxwell Keyes.`,
+    siteUrl: `https://www.redconfetti.com/`,
     social: {
       facebook: `redconfetti`,
       github: `redconfetti`,
@@ -62,8 +62,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Starter Blog`,
-        short_name: `GatsbyJS`,
+        name: `redconfetti`,
+        short_name: `redconfetti`,
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#663399`,
