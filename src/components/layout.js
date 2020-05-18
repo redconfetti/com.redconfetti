@@ -3,7 +3,7 @@ import { Link } from "gatsby"
 
 import { rhythm, scale } from "../utils/typography"
 
-const Layout = ({ location, title, children }) => {
+const Layout = ({ location, title, authorName, children }) => {
   const rootPath = `${__PATH_PREFIX__}/`
   let header
 
@@ -59,7 +59,7 @@ const Layout = ({ location, title, children }) => {
       <header>{header}</header>
       <main>{children}</main>
       <footer>
-        © {new Date().getFullYear()}, Built with
+        © {new Date().getFullYear()} {authorName}, Built with
         {` `}
         <a href="https://www.gatsbyjs.org">Gatsby</a>
       </footer>

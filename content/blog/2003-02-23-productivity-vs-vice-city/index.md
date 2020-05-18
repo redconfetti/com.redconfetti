@@ -22,8 +22,9 @@ till 1pm.
 I'm working on improving that however. I'm going to try to devise a plan where I
 move to a 9am - 1am sleep schedule without making myself tired for many days....
 
-...I recently upgraded my computer with a new motherboard, Athlon XP 2100 processor, 512MB DDR RAM, a new case with a
-modified plexiglass cutout on the side and two red LED fans.
+...I recently upgraded my computer with a new motherboard, Athlon XP 2100
+processor, 512MB DDR RAM, a new case with a modified plexiglass cutout on the
+side and two red LED fans.
 
 In addition to this I also recently purchased Windows XP Professional, Norton
 AntiVirus 2003, and Microsoft Word 2002. Next thing on my to do list is to
