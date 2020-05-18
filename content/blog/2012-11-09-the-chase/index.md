@@ -1,0 +1,20 @@
+---
+layout: post
+published: true
+title: The Chase
+author: maxwell keyes
+date: '2012-11-09 19:14:17 -0800'
+date_gmt: '2012-11-09 23:14:17 -0800'
+categories:
+- recommended songs
+tags:
+- chymera
+---
+
+I found this gem recently. The vocal melody and tone of this woman's voice
+stayed with me recently. It almost reminds me of Alicia Keys on
+'[Unthinkable](http://www.youtube.com/watch?v=HhuGQUZJot8)'.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CCAXusH0r4g" frameborder="0" allowfullscreen></iframe>
+
+Emilie Harsongkram, your singing is beautiful.

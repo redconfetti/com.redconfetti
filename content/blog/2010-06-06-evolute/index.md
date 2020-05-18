@@ -1,0 +1,27 @@
+---
+layout: post
+published: true
+title: Evolute
+author: maxwell keyes
+date: '2010-06-06 02:24:43 -0700'
+date_gmt: '2010-06-06 06:24:43 -0700'
+categories:
+- music
+tags:
+- logic
+- my songs
+---
+
+Just installed Logic Pro and used it for the first time. Garageband of course was kind of like training wheels for
+the program, but it's a different beast than Garageband. But that's a good thing.
+
+Here is the first track I've produced.
+
+![Evolute](./evolute.jpg "Evolute")
+
+[Evolute](./redconfetti-evolute.mp3)
+
+<audio controls>
+  <source src="./redconfetti-evolute.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>

@@ -1,0 +1,23 @@
+---
+layout: post
+published: true
+title: SQL Book
+author: maxwell keyes
+date: '2003-02-23 19:43:00 -0500'
+categories:
+- personal
+tags:
+- SQL
+- PHP Programming
+---
+
+Well. I bought the SQL book I've been planning to buy. I've been touching up and
+commenting the code for this blog, so I can set one up for Marshall. Tuna's on
+his way over. I agreed to watch a movie with him, and let him have a Doc's Hard
+Lemon or Daniels Hard Cola. He's leaving right after the movie, and I'm going to
+start reading this SQL book.
+
+I'm trying to get excited about programming again. This is my goal, and its more
+important than philosophy right now. Philosophy doesn't pay the bills.
+
+I also setup a streaming audio server today using SHOUTcast.

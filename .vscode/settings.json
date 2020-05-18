@@ -2,11 +2,20 @@
   "editor.codeActionsOnSave": {
     "source.fixAll.eslint": true
   },
-  "editor.rulers": [
-    80,
-    120
-  ],
-  "eslint.validate": ["vue", "html", "javascript"],
+  "editor.formatOnSave": false,
+  "editor.rulers": [80, 120],
   "prettier.semi": false,
-  "editor.rulers": [80, 120]
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[vue]": {
+    "editor.defaultFormatter": "octref.vetur"
+  },
+  "[markdown]": {
+    "files.trimTrailingWhitespace": false
+  },
+  "eslint.validate": ["vue", "html", "javascript"],
 }
