@@ -1,4 +1,5 @@
 ---
+slug: "/blog/learning-active-server-pages"
 layout: post
 published: true
 title: Learning Active Server Pages

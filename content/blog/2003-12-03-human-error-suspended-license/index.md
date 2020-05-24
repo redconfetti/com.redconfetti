@@ -1,4 +1,5 @@
 ---
+slug: "/blog/human-error-and-suspended-license"
 layout: post
 published: true
 title: Human Error and Suspended License

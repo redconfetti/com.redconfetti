@@ -1,4 +1,5 @@
 ---
+slug: "/blog/budget-and-remote-development-job"
 layout: post
 published: true
 title: Budget and CGM Remote Development Job

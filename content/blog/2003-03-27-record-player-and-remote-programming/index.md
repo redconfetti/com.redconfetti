@@ -1,4 +1,5 @@
 ---
+slug: "/blog/record-player-and-remote-programming"
 layout: post
 published: true
 title: Record Player and Remote Programming

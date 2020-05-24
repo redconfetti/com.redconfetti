@@ -1,4 +1,5 @@
 ---
+slug: "/blog/learning-macromedia-flash"
 layout: post
 published: true
 title: Learning Macromedia Flash

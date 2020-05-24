@@ -1,4 +1,5 @@
 ---
+slug: "/blog/sober-by-tool"
 layout: post
 published: true
 title: Sober by Tool

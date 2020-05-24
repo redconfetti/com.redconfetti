@@ -1,4 +1,5 @@
 ---
+slug: "/blog/let-go-from-america-online"
 layout: post
 published: true
 title: Let Go From America Online

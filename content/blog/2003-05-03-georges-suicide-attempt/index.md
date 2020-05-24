@@ -1,4 +1,5 @@
 ---
+slug: "/blog/georges-suicide-attempt"
 layout: post
 published: true
 title: George's Suicide Attempt

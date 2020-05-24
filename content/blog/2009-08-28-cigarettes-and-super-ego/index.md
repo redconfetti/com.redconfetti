@@ -1,4 +1,5 @@
 ---
+slug: "/blog/cigarettes-and-super-ego"
 layout: post
 published: true
 title: Cigarettes and Super Ego

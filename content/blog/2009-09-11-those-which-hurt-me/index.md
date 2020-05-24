@@ -1,4 +1,5 @@
 ---
+slug: "/blog/those-which-hurt-me"
 layout: post
 published: false
 title: Those Which Hurt Me

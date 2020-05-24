@@ -1,4 +1,5 @@
 ---
+slug: "/blog/emotional-freedom-technique"
 layout: post
 published: true
 title: Emotional Freedom Technique

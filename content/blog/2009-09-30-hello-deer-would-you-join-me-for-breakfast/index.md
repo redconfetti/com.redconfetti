@@ -1,4 +1,5 @@
 ---
+slug: "/blog/hello-deer-would-you-join-me-for-breakfast"
 layout: post
 published: true
 title: Hello deer, would you join me for breakfast?

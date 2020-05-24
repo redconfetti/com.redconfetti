@@ -1,4 +1,5 @@
 ---
+slug: "/blog/burger-king-coffee"
 layout: post
 published: true
 title: Burger King Coffee

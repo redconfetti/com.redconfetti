@@ -1,4 +1,5 @@
 ---
+slug: "/blog/late-car-insurance"
 layout: post
 published: true
 title: Late Car Insurance Payment

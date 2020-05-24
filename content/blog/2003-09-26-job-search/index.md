@@ -1,4 +1,5 @@
 ---
+slug: "/blog/job-search"
 layout: post
 published: true
 title: Job Search

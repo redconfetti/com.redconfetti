@@ -1,4 +1,5 @@
 ---
+slug: "/blog/custom-punch-card-system"
 layout: post
 published: true
 title: Custom Punch Card System

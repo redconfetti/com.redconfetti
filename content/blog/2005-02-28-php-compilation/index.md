@@ -1,4 +1,5 @@
 ---
+slug: "/blog/php-compilation"
 layout: post
 published: true
 title: PHP Compilation

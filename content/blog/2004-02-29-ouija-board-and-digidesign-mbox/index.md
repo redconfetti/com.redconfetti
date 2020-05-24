@@ -1,4 +1,5 @@
 ---
+slug: "/blog/ouija-board-and-digidesign-mbox"
 layout: post
 published: true
 title: Ouija Board and Digidesign MBox

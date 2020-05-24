@@ -1,4 +1,5 @@
 ---
+slug: "/blog/truth"
 layout: post
 published: true
 title: Truth

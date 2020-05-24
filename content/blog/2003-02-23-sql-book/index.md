@@ -1,4 +1,5 @@
 ---
+slug: "/blog/sql-book"
 layout: post
 published: true
 title: SQL Book

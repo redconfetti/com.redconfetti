@@ -1,4 +1,5 @@
 ---
+slug: "/blog/joe-delehanty-gay-rockstar"
 layout: post
 published: true
 title: Joe Delehanty Gay Rockstar

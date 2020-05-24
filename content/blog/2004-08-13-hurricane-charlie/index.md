@@ -1,4 +1,5 @@
 ---
+slug: "/blog/hurricane-charlie"
 layout: post
 published: true
 title: Hurricane Charlie

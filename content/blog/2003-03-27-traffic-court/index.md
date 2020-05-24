@@ -1,4 +1,5 @@
 ---
+slug: "/blog/traffic-court"
 layout: post
 published: true
 title: Traffic Court

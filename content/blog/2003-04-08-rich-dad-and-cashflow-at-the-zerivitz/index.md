@@ -1,4 +1,5 @@
 ---
+slug: "/blog/rich-dad-and-cashflow-at-the-zerivitz"
 layout: post
 published: true
 title: Rich Dad and Cash Flow at the Zerivitz

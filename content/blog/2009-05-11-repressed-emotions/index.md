@@ -1,4 +1,5 @@
 ---
+slug: "/blog/repressed-emotions"
 layout: post
 published: true
 title: Repressed Emotions

@@ -1,4 +1,5 @@
 ---
+slug: "/blog/sea-world-and-howard-saddler"
 layout: post
 published: true
 title: Sea World and Howard Saddler

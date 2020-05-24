@@ -1,4 +1,5 @@
 ---
+slug: "/blog/park-strolling-and-friends-drama"
 layout: post
 published: true
 title: Park Strolling and Friends Drama

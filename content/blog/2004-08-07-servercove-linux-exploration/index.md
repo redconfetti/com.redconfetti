@@ -1,4 +1,5 @@
 ---
+slug: "/blog/servercode-and-linux-exploration"
 layout: post
 published: true
 title: ServerCove and Linux Exploration

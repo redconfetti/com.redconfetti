@@ -1,4 +1,5 @@
 ---
+slug: "/blog/pepe-deluxe"
 layout: post
 published: true
 title: Pepe Deluxe Indifference

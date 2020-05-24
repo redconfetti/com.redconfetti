@@ -1,4 +1,5 @@
 ---
+slug: "/blog/honeymoon-killer"
 layout: post
 published: true
 title: Honeymoon Killer

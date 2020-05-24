@@ -1,4 +1,5 @@
 ---
+slug: "/blog/interviewed-with-great-insurance-jobs"
 layout: post
 published: true
 title: Interviewed with Great Insurance Jobs

@@ -1,7 +1,8 @@
 ---
+slug: "/blog/writing-music-without-a-synthesizer"
 layout: post
 published: true
-title: Passion of Uru and realMYST
+title: Writing Music Without a Synthesizer
 author: maxwell keyes
 date: '2003-11-11 23:45:00 -0500'
 categories:

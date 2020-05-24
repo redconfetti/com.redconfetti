@@ -1,4 +1,5 @@
 ---
+slug: "/blog/god-says-kill"
 layout: post
 published: true
 title: God Says Kill

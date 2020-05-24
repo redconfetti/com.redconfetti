@@ -1,4 +1,5 @@
 ---
+slug: "/blog/mysteries-of-the-universe"
 layout: post
 published: true
 title: Mysteries of the Universe

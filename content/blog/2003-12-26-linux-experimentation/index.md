@@ -1,4 +1,5 @@
 ---
+slug: "/blog/linux-experimenting"
 layout: post
 published: true
 title: Linux Experimenting

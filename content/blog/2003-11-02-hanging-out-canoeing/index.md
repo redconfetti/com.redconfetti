@@ -1,4 +1,5 @@
 ---
+slug: "/blog/hanging-out-and-canoeing"
 layout: post
 published: true
 title: Hanging out and Canoeing

@@ -1,4 +1,5 @@
 ---
+slug: "/blog/iranian-election-2009"
 layout: post
 published: true
 title: Iranian Election 2009

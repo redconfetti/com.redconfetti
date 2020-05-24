@@ -1,4 +1,5 @@
 ---
+slug: "/blog/computer-clean-up"
 layout: post
 published: true
 title: Computer Clean Up

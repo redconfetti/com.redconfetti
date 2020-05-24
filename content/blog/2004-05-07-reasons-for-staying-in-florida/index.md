@@ -1,4 +1,5 @@
 ---
+slug: "/blog/reasons-for-staying-in-florida"
 layout: post
 published: true
 title: Reasons for Staying in Florida

@@ -1,4 +1,5 @@
 ---
+slug: "/blog/gbx-shoes-ybor-city"
 layout: post
 published: true
 title: GBX Shoes Ybor City

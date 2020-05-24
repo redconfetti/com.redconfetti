@@ -1,8 +1,8 @@
 ---
-layout: post
-description: ''
+slug: "/blog/productivity-vs-vice-city"
 published: true
 title: Productivity vs Vice City
+description: ''
 author: maxwell keyes
 date: '2003-02-23 03:17:00 -0500'
 categories:

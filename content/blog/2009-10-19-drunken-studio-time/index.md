@@ -1,4 +1,5 @@
 ---
+slug: "/blog/drunken-studio-time"
 layout: post
 published: true
 title: Drunken Studio Time

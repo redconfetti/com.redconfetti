@@ -1,4 +1,5 @@
 ---
+slug: "/blog/stressed-out"
 layout: post
 published: true
 title: Stressed Out

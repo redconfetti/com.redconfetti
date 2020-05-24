@@ -1,4 +1,5 @@
 ---
+slug: "/blog/old-nickelodeon-cartoons"
 layout: post
 published: true
 title: Old Nickelodeon Cartoons

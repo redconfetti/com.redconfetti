@@ -1,4 +1,5 @@
 ---
+slug: "/blog/phone-home"
 layout: post
 published: true
 title: Phone Home?

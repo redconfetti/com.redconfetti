@@ -1,4 +1,5 @@
 ---
+slug: "/blog/anger-and-marshall"
 layout: post
 published: true
 title: Anger and Marshall

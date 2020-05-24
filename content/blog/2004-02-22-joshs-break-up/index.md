@@ -1,4 +1,5 @@
 ---
+slug: "/blog/joshs-break-up"
 layout: post
 published: true
 title: Josh's Break Up

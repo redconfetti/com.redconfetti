@@ -1,4 +1,5 @@
 ---
+slug: "/blog/alis-house-and-unix-machine"
 layout: post
 published: true
 title: Ali's House and Unix Machine

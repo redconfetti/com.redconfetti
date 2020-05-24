@@ -1,4 +1,5 @@
 ---
+slug: "/blog/exploring-rock-influences"
 layout: post
 published: true
 title: Exploring Rock Influences

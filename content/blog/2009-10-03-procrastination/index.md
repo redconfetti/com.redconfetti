@@ -1,4 +1,5 @@
 ---
+slug: "/blog/procrastination"
 layout: post
 published: true
 title: Procrastination

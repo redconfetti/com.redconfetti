@@ -1,4 +1,5 @@
 ---
+slug: "/blog/ponzi-scheme"
 layout: post
 published: true
 title: Ponzi Scheme

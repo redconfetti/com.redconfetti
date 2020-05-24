@@ -1,7 +1,8 @@
 ---
+slug: "/blog/hurricane-frances-part-1"
 layout: post
 published: true
-title: Hurricane Frances
+title: Hurricane Frances Part 1
 author: maxwell keyes
 date: '2004-09-03 10:40:00 -0500'
 categories:

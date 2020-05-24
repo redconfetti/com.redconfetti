@@ -1,4 +1,5 @@
 ---
+slug: "/blog/the-aviation-orange"
 layout: post
 published: true
 title: The Aviation Orange

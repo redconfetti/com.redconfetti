@@ -1,4 +1,5 @@
 ---
+slug: "/blog/holidays-and-childhood-development"
 layout: post
 published: true
 title: Holidays and Childhood Development

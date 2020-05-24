@@ -1,4 +1,5 @@
 ---
+slug: "/blog/lyrics-credit-cards-and-taxes"
 layout: post
 published: true
 title: Lyrics, Credit Cards, and Taxes

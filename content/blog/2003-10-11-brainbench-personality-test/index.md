@@ -1,4 +1,5 @@
 ---
+slug: "/blog/brainbench-personality-test"
 layout: post
 published: true
 title: Brainbench Personality Test

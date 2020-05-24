@@ -1,4 +1,5 @@
 ---
+slug: "/blog/passion-of-uru-and-realmyst"
 layout: post
 published: true
 title: Passion of Uru and realMYST

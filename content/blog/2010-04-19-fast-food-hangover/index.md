@@ -1,4 +1,5 @@
 ---
+slug: "/blog/fast-food-hangover"
 layout: post
 published: true
 title: Fast Food Hangover

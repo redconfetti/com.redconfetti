@@ -1,4 +1,5 @@
 ---
+slug: "/blog/all-the-boys-by-the-coast"
 layout: post
 published: true
 title: '"All the Boys" by The Coast'

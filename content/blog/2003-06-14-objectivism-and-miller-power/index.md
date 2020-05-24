@@ -1,4 +1,5 @@
 ---
+slug: "/blog/objectivism-and-miller-power"
 layout: post
 published: true
 title: Objectivism and Miller Power

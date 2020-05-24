@@ -1,4 +1,5 @@
 ---
+slug: "/blog/borrowed-money-from-grandma"
 layout: post
 published: true
 title: Borrowed Money from Grandma

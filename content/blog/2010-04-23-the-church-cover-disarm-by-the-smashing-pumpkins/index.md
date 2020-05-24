@@ -1,4 +1,5 @@
 ---
+slug: "/blog/the-church-cover-disarm-by-the-smashing-pumpkins"
 layout: post
 published: true
 title: The Church cover Disarm by The Smashing Pumpkins

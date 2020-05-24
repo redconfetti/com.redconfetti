@@ -1,4 +1,5 @@
 ---
+slug: "/blog/job-transitioning"
 layout: post
 published: true
 title: Job Transitioning

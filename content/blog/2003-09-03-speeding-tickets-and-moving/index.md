@@ -1,4 +1,5 @@
 ---
+slug: "/blog/speeding-tickets-and-moving"
 layout: post
 published: true
 title: Speeding Tickets and Moving

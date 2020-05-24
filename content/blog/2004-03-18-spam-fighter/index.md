@@ -1,4 +1,5 @@
 ---
+slug: "/blog/spam-fighter"
 layout: post
 published: true
 title: Spam Fighter

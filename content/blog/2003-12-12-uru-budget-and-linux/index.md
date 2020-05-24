@@ -1,4 +1,5 @@
 ---
+slug: "/blog/uru-budget-and-linux"
 layout: post
 published: true
 title: Uru, Budget, and Linux

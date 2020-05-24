@@ -1,4 +1,5 @@
 ---
+slug: "/blog/napping-and-miscelllaneous"
 layout: post
 published: true
 title: Napping and Miscellaneous

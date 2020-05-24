@@ -1,4 +1,5 @@
 ---
+slug: "/blog/cgm-php-sql-and-midi"
 layout: post
 published: true
 title: CGM, PHP, SQL, and MIDI

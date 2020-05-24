@@ -1,4 +1,5 @@
 ---
+slug: "/blog/oil-change-berkeley-california"
 layout: post
 published: true
 title: Oil Change, Berkeley CA

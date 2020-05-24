@@ -1,4 +1,5 @@
 ---
+slug: "/blog/regular-sleep-schedule"
 layout: post
 published: true
 title: Regular Sleep Schedule

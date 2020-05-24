@@ -1,4 +1,5 @@
 ---
+slug: "/blog/lease-up-and-moving"
 layout: post
 published: true
 title: Lease Up & Moving

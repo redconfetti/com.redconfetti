@@ -1,4 +1,5 @@
 ---
+slug: "/blog/moving-to-grandmothers"
 layout: post
 published: true
 title: Moving to Grandmothers

@@ -1,4 +1,5 @@
 ---
+slug: "/blog/a-letter-to-laura-schlessinger"
 layout: post
 published: true
 title: A Letter to Laura Schlessinger

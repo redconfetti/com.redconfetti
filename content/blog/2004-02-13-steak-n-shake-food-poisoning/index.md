@@ -1,4 +1,5 @@
 ---
+slug: "/blog/steak-n-shake-food-poisoning"
 layout: post
 published: true
 title: Steak N Shake Food Poisoning

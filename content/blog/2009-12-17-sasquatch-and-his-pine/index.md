@@ -1,4 +1,5 @@
 ---
+slug: "/blog/sasquatch-and-his-pine"
 layout: post
 published: true
 title: Sasquatch and his Pine

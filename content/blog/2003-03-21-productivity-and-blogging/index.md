@@ -1,4 +1,5 @@
 ---
+slug: "/blog/productivity-and-blogging"
 layout: post
 published: true
 title: Productivity and Blogging

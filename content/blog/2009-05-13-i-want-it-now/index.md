@@ -1,4 +1,5 @@
 ---
+slug: "/blog/i-want-it-now"
 layout: post
 published: true
 title: I WANT IT NOW!!!

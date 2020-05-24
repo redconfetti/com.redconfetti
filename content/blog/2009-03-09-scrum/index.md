@@ -1,4 +1,5 @@
 ---
+slug: "/blog/scrum"
 layout: post
 published: true
 title: scrum

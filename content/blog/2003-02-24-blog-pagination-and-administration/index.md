@@ -1,4 +1,5 @@
 ---
+slug: "/blog/blog-pagination-and-administration"
 layout: post
 published: true
 title: Blog Pagination and Administration

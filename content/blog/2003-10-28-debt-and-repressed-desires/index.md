@@ -1,4 +1,5 @@
 ---
+slug: "/blog/debt-and-repressed-desires"
 layout: post
 published: true
 title: Debt and Repressed Desires

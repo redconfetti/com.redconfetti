@@ -1,4 +1,5 @@
 ---
+slug: "/blog/the-story-of-me-part-1"
 layout: post
 published: false
 title: The Story of Me - Part 1

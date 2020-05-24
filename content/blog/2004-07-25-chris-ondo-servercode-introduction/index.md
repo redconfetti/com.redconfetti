@@ -1,4 +1,5 @@
 ---
+slug: "/blog/chris-ondos-servercove-introduction"
 layout: post
 published: true
 title: Chris Ondo's ServerCove Introduction

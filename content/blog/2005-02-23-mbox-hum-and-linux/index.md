@@ -1,4 +1,5 @@
 ---
+slug: "/blog/mbox-hum-and-linux"
 layout: post
 published: true
 title: Mbox Hum and Linux

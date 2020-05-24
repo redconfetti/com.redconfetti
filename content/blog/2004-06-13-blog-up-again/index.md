@@ -1,4 +1,5 @@
 ---
+slug: "/blog/blog-up-again"
 layout: post
 published: true
 title: Blog Up Again

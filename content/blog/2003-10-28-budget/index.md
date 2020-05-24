@@ -1,4 +1,5 @@
 ---
+slug: "/blog/adjusted-budget"
 layout: post
 published: true
 title: Adjusted Budget

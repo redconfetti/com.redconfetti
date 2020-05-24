@@ -1,4 +1,5 @@
 ---
+slug: "/blog/late-night-shift"
 layout: post
 published: true
 title: Late Night Shift

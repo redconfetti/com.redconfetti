@@ -1,4 +1,5 @@
 ---
+slug: "/blog/gene-blocking-turns-monkeys-into-workaholics"
 layout: post
 published: true
 title: Gene Blocking Turns Monkeys into Workaholics

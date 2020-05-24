@@ -1,4 +1,5 @@
 ---
+slug: "/blog/glowing-dogs"
 layout: post
 published: true
 title: Glowing Dogs

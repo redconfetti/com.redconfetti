@@ -1,4 +1,5 @@
 ---
+slug: "/blog/hulu-desktop"
 layout: post
 published: true
 title: Hulu Desktop

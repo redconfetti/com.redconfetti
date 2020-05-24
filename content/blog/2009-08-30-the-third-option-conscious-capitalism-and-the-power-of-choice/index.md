@@ -1,4 +1,5 @@
 ---
+slug: "/blog/conscious-capitalism-and-the-power-of-choice"
 layout: post
 published: true
 title: Conscious Capitalism and the Power of Choice

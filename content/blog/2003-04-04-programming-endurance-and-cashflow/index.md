@@ -1,4 +1,5 @@
 ---
+slug: "/blog/programming-endurance-and-cashflow"
 layout: post
 published: true
 title: Programming Endurance and Cashflow

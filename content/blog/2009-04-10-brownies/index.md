@@ -1,4 +1,5 @@
 ---
+slug: "/blog/brownies"
 layout: post
 published: true
 title: Brownies

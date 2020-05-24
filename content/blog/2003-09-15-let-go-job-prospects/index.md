@@ -1,4 +1,5 @@
 ---
+slug: "/blog/let-go-and-exploring-job-prospects"
 layout: post
 published: true
 title: Let Go and Exploring Job Prospects

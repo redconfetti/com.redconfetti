@@ -1,4 +1,5 @@
 ---
+slug: "/blog/eating-out-and-gameboy-advanced"
 layout: post
 published: true
 title: Eating Out and Gameboy Advanced

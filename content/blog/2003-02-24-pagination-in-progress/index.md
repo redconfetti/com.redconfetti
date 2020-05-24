@@ -1,4 +1,5 @@
 ---
+slug: "/blog/pagination-in-progress"
 layout: post
 published: true
 title: Pagination in Progress

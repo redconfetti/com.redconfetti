@@ -1,4 +1,5 @@
 ---
+slug: "/blog/test1-mp3"
 layout: post
 published: true
 title: Test1 MP3

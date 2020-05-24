@@ -1,4 +1,5 @@
 ---
+slug: "/blog/digidesign-mbox-and-protools"
 layout: post
 published: true
 title: Digidesign MBox and Protools

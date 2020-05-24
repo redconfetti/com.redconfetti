@@ -3,8 +3,6 @@ layout: post
 published: true
 title: A Letter to My Former Self
 author: maxwell keyes
-wordpress_id: 1577
-wordpress_url: http://www.redconfetti.com/?p=1577
 date: '2014-05-30 03:20:34 -0700'
 date_gmt: '2014-05-30 07:20:34 -0700'
 categories:

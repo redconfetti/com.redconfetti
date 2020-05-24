@@ -1,4 +1,5 @@
 ---
+slug: "/blog/unico"
 layout: post
 published: true
 title: Unico

@@ -1,4 +1,5 @@
 ---
+slug: "/blog/struggling-to-put-in-hours"
 layout: post
 published: true
 title: Struggling to Put in Hours

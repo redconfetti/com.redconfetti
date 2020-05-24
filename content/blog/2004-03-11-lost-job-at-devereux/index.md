@@ -1,4 +1,5 @@
 ---
+slug: "/blog/lost-job-at-devereux"
 layout: post
 published: true
 title: Lost Job at Devereux

@@ -1,4 +1,5 @@
 ---
+slug: "/blog/programming-and-website-work"
 layout: post
 published: true
 title: Programming and Website Work

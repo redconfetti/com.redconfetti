@@ -1,4 +1,5 @@
 ---
+slug: "/blog/fried-chicken"
 layout: post
 published: true
 title: Fried Chicken

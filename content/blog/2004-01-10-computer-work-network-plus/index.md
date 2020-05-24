@@ -1,4 +1,5 @@
 ---
+slug: "/blog/computer-work-and-network-plus"
 layout: post
 published: true
 title: Computer Work and Network+

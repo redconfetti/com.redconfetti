@@ -1,4 +1,5 @@
 ---
+slug: "/blog/starting-over"
 layout: post
 published: true
 title: starting over

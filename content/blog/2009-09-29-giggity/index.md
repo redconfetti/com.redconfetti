@@ -1,4 +1,5 @@
 ---
+slug: "/blog/giggity"
 layout: post
 published: true
 title: Giggity

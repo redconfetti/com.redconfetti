@@ -1,4 +1,5 @@
 ---
+slug: "/blog/compass-global-music-funds-crisis"
 layout: post
 published: true
 title: Compass Global Music Funds Crisis

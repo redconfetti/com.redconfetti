@@ -1,4 +1,5 @@
 ---
+slug: "/blog/considering-aol-job"
 layout: post
 published: true
 title: Considering AOL Job

@@ -1,4 +1,5 @@
 ---
+slug: "/blog/hot-kathy"
 layout: post
 published: true
 title: Hot Kathy

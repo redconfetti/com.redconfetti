@@ -1,4 +1,5 @@
 ---
+slug: "/blog/strange"
 layout: post
 published: true
 title: Strange

@@ -1,4 +1,5 @@
 ---
+slug: "/blog/brainless-lawyer"
 layout: post
 published: true
 title: Brainless Lawyer

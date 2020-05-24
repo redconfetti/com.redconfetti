@@ -1,4 +1,5 @@
 ---
+slug: "/blog/car-insurance-and-the-fantastic-adventures-of-unico"
 layout: post
 published: true
 title: Car Insurance and the Fantastico Adventures of Unico

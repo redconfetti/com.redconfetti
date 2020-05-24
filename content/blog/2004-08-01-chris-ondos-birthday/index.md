@@ -1,4 +1,5 @@
 ---
+slug: "/blog/ondos-birthday-and-linux-exploration"
 layout: post
 published: true
 title: Ondo's Birthday and Linux Exploration

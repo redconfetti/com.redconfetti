@@ -1,4 +1,5 @@
 ---
+slug: "/blog/compass-global-music-and-productivity"
 layout: post
 published: true
 title: Compass Global Music and Productivity

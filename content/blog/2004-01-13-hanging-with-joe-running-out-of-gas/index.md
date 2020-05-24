@@ -1,4 +1,5 @@
 ---
+slug: "/blog/hanging-out-with-joe-and-running-out-of-gas"
 layout: post
 published: true
 title: Hanging Out with Joe and Running out of Gas

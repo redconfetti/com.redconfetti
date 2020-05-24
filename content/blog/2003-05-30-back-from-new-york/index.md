@@ -1,4 +1,5 @@
 ---
+slug: "/blog/back-from-new-york"
 layout: post
 published: true
 title: Back from New York

@@ -1,4 +1,5 @@
 ---
+slug: "/blog/back-it-up"
 layout: post
 published: true
 title: Back It Up

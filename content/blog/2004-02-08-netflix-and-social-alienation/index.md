@@ -1,4 +1,5 @@
 ---
+slug: "/blog/netflix-and-social-alienation"
 layout: post
 published: true
 title: Netflix and Social Alienation

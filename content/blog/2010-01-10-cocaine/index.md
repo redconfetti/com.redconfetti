@@ -1,4 +1,5 @@
 ---
+slug: "/blog/cocaine"
 layout: post
 published: true
 title: Cocaine

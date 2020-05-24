@@ -1,4 +1,5 @@
 ---
+slug: "/blog/cool-quotes-on-education"
 layout: post
 published: true
 title: Cool Quotes on Education

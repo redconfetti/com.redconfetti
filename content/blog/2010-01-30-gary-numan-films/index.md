@@ -1,4 +1,5 @@
 ---
+slug: "/blog/gary-numan-films"
 layout: post
 published: true
 title: Gary Numan - Films

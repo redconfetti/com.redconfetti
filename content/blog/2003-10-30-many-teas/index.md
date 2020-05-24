@@ -1,4 +1,5 @@
 ---
+slug: "/blog/many-teas"
 layout: post
 published: true
 title: Many Teas

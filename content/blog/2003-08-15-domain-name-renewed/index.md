@@ -1,4 +1,5 @@
 ---
+slug: "/blog/domain-name-renewed"
 layout: post
 published: true
 title: Domain Name Renewed
