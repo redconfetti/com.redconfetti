@@ -1,0 +1,6 @@
+# Ignore all non-JS files
+!**/*.js
+
+# Ignore non-relevant directories
+public/**
+node_modules/**
