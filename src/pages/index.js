@@ -1,43 +1,21 @@
 // Gatsby supports TypeScript natively!
-import React from "react"
-import { PageProps, Link, graphql } from "gatsby"
+import React from 'react'
+import PropTypes from 'prop-types'
+import { Link, graphql } from 'gatsby'
 
-import Bio from "../components/bio"
-import Layout from "../components/layout"
-import SEO from "../components/seo"
-import { rhythm } from "../utils/typography"
+import Bio from '../components/bio'
+import Layout from '../components/layout'
+import Seo from '../components/seo'
+import { rhythm } from '../utils/typography'
 
-type Data = {
-  site: {
-    siteMetadata: {
-      title: string
-    }
-  }
-  allMarkdownRemark: {
-    edges: {
-      node: {
-        excerpt: string
-        frontmatter: {
-          title: string
-          date: string
-          description: string
-        }
-        fields: {
-          slug: string
-        }
-      }
-    }[]
-  }
-}
-
-const BlogIndex = ({ data, location }: PageProps<Data>) => {
+const BlogIndex = ({ data, location }) => {
   const siteTitle = data.site.siteMetadata.title
   const posts = data.allMarkdownRemark.edges
   const authorName = data.site.siteMetadata.author.name
 
   return (
     <Layout location={location} title={siteTitle} authorName={authorName}>
-      <SEO title="All posts" />
+      <Seo title='All posts' />
       <Bio />
       {posts.map(({ node }) => {
         const published = node.frontmatter.published
@@ -52,10 +30,10 @@ const BlogIndex = ({ data, location }: PageProps<Data>) => {
             <header>
               <h3
                 style={{
-                  marginBottom: rhythm(1 / 4),
+                  marginBottom: rhythm(1 / 4)
                 }}
               >
-                <Link style={{ boxShadow: `none` }} to={node.fields.slug}>
+                <Link style={{ boxShadow: 'none' }} to={node.fields.slug}>
                   {title}
                 </Link>
               </h3>
@@ -64,7 +42,7 @@ const BlogIndex = ({ data, location }: PageProps<Data>) => {
             <section>
               <p
                 dangerouslySetInnerHTML={{
-                  __html: node.frontmatter.description || node.excerpt,
+                  __html: node.frontmatter.description || node.excerpt
                 }}
               />
             </section>
@@ -73,6 +51,21 @@ const BlogIndex = ({ data, location }: PageProps<Data>) => {
       })}
     </Layout>
   )
+}
+
+BlogIndex.propTypes = {
+  data: PropTypes.shape({
+    site: PropTypes.shape({
+      siteMetadata: PropTypes.shape({
+        title: PropTypes.string,
+        author: PropTypes.shape({
+          name: PropTypes.string
+        })
+      })
+    }),
+    allMarkdownRemark: PropTypes.object
+  }),
+  location: PropTypes.string
 }
 
 export default BlogIndex
