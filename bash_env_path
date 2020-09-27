@@ -4,7 +4,8 @@ if [ -d "/Applications/Julia-1.2.app/Contents/Resources/julia/bin" ] ; then
 fi
 
 # User specific environment and startup programs
-[[ -d "$HOME/.rbenv/shims" ]] && PATH="$HOME/.rbenv/shims:$PATH"
 [[ -d "$HOME/bin" ]] && PATH="$PATH:$HOME/bin"
 [[ -d "$HOME/.local/bin" ]] && PATH="$PATH:$HOME/.local/bin"
-[[ -d "/usr/local/sbin" ]] && PATH="$PATH:/usr/local/sbin"
+
+# Prioritize Homebrew's sbin in path
+[[ -d "/usr/local/sbin" ]] && PATH="/usr/local/sbin:$PATH"

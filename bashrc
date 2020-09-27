@@ -4,9 +4,6 @@
 # Load Bash Aliases
 [[ -s "$HOME/.bash_aliases" ]] && source "$HOME/.bash_aliases"
 
-# Load Bash Path
-[[ -s "$HOME/.bash_env_path" ]] && source "$HOME/.bash_env_path"
-
 # Load Bash Editor
 [[ -s "$HOME/.bash_env_editor" ]] && source "$HOME/.bash_env_editor"
 
@@ -21,6 +18,9 @@
 
 # Load Cloud9 Environment Settings
 # [[ -s "$HOME/.bash_env_cloud9" ]] && source "$HOME/.bash_env_cloud9"
+
+# Load Bash Path
+[[ -s "$HOME/.bash_env_path" ]] && source "$HOME/.bash_env_path"
 
 # Homepage for Web Browsers
 export WWW_HOME=http://www.google.com/
