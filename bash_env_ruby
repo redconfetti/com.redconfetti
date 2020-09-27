@@ -3,4 +3,5 @@
 
 # Aliases
 alias rspec="LOGGER_STDOUT=false bundle exec rspec --format documentation"
-alias gemdir='cd $(rvm gemset gemdir)'
+
+[[ -d "$HOME/.rbenv/shims" ]] && PATH="$HOME/.rbenv/shims:$PATH"
