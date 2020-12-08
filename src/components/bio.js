@@ -29,7 +29,6 @@ const Bio = () => {
           }
           social {
             twitter
-            facebook
           }
         }
       }
@@ -60,9 +59,10 @@ const Bio = () => {
       <p>
         Written by <strong>{author.name}</strong> {author.summary}
         {' '}
-        <a href={`https://facebook.com/${social.facebook}`}>
-          He is also on Facebook
-        </a>
+        {social.twitter &&
+          <a href={`https://twitter.com/${social.twitter}`}>
+            He is also on Twitter
+          </a>}
       </p>
     </div>
   )

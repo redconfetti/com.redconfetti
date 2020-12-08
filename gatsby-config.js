@@ -3,12 +3,11 @@ module.exports = {
     title: 'redconfetti',
     author: {
       name: 'Jason Miller',
-      summary: 'who lives and works in Berkeley, CA developing websites and focusing on personal development.'
+      summary: 'who lives and works in Denver, CO developing websites and focusing on personal development.'
     },
     description: 'The Journal of Maxwell Keyes.',
     siteUrl: 'https://www.redconfetti.com/',
     social: {
-      facebook: 'redconfetti',
       github: 'redconfetti',
       twitter: 'redconfetti'
     }
