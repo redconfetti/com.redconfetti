@@ -1,19 +1,18 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 import { graphql } from 'gatsby'
-import Layout from '../components/layout'
 
-const MusicPage = ({ data, location }) => {
-  const siteTitle = data.site.siteMetadata.title
-  const authorName = data.site.siteMetadata.author.name
+import MusicLayout from './music/layout'
+import MusicMain from './music/main'
+
+const MusicPage = ({ data }) => {
+  // const siteTitle = data.site.siteMetadata.title
+  // const authorName = data.site.siteMetadata.author.name
 
   return (
-    <Layout location={location} title={siteTitle} authorName={authorName}>
-      <main>
-        <h1>Music</h1>
-        <p>This is my musicpage</p>
-      </main>
-    </Layout>
+    <MusicLayout>
+      <MusicMain />
+    </MusicLayout>
   )
 }
 
@@ -28,8 +27,7 @@ MusicPage.propTypes = {
         })
       })
     })
-  }),
-  location: PropTypes.string
+  })
 }
 
 export const pageQuery = graphql`

@@ -1,0 +1,127 @@
+.musicLayout {
+  margin: 0px;
+  padding: 0px;
+  background: #17191D;
+  font-family: "Courier New", Courier, monospace;
+  color: #19c419;
+  font-size: 14px;
+
+  h1 {
+    font-size: 18px;
+    color: #FFFFFF;
+  }
+
+  h2 {
+    font-size: 12px;
+    color: #FFFFFF;
+  }
+
+  a:link {
+    color: #00FF00;
+  }
+  a:visited {
+    color: #009900;
+  }
+  a:hover {
+    color: #FFFF00;
+  }
+  a:active {
+    color: #00FF00;
+  }
+}
+
+.musicMain {
+  width: 1000px;
+  clear: both;
+  text-align: left;
+  margin-left: auto;
+  margin-right: auto;
+  background: #000000 url('/images/pages/music/bg.jpg') repeat-y;
+  padding: 25px 50px;
+
+  ol {
+    li {
+      margin-left: 22px;
+      margin-bottom: 2px;
+    }
+  }
+}
+
+.musicNav {
+  width: 100%;
+  margin: 0 auto;
+  padding: 20x 60px;
+  background-color: #191919;
+  border-bottom: 1px solid #373737;
+  height: 4.1em;
+  color: #666666;
+  font-family: "Palatino", "Georgia", "Baskerville", serif;
+
+  a:hover	{ color: #ddd; }
+
+  ul {
+    bottom: 0;
+    left: 0;
+    list-style-image: none;
+    list-style-position: outside;
+    list-style-type: none;
+    margin: auto;
+    margin-top: 0px;
+    padding: 0;
+    max-width: 825px;
+  }
+
+  ul li {
+    float: left;
+    margin-left: 5px;
+  }
+
+  ul li a {
+    color: #868686;
+    display: block;
+    line-height: 3em;
+    padding-right: 40px;
+    text-decoration: none;
+    font-size: 1.4em;
+    outline: none;
+  }
+}
+
+.musicDesignHeader {
+  background: #000000 url('/images/pages/music/music-header.jpg') repeat-y;
+  width: 1000px;
+  height: 269px;
+  margin-left: auto;
+  margin-right: auto;
+
+  img {
+    margin: 0;
+  }
+}
+
+.musicDesignFooter {
+  background: #000000 url('/images/pages/music/music-footer.jpg') repeat-y;
+  width: 1000px;
+  height: 294px;
+  clear:both;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.musicFooter {
+  max-width: 1000px;
+  clear: both;
+  text-align: center;
+  color: #878E9D;
+  font-size: 9px;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  margin-left: auto;
+  margin-right: auto;
+  background: #282B30;
+  padding: 10px 0px;
+
+  img {
+    border: 0px;
+    padding: 10px;
+  }
+}

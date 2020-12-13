@@ -25,6 +25,12 @@ To run the local Gatsby server, run `gatsby develop`.
 - [Gatsby - Using SASS in Gatsby](https://www.gatsbyjs.org/docs/sass/)
 - [Gatsby - Adding Markdown Pages](https://www.gatsbyjs.org/docs/adding-markdown-pages/)
 
+#### Gatsby Notes
+
+- Head attributes such as META tags and title are controlled via [React Helmet]
+
+[React Helmet]: https://www.gatsbyjs.com/docs/add-page-metadata/
+
 #### React
 
 - [PropTypes - Usage](https://github.com/facebook/prop-types#usage)
