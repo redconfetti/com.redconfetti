@@ -9,7 +9,7 @@ const AboutPage = ({ data, location }) => {
   const { author, social, title } = data.site.siteMetadata
 
   return (
-    <Layout location={location} title={title}>
+    <Layout location={location} title={title} authorName={author.name}>
       <SEO title='About | redconfetti' />
       <h1>About</h1>
       <Image
