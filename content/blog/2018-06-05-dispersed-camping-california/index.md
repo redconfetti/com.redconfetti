@@ -125,7 +125,9 @@ The following links will help you find dispersed camping sites
 * [onX Maps](https://www.onxmaps.com/) - Used by hunters, very useful
 * [USDA Forests - California](https://www.fs.fed.us/recreation/map/state_list.shtml#C)
 * [BLM California](https://www.blm.gov/california)
+* [Everything You Need To Know About Boondocking]
 
+[everything you need to know about boondocking]: https://www.ecocampor.com/blog/everything-you-need-to-know-about-boondocking.html
 [dispersed camping]: https://gearjunkie.com/camp-free-public-land-dispersed-camping
 [campsite]: https://en.wikipedia.org/wiki/Campsite#Campgrounds
 [google maps]: https://www.google.com/maps/
