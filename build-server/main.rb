@@ -6,7 +6,6 @@ require 'json'
 set :port, 5000
 
 post '/' do
-
   request.body.rewind
   payload_body = request.body.read
   verify_signature(payload_body)
