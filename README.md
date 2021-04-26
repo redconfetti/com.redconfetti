@@ -76,7 +76,7 @@ Install the latest NodeJS
 nvm ls-remote
 
 # install specific version
-nvm install v12.16.0
+nvm install v16.0.0
 ```
 
 Install Gatsby CLI

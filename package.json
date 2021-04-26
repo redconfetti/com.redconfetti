@@ -1,8 +1,8 @@
 {
   "name": "redconfetti-com-personal-website",
   "private": true,
-  "description": "My personal website / blog",
-  "version": "0.2.0",
+  "description": "redconfetti",
+  "version": "0.2.1",
   "author": "Jason Miller <jason@redconfetti.com>",
   "bugs": {
     "url": "https://github.com/gatsbyjs/gatsby/issues"
