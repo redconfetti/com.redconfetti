@@ -9,9 +9,9 @@ post '/' do
   request.body.rewind
   payload_body = request.body.read
   verify_signature(payload_body)
-  # puts "payload_body: #{payload_body.inspect}"
+  puts "payload_body: #{payload_body}"
   push = JSON.parse(payload_body)
-  puts "JSON: #{push.inspect}"
+  # puts "JSON: #{push.inspect}"
   if (push['repository']['full_name'])
     puts "it is the correct repository: #{push['repository']['full_name']}"
   end
