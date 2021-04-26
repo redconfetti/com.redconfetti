@@ -14,7 +14,7 @@ _Have another more specific idea? You may want to check out our vibrant collecti
 
 ## 🚀 Quick start
 
-1.  **Create a Gatsby site.**
+1. **Create a Gatsby site.**
 
     Use the Gatsby CLI to create a new site, specifying the blog starter.
 
@@ -23,7 +23,7 @@ _Have another more specific idea? You may want to check out our vibrant collecti
     gatsby new my-blog-starter https://github.com/gatsbyjs/gatsby-starter-blog
     ```
 
-1.  **Start developing.**
+1. **Start developing.**
 
     Navigate into your new site’s directory and start it up.
 
