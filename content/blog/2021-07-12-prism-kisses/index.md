@@ -161,6 +161,8 @@ music a kind of distortion, which I really enjoyed alot. I would take it
 to school and just record random things, then play it back, and play guitar
 over it.
 
+<iframe src="https://open.spotify.com/embed/playlist/3sTRvib5Rn1oY06octFBGz?theme=0" width="100%" height="380" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
 ### Capturing the Mundane
 
 I had the bright idea of making a sort of concept album when I backpacked
