@@ -125,7 +125,7 @@ FL Studio, with the exception of one lost song.
 
 [Nort]: https://prismkisses.bandcamp.com/track/nort
 [FunkBox]: https://apps.apple.com/us/app/funkbox-drum-machine/id350437349
-[Alchemy]: https://www.tricksntech.com/alchemy-synth-garageband-ios/
+[Alchemy synth]: https://www.tricksntech.com/alchemy-synth-garageband-ios/
 
 ### LoFi Tapes
 
