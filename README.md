@@ -3,6 +3,10 @@
 Source for my personal website powered by [Gatsby](https://www.gatsbyjs.org/),
 and hosted by [Render](https://render.com/).
 
+Though I may switch to the simpler [Eleventy] static site generator.
+
+[Eleventy]: https://www.11ty.dev/
+
 ## Development
 
 To run the local Gatsby server, run `gatsby develop`.
