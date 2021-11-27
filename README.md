@@ -86,5 +86,15 @@ nvm install v16.0.0
 Install Gatsby CLI
 
 ```shell
-npm install -g gatsby-cli
+yarn install -g gatsby-cli
+```
+
+## Serve or Build
+
+```shell
+# start development server
+gatsby develop
+
+# build project
+gatsby build
 ```

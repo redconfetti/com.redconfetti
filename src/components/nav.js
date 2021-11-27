@@ -1,7 +1,7 @@
 import React from 'react'
 import { Link } from 'gatsby'
 
-import styles from '../stylesheets/styles.module.scss'
+import * as styles from '../stylesheets/styles.module.scss'
 
 import { rhythm } from '../utils/typography'
 

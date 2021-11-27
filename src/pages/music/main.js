@@ -1,6 +1,6 @@
 // import React from 'react'
 import React, { useEffect } from 'react'
-import styles from '../../stylesheets/music.module.scss'
+import * as styles from '../../stylesheets/music.module.scss'
 
 import ReactJkMusicPlayer from 'react-jinke-music-player'
 import 'react-jinke-music-player/assets/index.css'

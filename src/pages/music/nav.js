@@ -1,6 +1,6 @@
 import React from 'react'
 import { Link } from 'gatsby'
-import styles from '../../stylesheets/music.module.scss'
+import * as styles from '../../stylesheets/music.module.scss'
 
 const MusicNav = () => {
   return (

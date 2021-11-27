@@ -1,5 +1,5 @@
 import React from 'react'
-import styles from '../../stylesheets/music.module.scss'
+import * as styles from '../../stylesheets/music.module.scss'
 
 const MusicDesignFooter = () => {
   return (

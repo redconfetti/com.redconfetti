@@ -1,7 +1,7 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 
-import styles from '../../stylesheets/music.module.scss'
+import * as styles from '../../stylesheets/music.module.scss'
 
 import MusicNav from './nav'
 import MusicFooter from './footer'
