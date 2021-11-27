@@ -1,0 +1,5 @@
+#!/bin/env bash
+cd ~/repo
+git pull
+npm install -g gatsby-cli
+gatsby build
