@@ -182,7 +182,7 @@ Monterey Bay is the bay area located between
 miles south of SF) and Monterey (approx 112 miles south of SF).
 
 * [Monterey Bay Aquarium](ttp://en.wikipedia.org/wiki/Monterey_Bay_Aquarium)
-* [Blue Whale Watching](http://www.grindtv.com/outdoor/blog/34084/blue+whale+gathering+off+monterey+nothing+short+of+spectacular/)
+* [Blue Whale Watching](https://vickingkayaks.com/the-10-most-important-articles-published-on-grindtv-com/)
   - [Monterey Bay](http://en.wikipedia.org/wiki/Monterey_Bay) is located south
   of San Francisco between Santa Cruz and Monterey. Currently the greatest
   gathering place for whales during the summer time.
