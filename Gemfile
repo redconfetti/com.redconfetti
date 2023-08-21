@@ -3,6 +3,11 @@ ruby RUBY_VERSION
 
 gem "jekyll", "4.3.2"
 
+# Console Theme
+# https://jekyll-themes.com/jekyll-console/
+# https://github.com/b2a3e8/jekyll-theme-console
+gem 'jekyll-theme-console', github: 'redconfetti/jekyll-theme-console', ref: "76983908"
+
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 gem "minima", "~> 2.5.1"
 

@@ -7,6 +7,7 @@ with assets hosted by [Amazon S3](https://aws.amazon.com/s3/).
 
 * [Setup](/docs/setup.md)
 * [Jekyll](/docs/jekyll.md)
+* [Logo](/docs/logo.md)
 * [StoryBlok CMS](/docs/storyblok.md)
 * [Assets](/docs/assets.md)
 * [Notes](/docs/notes.md)

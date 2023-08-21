@@ -1,5 +1,11 @@
 # Jekyll
 
+## Theme
+
+This site uses the [jekyll-theme-console] theme.
+
+[jekyll-theme-console]: https://github.com/b2a3e8/jekyll-theme-console
+
 ## Reference
 
 * [Jekyll Docs](https://jekyllrb.com/docs/)

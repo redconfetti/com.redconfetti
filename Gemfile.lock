@@ -1,3 +1,12 @@
+GIT
+  remote: https://github.com/redconfetti/jekyll-theme-console.git
+  revision: 76983908faa6f06ffd87b70165f2632790d36687
+  ref: 76983908
+  specs:
+    jekyll-theme-console (0.4.0)
+      jekyll (>= 3.5)
+      jekyll-seo-tag
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -76,6 +85,7 @@ PLATFORMS
 DEPENDENCIES
   jekyll (= 4.3.2)
   jekyll-feed (~> 0.17.0)
+  jekyll-theme-console!
   minima (~> 2.5.1)
 
 RUBY VERSION
