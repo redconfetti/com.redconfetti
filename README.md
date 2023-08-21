@@ -3,14 +3,10 @@
 This is a static website generated using [Jekyll](https://jekyllrb.com/), hosted by [Neocities](https://neocities.org/),
 with assets hosted by [Amazon S3](https://aws.amazon.com/s3/).
 
-## Installation
+## Docs
 
-Make sure you install and use RVM - [RVM installation](https://rvm.io/rvm/install)
-
-```shell
-cd com.redconfetti
-bundle install
-```
+* [Setup](/docs/setup.md)
+* [StoryBlok CMS](/docs/storyblok.md)
 
 ## Usage
 
