@@ -6,8 +6,10 @@ with assets hosted by [Amazon S3](https://aws.amazon.com/s3/).
 ## Docs
 
 * [Setup](/docs/setup.md)
+* [Jekyll](/docs/jekyll.md)
 * [StoryBlok CMS](/docs/storyblok.md)
 * [Assets](/docs/assets.md)
+* [Notes](/docs/notes.md)
 
 ## Usage
 
