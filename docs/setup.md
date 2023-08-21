@@ -27,5 +27,9 @@ rbenv install
 ## Install Gems
 
 ```bash
+# Update Bundler
+bundle update --bundler
+
+# Install Gems
 bundle install
 ```

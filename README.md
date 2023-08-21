@@ -1,12 +1,13 @@
 # Source for redconfetti.com
 
-This is a static website generated using [Jekyll](https://jekyllrb.com/), hosted by [Neocities](https://neocities.org/),
+This is a static website generated using [Jekyll](https://jekyllrb.com/),
 with assets hosted by [Amazon S3](https://aws.amazon.com/s3/).
 
 ## Docs
 
 * [Setup](/docs/setup.md)
 * [StoryBlok CMS](/docs/storyblok.md)
+* [Assets](/docs/assets.md)
 
 ## Usage
 
