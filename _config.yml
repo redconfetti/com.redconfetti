@@ -42,6 +42,7 @@ header_pages:
  - index.md
  - about.md
  - music.md
+ - other.md
 
 plugins:
   - jekyll-feed
