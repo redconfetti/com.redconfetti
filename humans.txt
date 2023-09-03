@@ -1,0 +1,14 @@
+/* TEAM */
+Your title: Jason Miller
+Site: http://www.redconfetti.com/
+Twitter: redconfetti
+Location: Erwin, Tennessee, United States of America
+
+/* THANKS */
+Name: Josh Gerdes
+
+/* SITE */
+Last update: 2023/09/03
+Standards: HTML5, CSS3
+Components: Jekyll
+Software: VSCode, Photoshop
