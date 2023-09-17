@@ -19,8 +19,6 @@ anybody or to anything. So it is not independent only from past object
 relations; it is also independent from present ones. One can be totally alone
 when one is relating.
 
-![Houses in shadow of clouds]({{site.baseurl}}/_posts/309461228_1232183667560390_1870372223389522573_n.jpg)
-
 I want to say that this sounds like relating to ones self, but I don't think
 that's really the case. I used to feel lonely. It certainly would have a sense
 of others in it, like they all didn't invite me to anything, they don't like me.
