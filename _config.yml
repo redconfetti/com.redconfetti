@@ -25,6 +25,10 @@ github_username: redconfetti
 assets:
   url_prefix: "https://s3-us-west-1.amazonaws.com/assets.redconfetti.com"
 
+prose:
+  siteurl: 'https://redconfetti.com/'
+  media: 'media'
+
 # Build settings
 markdown: kramdown
 # theme: minima
@@ -70,4 +74,3 @@ exclude:
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
-
