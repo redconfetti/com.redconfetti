@@ -3,7 +3,7 @@ layout: post
 published: false
 title: Aloneness
 author: maxwell keyes
-date: "2020-02-21 07:17:26 -0800"
+date: '2020-02-21 07:17:26 -0800'
 categories:
   - spirituality
 tags:
@@ -18,6 +18,8 @@ relations. To be is to exist totally independent from any relationship, to
 anybody or to anything. So it is not independent only from past object
 relations; it is also independent from present ones. One can be totally alone
 when one is relating.
+
+![Houses in shadow of clouds]({{site.baseurl}}/_posts/309461228_1232183667560390_1870372223389522573_n.jpg)
 
 I want to say that this sounds like relating to ones self, but I don't think
 that's really the case. I used to feel lonely. It certainly would have a sense
