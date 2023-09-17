@@ -29,18 +29,18 @@ prose:
   siteurl: 'https://redconfetti.com/'
   media: 'assets'
   ignore:
-    - /.vscode
-    - /.editorconfig
-    - /.gitignore
-    - /.markdownlint.json
-    - /.ruby-gemset
-    - /.ruby-version
+    - .vscode
+    - .editorconfig
+    - .gitignore
+    - .markdownlint.json
+    - .ruby-gemset
+    - .ruby-version
     - /_layouts
     - /_includes
     - /_sass
-    - /Gemfile
-    - /Gemfile.lock
-    - /Rakefile
+    - Gemfile
+    - Gemfile.lock
+    - Rakefile
 
 # Build settings
 markdown: kramdown
