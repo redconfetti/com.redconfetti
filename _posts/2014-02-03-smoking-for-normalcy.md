@@ -9,7 +9,8 @@ categories:
 - personal
 ---
 
-An interesting question came to me this morning. Do I smoke cigarettes, or do  anything else, to create a sense of
-stress that feels "normal"?
+An interesting question came to me this morning. Do I smoke cigarettes, or do
+anything else, to create a sense of stress that feels "normal"?
 
-Do I do this because feeling healthier is alien and subconsciously I try to avoid that feeling?
+Do I do this because feeling healthier is alien and subconsciously I try to
+avoid that feeling?

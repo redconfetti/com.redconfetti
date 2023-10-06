@@ -168,64 +168,88 @@ comments:
     on a bike if I am only a recreational rider.
 ---
 
-People warned me to not buy a bicycle from Walmart, but I needed a bike and didn't have the money for a $300+ bicycle
-at the time. Shortly after purchasing the bike I had to replace the freewheel after it got locked up. Huffy did ship
-the replacement freewheel to me at no additional charge because the bike was under warranty, however Walmart isn't a
-real bike shop which does adjustments and repairs, so I had to arrange for help in getting the old freewheel off and
+People warned me to not buy a bicycle from Walmart, but I needed a bike and
+didn't have the money for a $300+ bicycle at the time. Shortly after purchasing
+the bike I had to replace the freewheel after it got locked up. Huffy did ship
+the replacement freewheel to me at no additional charge because the bike was
+under warranty, however Walmart isn't a real bike shop which does adjustments
+and repairs, so I had to arrange for help in getting the old freewheel off and
 the new one on.
 
 ![Huffy Savannah]({{site.assets.url_prefix}}/images/posts/huffy-savannah.jpg "Huffy Savannah")
 
-More recently the chain started to come off, and I'd have to put it back on getting my hand all dirty and greasy, and
-avoid certain gear combinations so it didn't continue to happen. I figured it just needed to be adjusted or something,
-so I took it into a local co-operative bike shop - [Missing Link](http://www.missinglink.org/). At first the girl who
-looked at the bike noticed that the cable for one of the [derailers](http://en.wikipedia.org/wiki/Derailleur) was very
-loose, and that I'd need to make an appointment for them to check it further. I did this and brought it in the following
-Thursday. Another guy looked at it more thoroughly to draw up an estimate for me. He pointed out that the chain was
-coming off because the [crankset](http://en.wikipedia.org/wiki/Crankset) was bent, and that they could try to bend it
-back. He also pointed out that the foot pedals were shot, the bearings on the back wheel seem to be going. He estimated
-between $80 - $120 to get it in better condition. I didn't want to do this, and then have to shell out more again due
-to other issues which would crop up after another 2 months of riding.
+More recently the chain started to come off, and I'd have to put it back on
+getting my hand all dirty and greasy, and avoid certain gear combinations so it
+didn't continue to happen. I figured it just needed to be adjusted or something,
+so I took it into a local co-operative bike shop - [Missing
+Link](http://www.missinglink.org/). At first the girl who looked at the bike
+noticed that the cable for one of the
+[derailers](http://en.wikipedia.org/wiki/Derailleur) was very loose, and that
+I'd need to make an appointment for them to check it further. I did this and
+brought it in the following Thursday. Another guy looked at it more thoroughly
+to draw up an estimate for me. He pointed out that the chain was coming off
+because the [crankset](http://en.wikipedia.org/wiki/Crankset) was bent, and that
+they could try to bend it back. He also pointed out that the foot pedals were
+shot, the bearings on the back wheel seem to be going. He estimated between $80
 
-I decided to go to their retail shop (across the street from their repair shop), and check out my other options. I
-ended up buying a Marin Larkspur hybrid, as I'm looking for a good street commuter bike to get me around until my
-Isuzu Rodeo is repaired (after I save up approx. $2000). They recommended that I get something with strong wheels such
-as this model. I'm a pretty heavy guy, so strong wheels it is.
+- $120 to get it in better condition. I didn't want to do this, and then have to
+shell out more again due to other issues which would crop up after another 2
+months of riding.
+
+I decided to go to their retail shop (across the street from their repair shop),
+and check out my other options. I ended up buying a Marin Larkspur hybrid, as
+I'm looking for a good street commuter bike to get me around until my Isuzu
+Rodeo is repaired (after I save up approx. $2000). They recommended that I get
+something with strong wheels such as this model. I'm a pretty heavy guy, so
+strong wheels it is.
 
 ![Marin Larkspur]({{site.assets.url_prefix}}/images/posts/marin-larkspur.jpg "Marin Larkspu")
 
-I ended up paying $460 for the bike, and then re-investing into a new rack for the back, a solid U-Lock (instead of a
-cable lock), and front and rear lights for night time riding. I would have used the other lights I bought from Walmart,
-but they broke from the tension I put on them mounting them to the new bike. It doesn't matter anyway. The new lights
-mount properly and I can easily take them off when I part the bike somewhere, so they don't get stolen.
+I ended up paying $460 for the bike, and then re-investing into a new rack for
+the back, a solid U-Lock (instead of a cable lock), and front and rear lights
+for night time riding. I would have used the other lights I bought from Walmart,
+but they broke from the tension I put on them mounting them to the new bike. It
+doesn't matter anyway. The new lights mount properly and I can easily take them
+off when I part the bike somewhere, so they don't get stolen.
 
-I love my new bike. I like how I can bring it back to the bike shop and they'll fix it up for the next year. Also I like
-knowing that the bike shouldn't have any problems like the Huffy. Over the weekend I used the new bike to go do my
+I love my new bike. I like how I can bring it back to the bike shop and they'll
+fix it up for the next year. Also I like knowing that the bike shouldn't have
+any problems like the Huffy. Over the weekend I used the new bike to go do my
 laundry.
 
 ![Bicycle Laundry]({{site.assets.url_prefix}}/images/posts/bicycle-laundry.jpg "Laundry loaded in bicycle")
 
-So anyway, I've been taking my new bike into work and parking it next to my old bike. I really need to get rid of the
-Huffy, but I'm not sure what to do with it. A friend of mine suggested that I take it into Walmart and ask for a refund,
-store credit, or something. I checked for the [Walmart return policy](http://walmartstores.com/7658.aspx) online before
+So anyway, I've been taking my new bike into work and parking it next to my old
+bike. I really need to get rid of the Huffy, but I'm not sure what to do with
+it. A friend of mine suggested that I take it into Walmart and ask for a refund,
+store credit, or something. I checked for the [Walmart return
+policy](http://walmartstores.com/7658.aspx) online before
 
-I left and went all the way over to the Walmart in Oakland. The policy online, and at the store, does not state that
-bicycles are an exception. At the store it does cite that there are terms regarding certain electronics/computer items.
-The lady at the custom service desk told me that they will repair the bike, but do not accept returns if the bike has
-been used. I asked how I can get it fixed, she said the group of people which can fix the bicycles are not available
-tonight, but will be available tomorrow (I'm not available tomorrow night). I checked for signs back by the bicycles,
-and also around the custom service area, but nothing pointed out this exception in writing. I don't have my receipt
-with me, so I decided to not try to fight it, because I'm sure they'd call me out on that technicality.
+I left and went all the way over to the Walmart in Oakland. The policy online,
+and at the store, does not state that bicycles are an exception. At the store it
+does cite that there are terms regarding certain electronics/computer items. The
+lady at the custom service desk told me that they will repair the bike, but do
+not accept returns if the bike has been used. I asked how I can get it fixed,
+she said the group of people which can fix the bicycles are not available
+tonight, but will be available tomorrow (I'm not available tomorrow night). I
+checked for signs back by the bicycles, and also around the custom service area,
+but nothing pointed out this exception in writing. I don't have my receipt with
+me, so I decided to not try to fight it, because I'm sure they'd call me out on
+that technicality.
 
-I still don't want to go all the way back there just to be defeated, so here it is online for everyone to know.
-Walmart will not take back the low quality bicycle you buy from them. If you're going to buy a bicycle from them, I
-hope you consider it expendable. I bought a $70 Roadmaster mountain bike from Walmart back in 2007/2008, and it had
-issues with the brakes, and other minor things, but it was only $70 so I figured you get what you pay for. I didn't
-think that after only 2 months of riding a $150 Huffy that it would come to this. I'm going to just donate the Huffy
-to an organization or someone in need.... but I know now to tell others that seriously, if you want a bike...wait till
-you have enough money and buy a good one from a bike shop that will maintain and repair the bike...because a Walmart
-bike will only end up in the trash.
+I still don't want to go all the way back there just to be defeated, so here it
+is online for everyone to know. Walmart will not take back the low quality
+bicycle you buy from them. If you're going to buy a bicycle from them, I hope
+you consider it expendable. I bought a $70 Roadmaster mountain bike from Walmart
+back in 2007/2008, and it had issues with the brakes, and other minor things,
+but it was only $70 so I figured you get what you pay for. I didn't think that
+after only 2 months of riding a $150 Huffy that it would come to this. I'm going
+to just donate the Huffy to an organization or someone in need.... but I know
+now to tell others that seriously, if you want a bike...wait till you have
+enough money and buy a good one from a bike shop that will maintain and repair
+the bike...because a Walmart bike will only end up in the trash.
 
-Update 01/03/2012: I continued to ride the [Marin Larkspur bike](http://www.marinbikes.com/) for several months as my
-main transportation. This bike has not had any issues what-so-ever. It's worth investing in a nice sturdy bike that
-won't break on you, even if you ride it daily.
+Update 01/03/2012: I continued to ride the [Marin Larkspur
+bike](http://www.marinbikes.com/) for several months as my main transportation.
+This bike has not had any issues what-so-ever. It's worth investing in a nice
+sturdy bike that won't break on you, even if you ride it daily.

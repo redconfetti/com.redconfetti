@@ -45,53 +45,70 @@ comments:
 
 [146 Reasons Why Sugar is Ruining Your Health](http://www.rheumatic.org/sugar.htm)
 
-From [The Vegetarian Myth](http://books.google.com/books?isbn=1604860804), page 207:
+From [The Vegetarian Myth](http://books.google.com/books?isbn=1604860804), page
+207:
 
-> The pieces of the disease puzzle started coming together as early as 1885, when a German researcher found that
-> "sixty-two of seventy cancer patients were glucose-intolerant."
+> The pieces of the disease puzzle started coming together as early as 1885,
+> when a German researcher found that "sixty-two of seventy cancer patients were
+> glucose-intolerant."
 >
-> By the mid-1960s, scientists were observing that insulin stimulated malignancies to grow.
+> By the mid-1960s, scientists were observing that insulin stimulated
+> malignancies to grow.
 >
-> In 1967, Howard Temin, a Nobel prize-winning cancer researcher, found that without the presence of insulin,
-> cancerous cells didn't grow. Other doctors noted the concurrence of diabetes and breast cancer. This was in
-> 1956. And yet we've been told repeatedly to eat that high-carb diet, with its requisite insulin overload.
-> "Low-fat, plant-based" is the endless round of rosaries that our public health institutions have to offer. In fact,
-> prayer probably would be more effective &mdash; it could hardly be worse.
+> In 1967, Howard Temin, a Nobel prize-winning cancer researcher, found that
+> without the presence of insulin, cancerous cells didn't grow. Other doctors
+> noted the concurrence of diabetes and breast cancer. This was in
+> 1956. And yet we've been told repeatedly to eat that high-carb diet, with its
+> requisite insulin overload. "Low-fat, plant-based" is the endless round of
+> rosaries that our public health institutions have to offer. In fact, prayer
+> probably would be more effective &mdash; it could hardly be worse.
 >
-> Another researcher, Robert Stout of Queen&rsquo;s University, Belfast, showed how insulin both increases the
-> transfer of fats and cholesterol into the arterial walls and promotes the synthesis of fat and cholesterol within
-> the arterial lining. In 1969, he co-authored a paper with diabetologist John Vallance-Owen, blaming 'large
-> quantities of refined carbohydrates' for all of it.
+> Another researcher, Robert Stout of Queen&rsquo;s University, Belfast, showed
+> how insulin both increases the transfer of fats and cholesterol into the
+> arterial walls and promotes the synthesis of fat and cholesterol within the
+> arterial lining. In 1969, he co-authored a paper with diabetologist John
+> Vallance-Owen, blaming 'large quantities of refined carbohydrates' for all of
+> it.
 >
-> He would go on to show in 1975 that insulin triggers the growth of the smooth muscle cells of the arteries, the
-> beginning of high blood pressure and arteriosclerosis. Scientific studies had noted the concurrence of diabetes and
+> He would go on to show in 1975 that insulin triggers the growth of the smooth
+> muscle cells of the arteries, the beginning of high blood pressure and
+> arteriosclerosis. Scientific studies had noted the concurrence of diabetes and
 > Coronary Heart Disease as early as 1929.
 
 Page 170:
 
-> There is a huge array of epidemiological studies that show no correlation between saturated fat consumption,
-> cholesterol levels, and heart disease. Let's look at some of those first, not because I think they're so great as a
-> concept, but because proponents of the Lipid Hypothesis love epidemiological studies so much. First are all the
-> paradoxes: the French Paradox, the Greek Paradox, the East African paradox, the Swiss Paradox, the Pacific Island
-> Paradox. These countries have high levels of saturated fat consumption, but low levels of heart disease. France has
-> one of the highest&mdash;the French consume four and a half times as much butter as US Americans, for
+> There is a huge array of epidemiological studies that show no correlation
+> between saturated fat consumption, cholesterol levels, and heart disease.
+> Let's look at some of those first, not because I think they're so great as a
+> concept, but because proponents of the Lipid Hypothesis love epidemiological
+> studies so much. First are all the paradoxes: the French Paradox, the Greek
+> Paradox, the East African paradox, the Swiss Paradox, the Pacific Island
+> Paradox. These countries have high levels of saturated fat consumption, but
+> low levels of heart disease. France has one of the highest&mdash;the French
+> consume four and a half times as much butter as US Americans, for
 > instance&mdash;but the French have substantially lower CHD.
 >
-> The Masai of Kenya eat a diet almost entirely of meat, milk, and blood. On average, young Masai warriors ingest 300
-> grams of animal fat every day. Yet their cholesterol levels are some of the lowest found anywhere&mdash;averaging
+> The Masai of Kenya eat a diet almost entirely of meat, milk, and blood. On
+> average, young Masai warriors ingest 300 grams of animal fat every day. Yet
+> their cholesterol levels are some of the lowest found anywhere&mdash;averaging
 > under 160&mdash;and heart disease is unknown.
 >
-> On autopsy, atheromas (bad arterial plaques) were absent. George Mann, the researcher who studied the Masai, was led
-> by his findings to declare the Lipid Hypothesis "the public health diversion of this century ... the greatest scam
+> On autopsy, atheromas (bad arterial plaques) were absent. George Mann, the
+> researcher who studied the Masai, was led by his findings to declare the Lipid
+> Hypothesis "the public health diversion of this century ... the greatest scam
 > in the history of medicine."
 >
-> A study of the Samburu tribe of Uganda yielded similar findings&mdash;neither heart disease nor levated cholesterol
-> levels, despite a daily diet of 400g of animal fat. They also had no rheumatoid arthritis, degenerative arthritis,
-> or high blood pressure.
+> A study of the Samburu tribe of Uganda yielded similar findings&mdash;neither
+> heart disease nor levated cholesterol levels, despite a daily diet of 400g of
+> animal fat. They also had no rheumatoid arthritis, degenerative arthritis, or
+> high blood pressure.
 >
-> Another African pastoralist culture is the Kalenjins of Kenya. Raw and fermented dairy products form the bulk of
-> their diet. Not only are they free of chronic and degenerative diseases, they are world-renowned runners.
-> 'Athletes from this one tribe of 3 million people have won 40 percent of all the highest international honors
-> available in men's distance running,' in track, cross-country, and road racing.
+> Another African pastoralist culture is the Kalenjins of Kenya. Raw and
+> fermented dairy products form the bulk of their diet. Not only are they free
+> of chronic and degenerative diseases, they are world-renowned runners.
+> 'Athletes from this one tribe of 3 million people have won 40 percent of all
+> the highest international honors available in men's distance running,' in
+> track, cross-country, and road racing.
 
-The Vegetarian Myth is also available as [an audio book on Audible.com](http://www.audible.com/pd?asin=B0071N6K4E).
+The Vegetarian Myth is also available as [an audio book on
+Audible.com](http://www.audible.com/pd?asin=B0071N6K4E).

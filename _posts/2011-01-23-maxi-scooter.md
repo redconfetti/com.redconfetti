@@ -11,12 +11,15 @@ tags:
 - motorcycle
 ---
 
-My car is in the shop right now, getting checked out by a mechanic to see what is wrong with it. I could put $2500 into
-it to fix it, or I could pay $960 to pay off the car and get the title, then donate the car to some charity (so they
-can salvage it). I'll have to see what the damage is when I talk to the mechanic on Monday.
+My car is in the shop right now, getting checked out by a mechanic to see what
+is wrong with it. I could put $2500 into it to fix it, or I could pay $960 to
+pay off the car and get the title, then donate the car to some charity (so they
+can salvage it). I'll have to see what the damage is when I talk to the mechanic
+on Monday.
 
-I've been thinking, if the car is beyond reasonable repair, I think I'll donate it and get a scooter. The question is
-which scooter? I know I want a maxi-scooter that I can use to cruise across the country if I wanted to.
+I've been thinking, if the car is beyond reasonable repair, I think I'll donate
+it and get a scooter. The question is which scooter? I know I want a
+maxi-scooter that I can use to cruise across the country if I wanted to.
 
 Options I am considering are:
 

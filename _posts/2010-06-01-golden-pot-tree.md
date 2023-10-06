@@ -26,8 +26,9 @@ comments:
   content: "I remember that...:)\r\n\r\nGood times."
 ---
 
-I made this song a while back. It's a pretty nice one on acoustic guitar.
-You might have heard it while on hold for [HostDime.com](http://www.hostdime.com/) back in 2004-2008.
+I made this song a while back. It's a pretty nice one on acoustic guitar. You
+might have heard it while on hold for [HostDime.com](http://www.hostdime.com/)
+back in 2004-2008.
 
 [Golden Pot Tree]({{site.assets.url_prefix}}/mp3/misc/redconfetti-golden-pot-tree.mp3)
 

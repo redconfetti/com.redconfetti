@@ -98,54 +98,72 @@ comments:
     and Get Well.
 ---
 
-I noticed recently that my pinky finger, the meat of the palm just below it on the front, and half of my ringer
-finger, on the right hand, have a tingling sensation as if they have fallen asleep. No pain, no "pins and needles".
-Just a lack of clear sensation when gripping something with those fingers, especially shampooing my hair in the
-morning.
+I noticed recently that my pinky finger, the meat of the palm just below it on
+the front, and half of my ringer finger, on the right hand, have a tingling
+sensation as if they have fallen asleep. No pain, no "pins and needles". Just a
+lack of clear sensation when gripping something with those fingers, especially
+shampooing my hair in the morning.
 
-The first thing I thought was that [Carpel Tunnel Syndrome](http://en.wikipedia.org/wiki/Carpal_tunnel_syndrome) (CTS)
-that is common amongst people who use a computer like I do 8 hours a day for the last 15+ years. I looked into this
-however and found that CTS only affects the
-[other portions of my hand](http://www.nlm.nih.gov/medlineplus/ency/imagepages/1081.htm).
+The first thing I thought was that [Carpel Tunnel
+Syndrome](http://en.wikipedia.org/wiki/Carpal_tunnel_syndrome) (CTS) that is
+common amongst people who use a computer like I do 8 hours a day for the last
+15+ years. I looked into this however and found that CTS only affects the [other
+portions of my
+hand](http://www.nlm.nih.gov/medlineplus/ency/imagepages/1081.htm).
 
 ![carpal tunnel syndrome]({{site.assets.url_prefix}}/images/posts/carpal-tunnel-syndrome.jpg "carpal tunnel syndrome")
 
-So there must be something less intense with a different nerve going on here, and not the median nerve. It turns out
-that in my case it's the ulnar nerve that is being pinched or something. I read the article on wikipedia on
-[ulnar nerve entrapment](http://en.wikipedia.org/wiki/Ulnar_nerve_entrapment) and at first read the description of
-[Guyon's Canal Syndrome](http://en.wikipedia.org/wiki/Guyon%27s_canal_syndrome). This really freaked me out because it
-mentioned bicycling, and a possible situation where I lose strength in the fingers and form an
-[ulnar claw](http://en.wikipedia.org/wiki/Ulnar_claw). I ride a bicycle to work every day, then sit in front of a
-computer...plus if you read my last post you'll see I just got a new motorcycle. I definitely don't want to be put on
-a no-bike time out. Plus the symptoms sounded horrible.
+So there must be something less intense with a different nerve going on here,
+and not the median nerve. It turns out that in my case it's the ulnar nerve that
+is being pinched or something. I read the article on wikipedia on [ulnar nerve
+entrapment](http://en.wikipedia.org/wiki/Ulnar_nerve_entrapment) and at first
+read the description of [Guyon's Canal
+Syndrome](http://en.wikipedia.org/wiki/Guyon%27s_canal_syndrome). This really
+freaked me out because it mentioned bicycling, and a possible situation where I
+lose strength in the fingers and form an [ulnar
+claw](http://en.wikipedia.org/wiki/Ulnar_claw). I ride a bicycle to work every
+day, then sit in front of a computer...plus if you read my last post you'll see
+I just got a new motorcycle. I definitely don't want to be put on a no-bike time
+out. Plus the symptoms sounded horrible.
 
-Well, as I rode my bike home last night I paid attention to how I leaned over on the bike. I distribute my weight
-evenly over the handlebars and seat, and don't lean on one handlebar more than the other. To do so would cause me to
-turn to the right instead of riding in a straight line. I couldn't understand how this would cause stress, other than
-perhaps the angle of my arm in relation to my hand.
+Well, as I rode my bike home last night I paid attention to how I leaned over on
+the bike. I distribute my weight evenly over the handlebars and seat, and don't
+lean on one handlebar more than the other. To do so would cause me to turn to
+the right instead of riding in a straight line. I couldn't understand how this
+would cause stress, other than perhaps the angle of my arm in relation to my
+hand.
 
-Also, the previous weekend when I had gone to a motorcycle riders course, my left hand was getting tired, sore, and
-then numb from holding a difficult clutch in when we were idling and waiting to let out the clutch to move forward in
-1st gear. This made me wonder if perhaps my right hand was being stressed somehow from the new angle which I held the
-throttle on the motorcycle. I didn't notice any stress on the right hand though the previous weekend, it was the left.
+Also, the previous weekend when I had gone to a motorcycle riders course, my
+left hand was getting tired, sore, and then numb from holding a difficult clutch
+in when we were idling and waiting to let out the clutch to move forward in 1st
+gear. This made me wonder if perhaps my right hand was being stressed somehow
+from the new angle which I held the throttle on the motorcycle. I didn't notice
+any stress on the right hand though the previous weekend, it was the left.
 
-The only other possibility I could think of would be how I sleep at night. I sleep on my stomach with my right arm
-under the pillow, and my head rested on the pillow right above my right shoulder. Sometimes I switch to the left arm,
-but I tend to sleep on the right with my face pointed to the left. Well, last night I tried to sleep on my left
-shoulder/arm instead, but ended up switching back to the right in the middle of the night. I woke up at one point and
-noticed that the right hand was more numb and tingly than it is during the day. Bingo! It looks like this is caused by
-[Cubital Tunnel Syndrome](http://en.wikipedia.org/wiki/Ulnar_nerve_entrapment#Cubital_Tunnel_Syndrome). I guess some
-call this 'Cell Phone Elbow Syndrome'.
+The only other possibility I could think of would be how I sleep at night. I
+sleep on my stomach with my right arm under the pillow, and my head rested on
+the pillow right above my right shoulder. Sometimes I switch to the left arm,
+but I tend to sleep on the right with my face pointed to the left. Well, last
+night I tried to sleep on my left shoulder/arm instead, but ended up switching
+back to the right in the middle of the night. I woke up at one point and noticed
+that the right hand was more numb and tingly than it is during the day. Bingo!
+It looks like this is caused by [Cubital Tunnel
+Syndrome](http://en.wikipedia.org/wiki/Ulnar_nerve_entrapment#Cubital_Tunnel_Syndrome).
+I guess some call this 'Cell Phone Elbow Syndrome'.
 
 [<img title="cubital-tunnel-syndrome" src="{{site.assets.url_prefix}}/images/posts/cubital-tunnel-syndrome.jpg" alt="" width="300" />](http://www.thepicky.com/gadgets/what-is-cell-phone-elbow-syndrome/)
 
-> __Cubital tunnel syndrome__ occurs when the ulnar nerve is obstructed during its path along the
-[cubital tunnel](http://en.wikipedia.org/wiki/Cubital_tunnel); the outer edge of the elbow. This compression of the
-nerve often leads to a tingling or 'pins and needles' sensation in the little and ring fingers. Most cases will be
-minor and tend to come and go with time. Common causes are sleeping with the arm folded up, so the hand is at the
-person's neck and the elbow is sharply bent. These people frequently wake up with tingling in the fingers, because the
-nerve has been pinched or squeezed while asleep. Treatment of these types of causes are easy to remedy and can involve
-simply altering sleeping positions to avoid aggravating the elbow area. In more extreme cases however where tingling
-is persistent, surgery is an option to move the nerve away from the area
+> __Cubital tunnel syndrome__ occurs when the ulnar nerve is obstructed during
+its path along the [cubital
+tunnel](http://en.wikipedia.org/wiki/Cubital_tunnel); the outer edge of the
+elbow. This compression of the nerve often leads to a tingling or 'pins and
+needles' sensation in the little and ring fingers. Most cases will be minor and
+tend to come and go with time. Common causes are sleeping with the arm folded
+up, so the hand is at the person's neck and the elbow is sharply bent. These
+people frequently wake up with tingling in the fingers, because the nerve has
+been pinched or squeezed while asleep. Treatment of these types of causes are
+easy to remedy and can involve simply altering sleeping positions to avoid
+aggravating the elbow area. In more extreme cases however where tingling is
+persistent, surgery is an option to move the nerve away from the area
 
 Shew! I really dodged one there.

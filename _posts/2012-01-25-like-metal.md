@@ -9,5 +9,6 @@ categories:
 - personal
 ---
 
-The self concepts, the conditioning, the patterns, are like metal welded to our soul. Some things can snap off us,
-others require much bending and heat until it breaks off with a twisted metal stump.
+The self concepts, the conditioning, the patterns, are like metal welded to our
+soul. Some things can snap off us, others require much bending and heat until it
+breaks off with a twisted metal stump.

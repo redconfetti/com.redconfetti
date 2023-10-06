@@ -11,6 +11,8 @@ tags:
 - transfat
 ---
 
-A friend of mine just made me aware of
-[this article](http://www.functionalps.com/blog/2012/12/13/how-vegetable-oils-replaced-animal-fats-in-the-american-diet/)
-explaining how Procter & Gamble convinced the Western world to cook food in partially hydrogenated cottonseed oil.
+A friend of mine just made me aware of [this article][] explaining how Procter &
+Gamble convinced the Western world to cook food in partially hydrogenated
+cottonseed oil.
+
+[this article]: http://www.functionalps.com/blog/2012/12/13/how-vegetable-oils-replaced-animal-fats-in-the-american-diet/

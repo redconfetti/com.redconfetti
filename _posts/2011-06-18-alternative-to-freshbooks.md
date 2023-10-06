@@ -82,25 +82,32 @@ comments:
     free online accounting software. Easy to use.
 ---
 
-I've been using [Freshbooks](http://www.freshbooks.com/) for time tracking and invoicing of clients for over a year
-now, but I'm finding that the $19.95 a month pricing is a bit high for someone like me.
+I've been using [Freshbooks](http://www.freshbooks.com/) for time tracking and
+invoicing of clients for over a year now, but I'm finding that the $19.95 a
+month pricing is a bit high for someone like me.
 
-I have a number of various clients that ask me to do work on their website, and recently someone wanted me to teach
-them PHP via Skype. These are all projects I'm doing on the side, outside of my normal day-time job hours, so I'm not
-bringing in a lot of money with these side projects. I'm one guy with several clients, but each client might be one
-small job that pays about $100-$200, sometimes like $400. At $19.95 per a month that comes out to approximately $240 a
-year. I might have brought in about $1000 this year, so that $240 is cutting into about a quarter of the income it
-helps me produce.
+I have a number of various clients that ask me to do work on their website, and
+recently someone wanted me to teach them PHP via Skype. These are all projects
+I'm doing on the side, outside of my normal day-time job hours, so I'm not
+bringing in a lot of money with these side projects. I'm one guy with several
+clients, but each client might be one small job that pays about $100-$200,
+sometimes like $400. At $19.95 per a month that comes out to approximately $240
+a year. I might have brought in about $1000 this year, so that $240 is cutting
+into about a quarter of the income it helps me produce.
 
-Because of this I decided to look for a more competitive, yet equivalent replacement. I was almost sure I had found
-this through [Curdbee](http://www.curdbee.com/), but they do not have an API or reliable error free time tracking
-method. I'm used to using the Freshbooks dashboard widget for Mac computer to keep track of the time. I don't have to
-worry about accidentally closing my browser window and loosing the time I've already tracked during one session, and
-even if I forget to clock out and shutdown the computer, when I start the computer up again I see that it continues
-from the time that it saved the start of my session. In such cases, which do occur at times, I'm able to modify the
-time with a fair estimate and submit the time. Having a desktop widget or application that works like this is key to
-tracking time for each task I work on, and later on invoicing the client for the work (with detailed task-by-task time
-tracking).
+Because of this I decided to look for a more competitive, yet equivalent
+replacement. I was almost sure I had found this through
+[Curdbee](http://www.curdbee.com/), but they do not have an API or reliable
+error free time tracking method. I'm used to using the Freshbooks dashboard
+widget for Mac computer to keep track of the time. I don't have to worry about
+accidentally closing my browser window and loosing the time I've already tracked
+during one session, and even if I forget to clock out and shutdown the computer,
+when I start the computer up again I see that it continues from the time that it
+saved the start of my session. In such cases, which do occur at times, I'm able
+to modify the time with a fair estimate and submit the time. Having a desktop
+widget or application that works like this is key to tracking time for each task
+I work on, and later on invoicing the client for the work (with detailed
+task-by-task time tracking).
 
 I believe I've found a worthy competitor of Freshbooks for my time tracking needs in
 [Harvest](http://www.getharvest.com/).

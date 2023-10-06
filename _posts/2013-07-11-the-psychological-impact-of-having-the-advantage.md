@@ -13,8 +13,10 @@ tags:
 - rich
 ---
 
-Makes you think about people who are born into privilege. Matches up with how things are in general as well. They
-can't help but justify what they've received, as if they've earned it...worked "hard" for it. They have no idea how
+Makes you think about people who are born into privilege. Matches up with how
+things are in general as well. They can't help but justify what they've
+received, as if they've earned it...worked "hard" for it. They have no idea how
 much more effort is necessary to achieve.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/IuqGrz-Y_Lc" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IuqGrz-Y_Lc"
+ frameborder="0" allowfullscreen></iframe>

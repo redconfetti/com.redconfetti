@@ -13,16 +13,20 @@ tags:
 - budget
 ---
 
-I was told recently that beginning on the 28th of this month I will begin to receive a salary of at least $2000 each
-month. I am going to pay the next months rent and bills immediately out of this lump sum, as well as set aside a
-minimum for things such as groceries. The rest of which is left over as my monthly cash flow will go towards figuring
-my taxes for last year, as well as learning what I must do to estimate my taxes for the rest of this year and how to
-send those taxes in quarterly.
+I was told recently that beginning on the 28th of this month I will begin to
+receive a salary of at least $2000 each month. I am going to pay the next months
+rent and bills immediately out of this lump sum, as well as set aside a minimum
+for things such as groceries. The rest of which is left over as my monthly cash
+flow will go towards figuring my taxes for last year, as well as learning what I
+must do to estimate my taxes for the rest of this year and how to send those
+taxes in quarterly.
 
-After I resolve that issue, I will pay the fines which are required of me for the tickets and court costs that are due
-from being pulled over twice in January and once in February. This shouldn't take me more than two months. I will then
-make necessary repairs to my car. After these necessary expenses, I will use this cash flow to pay off my credit debt.
-The credit debt will take approx. 10 months to pay off if I make! payments of $700 per a month.
+After I resolve that issue, I will pay the fines which are required of me for
+the tickets and court costs that are due from being pulled over twice in January
+and once in February. This shouldn't take me more than two months. I will then
+make necessary repairs to my car. After these necessary expenses, I will use
+this cash flow to pay off my credit debt. The credit debt will take approx. 10
+months to pay off if I make! payments of $700 per a month.
 
 Here is my proposed budget:
 
@@ -46,5 +50,6 @@ Here is my proposed budget:
 | Cashflow: | $720.47 |
 {:.classic-table-style}
 
-On a side note, after completing what needs to be done for my taxes, I will transfer the balance of my credit cards to
-a [Fairwinds Credit Union](http://www.fairwinds.org/) loan.
+On a side note, after completing what needs to be done for my taxes, I will
+transfer the balance of my credit cards to a [Fairwinds Credit
+Union](http://www.fairwinds.org/) loan.

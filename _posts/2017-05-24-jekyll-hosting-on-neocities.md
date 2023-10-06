@@ -11,24 +11,24 @@ tags:
 - neocities
 ---
 
-# Install Jekyll
+## Install Jekyll
 
 Tutorial on how to install Jekyll
 
-# Test Locally
+## Test Locally
 
 Show how to run `jekyll serve` or `jekyll build`
 
-# Establish Assets
+## Establish Assets
 
 Recommend where to store assets.
 
-# Install and Configure Git-LFS
+## Install and Configure Git-LFS
 
 * [Git-LFS](https://git-lfs.github.com/)
 * [Installing Git-LFS](https://help.github.com/articles/installing-git-large-file-storage/)
 * [Github - Removing Files from a Repository's History](https://help.github.com/articles/removing-files-from-a-repository-s-history/)
 
-# Neocities Gem
+## Neocities Gem
 
 Tutorial on the configuration and use of the Neocities gem.

@@ -11,7 +11,7 @@ tags:
 - emoji
 ---
 
-# Unicode Emoji Reference
+## Unicode Emoji Reference
 
 Based on [Full Emoji Data, v5.0](http://unicode.org/emoji/charts/full-emoji-list.html)
 

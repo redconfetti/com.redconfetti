@@ -10,8 +10,9 @@ categories:
 ---
 
 <object width="512" height="288">
-	<param name="movie" value="http://www.hulu.com/embed/VbMAslNzV-EWVemRPK2Prw" />
-	<param name="allowFullScreen" value="true" />
-	<embed src="http://www.hulu.com/embed/VbMAslNzV-EWVemRPK2Prw" type="application/x-shockwave-flash"  width="512" height="288" allowFullScreen="true" />
+  <param name="movie" value="http://www.hulu.com/embed/VbMAslNzV-EWVemRPK2Prw" />
+  <param name="allowFullScreen" value="true" />
+  <embed src="http://www.hulu.com/embed/VbMAslNzV-EWVemRPK2Prw"
+    type="application/x-shockwave-flash" width="512" height="288"
+    allowFullScreen="true" />
 </object>
-

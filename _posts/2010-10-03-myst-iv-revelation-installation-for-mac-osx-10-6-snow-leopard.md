@@ -71,8 +71,10 @@ This was taken from [GoodUser.info](http://www.gooduser.info/entry/install-myst-
 1. In the terminal type `cd /Ubisoft/MystIV`, press enter, then run `chmod -R 777 myst4.app`
 1. Run the game by opening Myst4 under the Macintosh HD/Ubisoft/MystIV directory.
 
-The installation instructions above worked like a charm, however running the program is the new issue now.
-Everytime I try to execute it, it crashes. It appears that there
-[isn't any fix](http://forums.ubi.com/eve/forums/a/tpc/f/580100736/m/2311057787/p/3) other than to install using the
-installer from [here](http://dl.dropbox.com/u/522679/Myst/index.html), which uses the PC version with Cider....which
-has worked perfectly fine so far.
+The installation instructions above worked like a charm, however running the
+program is the new issue now. Everytime I try to execute it, it crashes. It
+appears that there [isn't any
+fix](http://forums.ubi.com/eve/forums/a/tpc/f/580100736/m/2311057787/p/3) other
+than to install using the installer from
+[here](http://dl.dropbox.com/u/522679/Myst/index.html), which uses the PC
+version with Cider....which has worked perfectly fine so far.

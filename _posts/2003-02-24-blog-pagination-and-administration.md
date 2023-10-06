@@ -12,8 +12,9 @@ tags:
 - PHP Programming
 ---
 
-I've added the NEXT/PREV links to the main blog page...and they appear to work just fine now. Next I'm going to add
-them to the administration section.
+I've added the NEXT/PREV links to the main blog page...and they appear to work
+just fine now. Next I'm going to add them to the administration section.
 
-Also I had a problem password-protecting the administration section, however I just sent in a request to Liquidpages
-to activate HTACCESS on the administration directories for my blog, as well as Marshall's.
+Also I had a problem password-protecting the administration section, however I
+just sent in a request to Liquidpages to activate HTACCESS on the administration
+directories for my blog, as well as Marshall's.
