@@ -3,7 +3,7 @@ layout: post
 published: false
 title: Aloneness
 author: maxwell keyes
-date: "2020-02-21 07:17:26 -0800"
+date: '2020-02-21 07:17:26 -0800'
 categories:
   - spirituality
 tags:

@@ -25,6 +25,23 @@ github_username: redconfetti
 assets:
   url_prefix: "https://s3-us-west-1.amazonaws.com/assets.redconfetti.com"
 
+prose:
+  siteurl: 'https://redconfetti.com/'
+  media: 'assets'
+  ignore:
+    - .vscode
+    - .editorconfig
+    - .gitignore
+    - .markdownlint.json
+    - .ruby-gemset
+    - .ruby-version
+    - /_layouts
+    - /_includes
+    - /_sass
+    - Gemfile
+    - Gemfile.lock
+    - Rakefile
+
 # Build settings
 markdown: kramdown
 # theme: minima
@@ -71,4 +88,3 @@ exclude:
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
-
