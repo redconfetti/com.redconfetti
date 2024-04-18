@@ -14,8 +14,8 @@ this as a kid, along with 'Unsolved Mysteries'.
 
 ## Part One
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/i_K6tSOahf0" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AJ5NY2geSL4?si=mWKbO-pOImZqfg7x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Part Two
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gho9qnlvOgY" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g-CqowsrZ-U?si=4Cn77DpAzlx5G7uU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

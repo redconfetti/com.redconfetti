@@ -1,6 +1,6 @@
 ---
 layout: post
-published: true
+published: false
 title: San Francisco Bay Area Hiking Suggestions
 author: maxwell keyes
 date: '2014-10-08 16:15:15 -0700'

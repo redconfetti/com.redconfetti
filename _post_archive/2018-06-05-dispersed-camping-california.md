@@ -1,6 +1,6 @@
 ---
 layout: post
-published: true
+published: false
 title: Dispersed Camping in California
 author: maxwell keyes
 date: '2018-06-05 17:04:10 -0700'
