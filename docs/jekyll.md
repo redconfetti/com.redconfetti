@@ -19,6 +19,10 @@ This site uses the [jekyll-theme-console] theme.
 
 [supported-languages]: https://github.com/highlightjs/highlight.js/blob/main/SUPPORTED_LANGUAGES.md
 
+## SEO / OpenGraph
+
+The Console theme makes use of [Jekyll-SEO-Tag](https://github.com/jekyll/jekyll-seo-tag)
+
 ## Index Content
 
 You’ll find this post in your `_posts` directory. Go ahead and edit it and

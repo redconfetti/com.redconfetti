@@ -5,13 +5,17 @@ title: Understanding MIDI
 date: 2024-04-17 14:02:00 -0500
 comments: true
 categories:
-  - music production
+  - music-production
 tags:
   - cubase
   - midi
   - sysex
   - alesis v49
-image: posts/2024-04-17/minimal-midi-chain.png
+image: 
+  path: https://s3-us-west-1.amazonaws.com/assets.redconfetti.com/images/posts/2024-04-17/minimal-midi-chain.png
+  width: 450
+  height: 207
+  alt: Example MIDI Diagram
 ---
 
 [MIDI][] was originally created as a standard to enable musical devices, such as
@@ -67,8 +71,8 @@ A sequencer is a device that records and plays back a "sequence" of MIDI
 messages. The MIDI standard allows for up to 16 different channels of MIDI
 messages, and a MIDI controller can be configured to send note messages on one
 of those 16 MIDI channels. Some controllers even support the ability to "split"
-the keyboard into different "zones" that can send note messages to different MIDI
-channels.
+the keyboard into different "zones" that can send note messages to different
+MIDI channels.
 
 MIDI devices can be networked together, in a daisy chain configuration, using
 the "MIDI THRU" port of one device to connect to the next device. For MIDI

@@ -5,15 +5,17 @@ title: Demystifying MIDI in Cubase
 date: 2024-04-17 12:35:00 -0500
 comments: true
 categories:
-  - music production
+  - music-production
 tags:
   - Cubase
   - MIDI
   - SysEx
-image: posts/2024-04-18/cubase-midi-remote-placement.png
+image: 
+  path: https://s3-us-west-1.amazonaws.com/assets.redconfetti.com/images/posts/2024-04-18/cubase-midi-remote-placement.png
+  width: 800
+  height: 288
+  alt: Cubase MIDI Remote placement
 ---
-
-*April 18, 2024 by Jason Miller*
 
 This article is for Cubase users that own a MIDI controller, and that are
 struggling to fully control their virtual or external instruments using that
@@ -22,7 +24,7 @@ controller to optimize their music creation workflow.
 If you feel like you don't understand portions of this article, make sure to
 read my other article on [Understanding MIDI][].
 
-[Understanding MIDI]: /music%20production/2024/04/17/understanding-midi.html
+[Understanding MIDI]: /music-production/2024/04/17/understanding-midi.html
 
 ## MIDI Controllers
 

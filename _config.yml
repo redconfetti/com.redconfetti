@@ -18,9 +18,33 @@ email: jason@redconfetti.com
 description: > # this means to ignore newlines until "baseurl:"
   The Journal of Maxwell Keyes
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "redconfetti.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://redconfetti.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: redconfetti
 github_username: redconfetti
+
+logo: https://s3-us-west-1.amazonaws.com/assets.redconfetti.com/images/redconfetti.png
+author:
+  name: Jason Miller
+  picture: https://s3-us-west-1.amazonaws.com/assets.redconfetti.com/images/jason-miller.jpg
+  twitter: redconfetti
+social:
+  name: Jason Miller
+  links:
+    - https://twitter.com/redconfetti
+    - https://www.facebook.com/redconfetti2.0
+    - https://github.com/redconfetti
+    - https://redconfetti.bandcamp.com/
+twitter:
+  username: redconfetti
+  card: summary
+
+# FrontMatter Defaults
+# https://jekyllrb.com/docs/configuration/front-matter-defaults/
+defaults:
+  - scope:
+      path: ""
+    values:
+      seo_description_max_words: 200
 
 assets:
   url_prefix: "https://s3-us-west-1.amazonaws.com/assets.redconfetti.com"
