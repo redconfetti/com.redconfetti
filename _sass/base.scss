@@ -22,6 +22,12 @@ a:hover { color: var(--background-color); background-color: var(--base-color); }
 @media only screen and (max-device-width: 500px) { * { font-size: $mobile-font-size !important; } }
 
 /**
+ * Blockquote
+ */
+blockquote { border-left: thick double var(--code-color-1); padding-left: 10px; margin-left: 0; }
+blockquote p { color: var(--code-color-9); }
+
+/**
  * Layout
  */
 .container { width: $container-width;  max-width: $container-max-width;  margin-right: auto;  margin-left: auto; }
@@ -62,7 +68,7 @@ footer { margin-bottom: 20px; }
  * Header/Navigation
  */
 .menu { border-top: var(--border);  border-bottom: var(--border);  margin-bottom: 25px; }
-.menu ul { margin-top: 12px;  margin-bottom: 12px;  padding-left: 0px;  list-style-type: none;  text-align: right; }
+.menu ul { margin-top: 12px;  margin-bottom: 12px;  padding-left: 0px;  list-style-type: none;  text-align: left; }
 .menu ul li { display: inline;  margin-left: 10px; }
 .menu ul li a { text-decoration: none;  color: var(--text-color); }
 .menu ul li a:hover { text-decoration: none; color: var(--background-color); background-color: var(--base-color); }
@@ -87,6 +93,7 @@ textarea { vertical-align: top; }
 .lineno { color: var(--code-color-1); margin-right: 15px; }
 figure.highlight { margin: 5px 0; }
 pre { background-color: var(--background-color);  border: none;  padding: 0;  margin: 0;  overflow:auto;  font-size: $base-font-size;  color: var(--text-color);  line-height: 1.7 !important;  font-family: $base-font-family !important; }
+.highlight { margin: 25px 0; }
 .highlight .hll { background-color: var(--code-color-2); }
 .highlight .c { color: var(--code-color-1); font-style: italic } /* Comment */
 .highlight .err { color: var(--code-color-3); background-color: var(--code-color-4); } /* Error */

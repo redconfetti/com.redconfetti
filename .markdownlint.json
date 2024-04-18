@@ -4,5 +4,6 @@
     "code_blocks": false,
     "tables": false
   },
+  "prettier.semi": false,
   "MD033": false
 }

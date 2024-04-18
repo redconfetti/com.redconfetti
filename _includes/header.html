@@ -1,87 +1,31 @@
 {%- assign page_paths = site.header_pages | default: default_paths -%}
+<!--
+                    __                 ____     __  __  _
+    ________  ____/ /________  ____  / __/__  / /_/ /_(_)
+    / ___/ _ \/ __  / ___/ __ \/ __ \/ /_/ _ \/ __/ __/ /
+  / /  /  __/ /_/ / /__/ /_/ / / / / __/  __/ /_/ /_/ /
+  /_/   \___/\__,_/\___/\____/_/ /_/_/  \___/\__/\__/_/
+-->
 <header>
   <a href="/">
     <div class="logo">
-      <!--
-                         __                 ____     __  __  _
-          ________  ____/ /________  ____  / __/__  / /_/ /_(_)
-         / ___/ _ \/ __  / ___/ __ \/ __ \/ /_/ _ \/ __/ __/ /
-        / /  /  __/ /_/ / /__/ /_/ / / / / __/  __/ /_/ /_/ /
-       /_/   \___/\__,_/\___/\____/_/ /_/_/  \___/\__/\__/_/
-      -->
-      &nbsp;&nbsp;&nbsp;&nbsp;
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      <span class="redl">__</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      <span class="greyl">____</span>&nbsp;&nbsp;&nbsp;&nbsp;
-      <span class="greyl">__</span>&nbsp;
-      <span class="greyd">__</span>&nbsp;
-      <span class="greyd">_</span><br />
-
-      &nbsp;&nbsp;
-      <span class="redl">________</span>&nbsp;
-      <span class="redl">____/</span>
-      <span class="redl">/</span><span class="greyl">________</span>&nbsp;
-      <span class="greyl">____</span>&nbsp;
-      <span class="greyl">/</span>
-      <span class="greyl">__/__</span>&nbsp;
-      <span class="greyl">/</span>
-      <span class="greyd">/_/</span>&nbsp;<span class="greyd">/_(_)</span><br />
-
-      &nbsp;&nbsp;<span class="redl">/</span>
-      <span class="redl">___/</span>
-      <span class="greyl">_</span>
-      <span class="greyl">\/</span>
-      <span class="greyl">__</span>&nbsp;
-      <span class="greyl">/</span>
-      <span class="greyl">___/</span>
-      <span class="greyl">__</span>
-      <span class="greyd">\/</span>
-      <span class="greyd">__</span>
-      <span class="greyd">\/</span>
-      <span class="greyd">/_/</span>
-      <span class="greyd">_</span>
-      <span class="greyd">\/</span>
-      <span class="greyd">__/</span>
-      <span class="greyd">__/&nbsp;</span><span class="greyd">/</span><br />
-
-      &nbsp;<span class="redl">/</span>
-      <span class="greyl">/</span>&nbsp;
-      <span class="greyl">/</span>&nbsp;
-      <span class="greyl">__/</span>
-      <span class="greyl">/_/</span>
-      <span class="greyl">/</span>
-      <span class="greyl">/__/</span>
-      <span class="greyd">/_/</span>
-      <span class="greyd">/</span>
-      <span class="greyd">/</span>
-      <span class="greyd">/</span>
-      <span class="greyd">/</span>
-      <span class="greyd">__/</span>&nbsp;
-      <span class="greyd">__/</span>
-      <span class="greyd">/_/</span>
-      <span class="redl">/_/</span>
-      <span class="redl">/</span><br />
-
-      <span class="greyl">/_/</span>&nbsp;&nbsp;
-      <span class="greyl">\___/\__,</span><span class="greyd">_/\___/\____/_/</span>
-      <span class="greyd">/_/_/</span>&nbsp;
-      <span class="greyd">\</span><span class="redl">___/\__/\__/_/</span><br />
-      <br />
+      <img src="{{site.assets.url_prefix}}/images/redconfetti.png" />
     </div>
   </a>
 
   <div class="menu">
     <ul>
-      {%- for path in page_paths -%}
-        {%- assign my_page = site.pages | where: "path", path | first -%}
-        {%- if my_page.title -%}
-        <li><a href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a></li>
-        {%- endif -%}
-      {%- endfor -%}
+      <li><a href="/">Blog</a></li>
+      {%- for path in page_paths -%} {%- assign my_page = site.pages | where:
+      "path", path | first -%} {%- if my_page.title -%}
+      <li>
+        <a href="{{ my_page.url | relative_url }}"
+          >{{ my_page.title | escape }}</a
+        >
+      </li>
+      {%- endif -%} {%- endfor -%}
     </ul>
   </div>
 
   <h1>{{ page.title }}</h1>
 </header>
-

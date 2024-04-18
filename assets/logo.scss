@@ -9,9 +9,6 @@
   --logo-color-grey-light: #cdcdcd;
 }
 
-.logo .greend { color: var(--logo-color-green-dark); }
-.logo .greenl { color: var(--logo-color-green-light); }
-.logo .redd { color: var(--logo-color-red-dark); }
-.logo .redl { color: var(--logo-color-red-light); }
-.logo .greyd { color: var(--logo-color-grey-dark); }
-.logo .greyl { color: var(--logo-color-grey-light); }
+.logo {
+  margin-bottom: 10px;
+}

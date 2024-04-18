@@ -10,26 +10,32 @@ I contribute to a Ruby / Rails blog called [Ruby Colored Glasses][]
 
 I was formerly a student of the [Diamond Approach][].
 
-<img src="{{site.assets.url_prefix}}/images/pages/about/maxwell-keyes.jpg"
-  alt="Maxwell Keyes" title="Maxwell Keyes" width="550"
+<img src="{{site.assets.url_prefix}}/images/jason-miller.jpg"
+  alt="Jason Miller" title="Jason Miller" width="550"
 />
 
 [Diamond Approach]: https://en.wikipedia.org/wiki/A._H._Almaas#Diamond_Approach
 [Ruby Colored Glasses]: http://www.rubycoloredglasses.com/
 
-```
->> maxwell.created_at
+```ruby
+>> jason.created_at
 => '1982-01-26 17:29:00'
 ```
 
-I also play guitar and keyboard, and produce my own [music].
+I play guitar and keyboard, and produce my own [music].
 
-Not that I purposefully used the name 'Redconfetti' because of this, I find it
-interesting that it's in [this quote][] from one of my favorite shows growing up
-(it was on Nick at Night), Get Smart.
+I'm also currently learning [powered paragliding][] on the weekends.
+
+[powered paragliding]: https://en.wikipedia.org/wiki/Powered_paragliding
+
+I came up with the name 'redconfetti' long ago when I was trying to come up
+with possible band names. Strange enough, I find it interesting that it's in
+[this quote][] from one of my favorite shows that aired on Nick at Night,
+[Get Smart][].
 
 [music]: http://music.redconfetti.com/
 [this quote]: http://sharetv.org/shows/get_smart_1965/quotes/pg-8
+[Get Smart]: https://en.wikipedia.org/wiki/Get_Smart
 
 > Chief: It's KAOS confetti. This is how they contacted their agents.
 >
