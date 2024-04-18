@@ -1,6 +1,6 @@
 ---
 layout: post
-published: true
+published: false
 title: A Letter to My Former Self
 author: maxwell keyes
 wordpress_id: 1577

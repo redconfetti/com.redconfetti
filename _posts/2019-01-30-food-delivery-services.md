@@ -24,18 +24,24 @@ certain ones go away.
   * [Territory Foods](https://www.territoryfoods.com/yum/CHNB)
   * [Freshly](https://www.freshly.com/)
 * Tailored Meal-Kits
-  * [Home Chef](https://www.homechef.com/invite/aov6xuW1mooQ) - Provides low-carb options
+  * [Home Chef](https://www.homechef.com/invite/aov6xuW1mooQ) - Provides
+    low-carb options
   * [Blue Apron](https://www.blueapron.com)
   * [Plated](https://www.plated.com/) - Economical meal kits ($4.78 per serving)
-  * [Every Plate](https://www.everyplate.com/) - Economical meal kits ($4.99 per serving)
+  * [Every Plate](https://www.everyplate.com/) - Economical meal kits ($4.99 per
+    serving)
   * [Hello Fresh](https://www.hellofresh.com/) - Advertises shorter prep time
-  * [Sun Basket](https://sunbasket.com/) - Caters to healthy / organic consumers (Paleo, Lean & Clean, Gluten-Free, Vegan, and more)
-  * [Green Chef](https://greenchef.com/home) - Organic meals for Keto, Paleo, Heart Smart, Omnivore, or Vegan lifestyle
+  * [Sun Basket](https://sunbasket.com/) - Caters to healthy / organic consumers
+    (Paleo, Lean & Clean, Gluten-Free, Vegan, and more)
+  * [Green Chef](https://greenchef.com/home) - Organic meals for Keto, Paleo,
+    Heart Smart, Omnivore, or Vegan lifestyle
 * Prepared Ingredients
   * [Hungryroot](https://www.hungryroot.com)
 * Raw Meat
   * [Butcher Box](http://fbuy.me/lLjGt) - Beef, Pork, Chicken, or Fish
 * Raw Produce
-  * [Imperfect Produce](https://www.imperfectproduce.com/) - Fruits and vegetables delivered with organic box options
+  * [Imperfect Produce](https://www.imperfectproduce.com/) - Fruits and
+    vegetables delivered with organic box options
 
-See also [The Meal Kit Review](https://www.themealkitreview.com/) for comparisons of many other services.
+See also [The Meal Kit Review](https://www.themealkitreview.com/) for
+comparisons of many other services.

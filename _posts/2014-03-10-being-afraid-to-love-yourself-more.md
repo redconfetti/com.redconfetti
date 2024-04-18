@@ -1,6 +1,6 @@
 ---
 layout: post
-published: true
+published: false
 title: Being Afraid to Love Yourself More
 author: maxwell keyes
 date: '2014-03-10 02:07:14 -0700'

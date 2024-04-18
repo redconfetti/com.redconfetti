@@ -1,6 +1,6 @@
 ---
 layout: post
-published: true
+published: false
 title: The Psychological Impact of Having the Advantage
 author: maxwell keyes
 date: '2013-07-11 14:48:05 -0700'

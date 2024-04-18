@@ -1,6 +1,6 @@
 ---
 layout: post
-published: true
+published: false
 title: The Responsibility of the Triggered
 author: maxwell keyes
 date: '2015-10-01 15:49:44 -0700'

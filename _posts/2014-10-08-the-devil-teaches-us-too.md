@@ -1,6 +1,6 @@
 ---
 layout: post
-published: true
+published: false
 title: The Devil Teaches Us Too
 author: maxwell keyes
 date: '2014-10-08 13:34:14 -0700'

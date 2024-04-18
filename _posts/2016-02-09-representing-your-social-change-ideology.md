@@ -1,6 +1,6 @@
 ---
 layout: post
-published: true
+published: false
 title: Representing your Social Change Ideology
 author: maxwell keyes
 date: '2016-02-09 18:38:40 -0800'

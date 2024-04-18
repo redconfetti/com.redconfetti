@@ -1,6 +1,6 @@
 ---
 layout: post
-published: true
+published: false
 title: Hunting near the San Francisco Bay Area
 author: maxwell keyes
 date: "2018-08-11 10:06:20 -0700"

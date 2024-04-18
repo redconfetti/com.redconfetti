@@ -1,6 +1,6 @@
 ---
 layout: post
-published: true
+published: false
 title: Confidence and Attraction
 author: maxwell keyes
 date: '2014-01-28 18:01:40 -0800'
