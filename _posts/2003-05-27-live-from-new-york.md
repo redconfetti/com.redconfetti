@@ -1,6 +1,6 @@
 ---
 layout: post
-published: true
+published: false
 title: Live from New York
 author: maxwell keyes
 date: '2003-05-27 19:55:00 -0500'
@@ -43,7 +43,7 @@ Border on the border between South and North Carolina on I-95. Its like a
 tourist attraction without the attraction. Major piece of shit place to stop,
 not recommended.
 
-So far since I've arrived I've seen the New York S! tock Exchange, the Federal
+So far since I've arrived I've seen the New York Stock Exchange, the Federal
 Reserve Building, The Evil U.N. Building, R l Park, The Woolworth Building, the
 W.T.C. pit, and the Federal Hall building across from the NYSE. I took a tour of
 the Federal Hall building this morning around 10:30AM.

@@ -1,6 +1,6 @@
 ---
 layout: post
-published: true
+published: false
 title: Back from New York
 author: maxwell keyes
 date: '2003-05-30 19:44:00 -0500'

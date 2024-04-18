@@ -1,6 +1,6 @@
 ---
 layout: post
-published: true
+published: false
 title: Custom Punch Card System
 author: maxwell keyes
 date: '2003-04-07 13:54:00 -0500'

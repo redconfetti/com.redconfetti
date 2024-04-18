@@ -1,6 +1,6 @@
 ---
 layout: post
-published: true
+published: false
 title: Emotional Freedom Technique
 author: maxwell keyes
 date: '2003-06-03 11:54:00 -0500'

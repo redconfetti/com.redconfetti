@@ -1,6 +1,6 @@
 ---
 layout: post
-published: true
+published: false
 title: Drunken Studio Time
 author: maxwell keyes
 date: '2009-10-19 00:04:49 -0700'

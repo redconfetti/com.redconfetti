@@ -11,8 +11,9 @@ tags:
 - video games
 ---
 
-I just realized how good I am at making music without a synthesizer. I still think that I need to learn how to
-incorporate synth into my music...and I still love the video game style...but I think I never really experimented with
-bass lines enough.
+I just realized how good I am at making music without a synthesizer. I still
+think that I need to learn how to incorporate synth into my music...and I still
+love the video game style...but I think I never really experimented with bass
+lines enough.
 
 Tonight is a good night.

@@ -1,6 +1,6 @@
 ---
 layout: post
-published: true
+published: false
 title: Ponzi Scheme
 author: maxwell keyes
 date: '2009-07-15 11:36:22 -0700'

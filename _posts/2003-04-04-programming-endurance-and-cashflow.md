@@ -1,6 +1,6 @@
 ---
 layout: post
-published: true
+published: false
 title: Programming Endurance and Cashflow
 author: maxwell keyes
 date: '2003-04-04 19:44:00 -0500'

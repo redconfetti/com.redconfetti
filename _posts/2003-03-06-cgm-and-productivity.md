@@ -1,6 +1,6 @@
 ---
 layout: post
-published: true
+published: false
 title: Compass Global Music and Productivity
 author: maxwell keyes
 date: '2003-03-06 13:58:00 -0500'

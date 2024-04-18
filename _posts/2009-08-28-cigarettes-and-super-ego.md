@@ -11,10 +11,11 @@ tags: []
 comments: []
 ---
 
-From our perspective, the superego is the inner coercive agency that stands against the expansion of awareness and
-inner development, regardless of how mild or reasonable it becomes.
+From our perspective, the superego is the inner coercive agency that stands
+against the expansion of awareness and inner development, regardless of how mild
+or reasonable it becomes.
 
-```
+```text
 Marshy: the superego always stands against expansion
 Jason: "This is how it's supposed to be"
 Jason: always keeping you inside of a box

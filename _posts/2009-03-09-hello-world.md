@@ -36,8 +36,12 @@ comments:
     chicken myself.
 ---
 
-ok. Again I'm starting over with a fresh new blog. I hope to keep this one going, never take it down, yada yada. I'll make sure I take a database backup in the future, along with the data.
+ok. Again I'm starting over with a fresh new blog. I hope to keep this one
+going, never take it down, yada yada. I'll make sure I take a database backup in
+the future, along with the data.
 
-Anyway, I'm back. I'll be blogging about anything: web development, spirituality, life in California, food, whatever.
+Anyway, I'm back. I'll be blogging about anything: web development,
+spirituality, life in California, food, whatever.
 
-![maxwell keyes]({{site.assets.url_prefix}}/images/posts/photo-197.jpg "maxwell keyes")
+![maxwell keyes]({{site.assets.url_prefix}}/images/posts/photo-197.jpg "maxwell
+keyes")

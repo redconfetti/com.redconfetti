@@ -1,6 +1,6 @@
 ---
 layout: post
-published: true
+published: false
 title: Computer Work and Network+
 author: maxwell keyes
 date: '2004-01-10 04:41:00 -0500'
@@ -12,5 +12,6 @@ tags:
 - Network+
 ---
 
-i'm tired...i'm going to bed. setting up a computer for ken hutchins tommorow. Coming home and switching to linux.
-finished another two chapters in my network+ book. I feel satisfied.
+i'm tired...i'm going to bed. setting up a computer for ken hutchins tommorow.
+Coming home and switching to linux. finished another two chapters in my network+
+book. I feel satisfied.

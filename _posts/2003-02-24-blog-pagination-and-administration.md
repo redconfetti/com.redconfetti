@@ -1,6 +1,6 @@
 ---
 layout: post
-published: true
+published: false
 title: Blog Pagination and Administration
 author: maxwell keyes
 date: '2003-02-24 16:15:00 -0500'

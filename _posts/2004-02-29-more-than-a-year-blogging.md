@@ -1,6 +1,6 @@
 ---
 layout: post
-published: true
+published: false
 title: Lost Job at Devereux
 author: maxwell keyes
 date: '2004-02-29 03:43:00 -0500'
@@ -10,4 +10,5 @@ tags:
 - blogging
 ---
 
-Wow. I just realized that I've had this blog going for more than a year now. Its amazing how time flies.
+Wow. I just realized that I've had this blog going for more than a year now. Its
+amazing how time flies.

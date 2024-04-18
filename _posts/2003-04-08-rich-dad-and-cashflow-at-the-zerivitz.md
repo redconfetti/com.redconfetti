@@ -1,6 +1,6 @@
 ---
 layout: post
-published: true
+published: false
 title: Rich Dad and Cash Flow at the Zerivitz
 author: maxwell keyes
 date: '2003-04-08 18:01:00 -0500'

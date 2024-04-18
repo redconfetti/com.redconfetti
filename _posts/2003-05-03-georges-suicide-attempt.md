@@ -1,6 +1,6 @@
 ---
 layout: post
-published: true
+published: false
 title: George's Suicide Attempt
 author: maxwell keyes
 date: '2003-05-03 09:37:00 -0500'
