@@ -535,8 +535,8 @@ number. When a value is changed for either of these, a
 ![Cubase MIDI Routing with Bank and Program Change]({{site.assets.url_prefix}}/images/posts/2024-04-18/cubase-midi-routing.png "Cubase MIDI Routing with Bank and Program Change")
 
 ```text
-To Moog Sub 37 Control 1 Bank Select 0
-To Moog Sub 37 Program 1 8
+To Moog Sub 37    Control 1 Bank Select 0
+To Moog Sub 37    Program 1 8
 ```
 
 #### MIDI Device Manager

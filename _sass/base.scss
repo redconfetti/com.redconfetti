@@ -1,5 +1,7 @@
 @charset "utf-8";
-@import url('https://fonts.googleapis.com/css?family=Source+Code+Pro:400,700');
+// @import url('https://fonts.googleapis.com/css?family=Source+Code+Pro:400,700');
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:ital,wght@0,200..900;1,200..900&family=VT323&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=VT323&display=swap');
 
 /**
  * Style variables
@@ -10,6 +12,9 @@ $mobile-font-size:     12px !default;
 $base-line-height:     1.5 !default;
 $container-width:      90% !default;
 $container-max-width:  600px !default;
+
+/* https://fonts.google.com/specimen/VT323/about?classification=Monospace */
+$code-font-family:     'VT323', monospace;
 
 /**
  * Global
@@ -60,9 +65,10 @@ footer { margin-bottom: 20px; }
 /**
  * Lists
  */
-:not(.menu) > ul { list-style: none;  padding-left: 0; }
-:not(.menu) > ul { list-style-type: none; }
-:not(.menu) > ul > li:before { content: "-";  margin-right: 9px; }
+ul { margin-bottom: 10px; }
+// :not(.menu) > ul { list-style: none;  padding-left: 0; }
+// :not(.menu) > ul { list-style-type: none; }
+// :not(.menu) > ul > li:before { content: "-"; margin-left: 10px; margin-right: 9px; }
 
 /**
  * Header/Navigation
@@ -90,10 +96,11 @@ textarea { vertical-align: top; }
 /**
  * Code and syntax highlighting
  */
+code { font-family: $code-font-family; font-size: 20px; }
 .lineno { color: var(--code-color-1); margin-right: 15px; }
 figure.highlight { margin: 5px 0; }
-pre { background-color: var(--background-color);  border: none;  padding: 0;  margin: 0;  overflow:auto;  font-size: $base-font-size;  color: var(--text-color);  line-height: 1.7 !important;  font-family: $base-font-family !important; }
-.highlight { margin: 25px 0; }
+pre { background-color: var(--code-background-color);  border: none;  padding: 0;  margin: 0;  overflow:auto;  font-size: $base-font-size;  color: var(--text-color);  line-height: 1.7 !important;  font-family: $code-font-family !important; }
+.highlight { margin: 10px 0; padding: 5px; }
 .highlight .hll { background-color: var(--code-color-2); }
 .highlight .c { color: var(--code-color-1); font-style: italic } /* Comment */
 .highlight .err { color: var(--code-color-3); background-color: var(--code-color-4); } /* Error */
