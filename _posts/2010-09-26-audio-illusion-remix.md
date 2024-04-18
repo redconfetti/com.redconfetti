@@ -9,7 +9,9 @@ categories:
 - music
 ---
 
-I decided to make a "remix" of the [Audio Illusion](http://www.youtube.com/watch?v=ugriWSmRxcM) video on YouTube.
+I decided to make a "remix" of the [Audio Illusion][] video on YouTube.
+
+[Audio Illusion]: http://www.youtube.com/watch?v=ugriWSmRxcM
 
 ![audio illusion]({{site.assets.url_prefix}}/images/posts/audio-illusion.jpg "audio illusion")
 

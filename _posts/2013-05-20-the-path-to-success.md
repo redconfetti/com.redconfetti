@@ -9,6 +9,6 @@ categories:
 - personal
 ---
 
-![what success looks like]({{site.assets.url_prefix}}/images/posts/what-success-looks-like.jpg "what success really looks like")
+![what success looks like]({{site.assets.url_prefix}}/images/posts/2013-05-20/what-success-looks-like.jpg "what success really looks like")
 
 Success: What people think it looks like. What it really looks like.

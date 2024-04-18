@@ -8,8 +8,11 @@ categories:
 - music
 ---
 
-For those out there that are familiar with the song [Under the Milky Way](https://www.youtube.com/watch?v=pWxJEIz7sSA)
-by The Church, which is definitely one of the highlights of the Donnie Darko soundtrack (that's how I became aware of
-the track), I recently discovered that the same band recently covered 'Disarm' by The Smashing Pumpkins.
+For those out there that are familiar with the song [Under the Milky Way][] by
+The Church, which is definitely one of the highlights of the Donnie Darko
+soundtrack (that's how I became aware of the track), I recently discovered that
+the same band recently covered 'Disarm' by The Smashing Pumpkins.
+
+[Under the Milky Way]: https://www.youtube.com/watch?v=pWxJEIz7sSA
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9njDlY5MOxc" frameborder="0" allowfullscreen></iframe>

@@ -9,7 +9,8 @@ categories:
 - recommended songs
 ---
 
-I was watching 'The Listener', which is a cancelled NBC drama which is currently available on Hulu, and this song came
-on. It's a really great song, I recommend that others check it out.
+I was watching 'The Listener', which is a cancelled NBC drama which is currently
+available on Hulu, and this song came on. It's a really great song, I recommend
+that others check it out.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jWxuzxXJ3t8" frameborder="0" allowfullscreen></iframe>

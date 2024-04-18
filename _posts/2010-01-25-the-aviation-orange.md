@@ -9,7 +9,9 @@ categories:
 - music
 ---
 
-If you like 80's synth pop, you'll likely like [The Aviation Orange](http://www.purevolume.com/theaviationorange).
+If you like 80's synth pop, you'll likely like [The Aviation Orange][].
+
+[The Aviation Orange]: http://www.purevolume.com/theaviationorange
 
 ![The Aviation Orange]({{site.assets.url_prefix}}/images/posts/the-aviation-orange.jpg "The Aviation Orange")
 
