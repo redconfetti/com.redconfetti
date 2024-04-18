@@ -77,7 +77,7 @@ theme: jekyll-theme-console
 # listen_for_clients_preferred_style: true
 style: dark # dark (default), light or hacker
 
-footer: '© 2023 Jason Miller · All rights reserved'
+footer: '© 2024 Jason Miller · All rights reserved'
 
 header_pages:
  - index.md
