@@ -36,7 +36,6 @@ Box](http://vimeo.com/88165960) on Vimeo. Later I noticed that she did a cover
 of [Closer](http://vimeo.com/69575198) by Nine Inch Nails.
 
 <div style="padding:45.83% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/69575198?h=6babfdb343" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-<p><a href="https://vimeo.com/69575198">Closer by NIN - Covered by Kawehi</a> from <a href="https://vimeo.com/iamkawehi">Kawehi</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 [Closer by NIN - Covered by Kawehi](http://vimeo.com/69575198) from
 [Kawehi](http://vimeo.com/iamkawehi) on [Vimeo](https://vimeo.com).
