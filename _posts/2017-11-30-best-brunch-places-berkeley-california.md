@@ -16,7 +16,7 @@ practice that her and her husband have done -- BBC (Brunch, Bike, and Coffee).
 
 She gave me an awesome list of places that are great for brunch.
 
-# Doyle Street Cafe
+## Doyle Street Cafe
 
 [5515 Doyle St #10, Emeryville, CA 94608][10]
 
@@ -26,7 +26,7 @@ She gave me an awesome list of places that are great for brunch.
 This is a great spot I like to take people to for brunch. I really like their
 menu.
 
-# Au Coquelet
+## Au Coquelet
 
 [Website][16]
 
@@ -46,7 +46,7 @@ They have brunch on weekends until 3 PM, with my all time favorite being the
 Blackstone Eggs Benedict. It comes with home fries that I like to pour Cholula
 hot sauce over.
 
-# Aunt Mary’s Cafe
+## Aunt Mary’s Cafe
 
 [Website][14]
 
@@ -55,7 +55,7 @@ hot sauce over.
 > A cozy local cafe serving homey comfort food with a Southern & Southwestern
 > twist in an airy space.
 
-# Betty’s Seaview Dinner
+## Betty’s Seaview Dinner
 
 [Website][15]
 
@@ -64,7 +64,7 @@ hot sauce over.
 > Landmark neighborhood diner dishes out breakfast classics with a twist, like
 > soufflé pancakes.
 
-# Brown Sugar Kitchen
+## Brown Sugar Kitchen
 
 [Website][20]
 
@@ -73,7 +73,7 @@ hot sauce over.
 > Updated renditions of soul food classics like fried chicken & waffles served
 > until 3 PM daily.
 
-# 900 Grayson St
+## 900 Grayson St
 
 [Menu][19]
 
@@ -81,7 +81,7 @@ hot sauce over.
 
 > Buzzy spot for updated comfort food
 
-# Doña Tomás
+## Doña Tomás
 
 [5004 Telegraph Ave, Oakland, CA 94609][3]
 
@@ -91,7 +91,7 @@ hot sauce over.
 This place is pricey for dinner, but the breakfast is more reasonable,
 she claims.
 
-# Tacubaya
+## Tacubaya
 
 [1788 Fourth St, Berkeley, CA 94710][4]
 
@@ -100,7 +100,7 @@ she claims.
 
 This place has the same owner as Doña Tomás.
 
-# Bakesale Betty
+## Bakesale Betty
 
 [Website][17]
 
@@ -111,7 +111,7 @@ This place has the same owner as Doña Tomás.
 
 I've had brunch here. They definitely have a menu you should check out.
 
-# Paradise Park Cafe
+## Paradise Park Cafe
 
 [Website][18]
 
@@ -120,7 +120,7 @@ I've had brunch here. They definitely have a menu you should check out.
 > Convivial, family-friendly cafe for locally sourced & organic Californian
 > comfort eats, beer & wine.
 
-# Lama Beans
+## Lama Beans
 
 [Menu][8]
 

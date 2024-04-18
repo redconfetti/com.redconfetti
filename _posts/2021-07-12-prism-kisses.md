@@ -17,6 +17,7 @@ tags:
   - noise
   - comfy synth
   - chaos
+image: posts/2021-07-12-prism-kisses-1.jpg
 ---
 
 The following is an interview on July 10, 2021 with Erik Cantù of

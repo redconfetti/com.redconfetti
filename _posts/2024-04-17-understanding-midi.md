@@ -11,6 +11,7 @@ tags:
   - midi
   - sysex
   - alesis v49
+image: posts/2024-04-17/minimal-midi-chain.png
 ---
 
 [MIDI][] was originally created as a standard to enable musical devices, such as

@@ -10,6 +10,7 @@ tags:
   - Cubase
   - MIDI
   - SysEx
+image: posts/2024-04-18/cubase-midi-remote-placement.png
 ---
 
 *April 18, 2024 by Jason Miller*
