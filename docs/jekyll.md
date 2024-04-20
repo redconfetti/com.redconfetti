@@ -7,12 +7,10 @@ in Ruby development, and it's pretty simple to use to implement changes.
 
 ## Theme
 
-This site uses the [Jekyll Theme YAT] theme.
+This site uses the [Jekyll Theme YAT] theme. See [Jekyll Theme YAT Demo].
 
-* [Github: jekyll-theme-yat]
-
-[Jekyll Theme YAT]: https://jekyll-themes.com/jeffreytse/jekyll-theme-yat
-[Github: jekyll-theme-yat]: https://github.com/jeffreytse/jekyll-theme-yat
+[Jekyll Theme YAT Demo]: https://jekyll-themes.com/jeffreytse/jekyll-theme-yat
+[Jekyll Theme YAT]: https://github.com/jeffreytse/jekyll-theme-yat
 
 ## Utterances
 

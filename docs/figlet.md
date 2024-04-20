@@ -1,6 +1,4 @@
-# Logo
-
-## Figlet
+# Figlet
 
 We're using [FIGlet] (Frank, Ian and Glen’s letters) fonts with TOIlet
 (see below).
