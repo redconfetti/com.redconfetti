@@ -34,7 +34,7 @@ with possible band names. Strange enough, I find it interesting that it's in
 [Get Smart][].
 
 [music]: http://music.redconfetti.com/
-[this quote]: http://sharetv.org/shows/get_smart_1965/quotes/pg-8
+[this quote]: https://web.archive.org/web/20120704232833/http://sharetv.org/shows/get_smart_1965/quotes/pg-8
 [Get Smart]: https://en.wikipedia.org/wiki/Get_Smart
 
 > Chief: It's KAOS confetti. This is how they contacted their agents.
