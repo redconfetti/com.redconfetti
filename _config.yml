@@ -42,7 +42,7 @@ defaults:
 
 banner:
   video: null
-  image: "https://s3-us-west-1.amazonaws.com/assets.redconfetti.com/images/starry-night-at-a-rest-stop.jpg"
+  image: "https://s3-us-west-1.amazonaws.com/assets.redconfetti.com/images/banner.png"
   height: "340px"
 
 # Build settings
