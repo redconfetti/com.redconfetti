@@ -6,7 +6,7 @@ author: Jason Miller
 date: '2010-04-27 12:43:12 -0700'
 date_gmt: '2010-04-27 16:43:12 -0700'
 categories:
-- music
+- recommended songs
 ---
 
 I must say I love [Robots in Disguise](http://www.robotsindisguise.co.uk/), an

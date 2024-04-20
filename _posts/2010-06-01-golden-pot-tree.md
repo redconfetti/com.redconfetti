@@ -6,9 +6,7 @@ author: Jason Miller
 date: '2010-06-01 01:24:53 -0700'
 date_gmt: '2010-06-01 05:24:53 -0700'
 categories:
-- music
-tags:
-- my songs
+- by redconfetti
 comments:
 - id: 783
   author: Drew Baye

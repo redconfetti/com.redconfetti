@@ -6,7 +6,7 @@ author: Jason Miller
 date: '2010-01-25 19:13:03 -0800'
 date_gmt: '2010-01-25 23:13:03 -0800'
 categories:
-- music
+- recommended songs
 ---
 
 I love this song. This piano tribute can possibly make the dark beauty of this

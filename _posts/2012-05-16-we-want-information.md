@@ -6,7 +6,7 @@ author: Jason Miller
 date: '2012-05-16 17:07:02 -0700'
 date_gmt: '2012-05-16 21:07:02 -0700'
 categories:
-- music
+- nostalgia
 ---
 
 I just want to thank Tom Bland and Randy Webb of the group 'Gravity' for making

@@ -5,7 +5,7 @@ title: The Church cover Disarm by The Smashing Pumpkins
 date: '2010-04-23 12:35:37 -0700'
 date_gmt: '2010-04-23 16:35:37 -0700'
 categories:
-- music
+- recommended songs
 ---
 
 For those out there that are familiar with the song [Under the Milky Way][] by

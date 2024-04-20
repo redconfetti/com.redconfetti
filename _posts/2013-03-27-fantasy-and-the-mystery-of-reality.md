@@ -6,7 +6,7 @@ author: Jason Miller
 date: '2013-03-27 12:51:16 -0700'
 date_gmt: '2013-03-27 16:51:16 -0700'
 categories:
-- spirituality
+- personal
 tags:
 - mystery
 - playing cards

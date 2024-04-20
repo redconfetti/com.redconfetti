@@ -5,7 +5,7 @@ title: Erik Cantù of Prism Kisses
 date: 2021-07-12 10:07:59 -0700
 comments: true
 categories:
-  - music
+  - artist feature
 tags:
   - lofi
   - hypnagogic

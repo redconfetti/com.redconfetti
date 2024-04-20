@@ -6,7 +6,7 @@ author: Jason Miller
 date: '2009-12-17 00:55:15 -0800'
 date_gmt: '2009-12-17 04:55:15 -0800'
 categories:
-- web development
+- personal
 ---
 
 Say what you will about our love...

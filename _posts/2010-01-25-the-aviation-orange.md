@@ -6,7 +6,7 @@ author: Jason Miller
 date: '2010-01-25 14:06:42 -0800'
 date_gmt: '2010-01-25 18:06:42 -0800'
 categories:
-- music
+- recommended songs
 ---
 
 If you like 80's synth pop, you'll likely like [The Aviation Orange][].

@@ -6,7 +6,7 @@ author: Jason Miller
 date: '2010-01-30 01:34:01 -0800'
 date_gmt: '2010-01-30 05:34:01 -0800'
 categories:
-- music
+- recommended songs
 ---
 
 __This is one of the most awesome Gary Numan songs evar!!__
