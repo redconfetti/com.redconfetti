@@ -232,11 +232,7 @@ Here is why:
   * Devoting a button to toggle the Mixer console window is certainly a must for
     those with a single monitor.
 
-<br />
-<video width="600" controls>
-  <source src="{{site.assets.url_prefix}}/images/posts/2024-04-18/cubase-midi-remote-test.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+![MIDI Remote Demonstration]({{site.assets.url_prefix}}/images/posts/2024-04-18/cubase-midi-remote-test.mp4?width=600)
 
 ## Focus Quick Controls
 
@@ -268,10 +264,7 @@ From the QC section of the track inspector, you can use the Learn button (L) to
 assign the Quick Controls to parameters related to that track, including effects
 and VST plugins.
 
-<video width="600" controls>
-  <source src="{{site.assets.url_prefix}}/images/posts/2024-04-18/cubase-track-qc.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+![Cubase track Quick Controls]({{site.assets.url_prefix}}/images/posts/2024-04-18/cubase-track-qc.mp4?width=600)
 
 As you can see, the MIDI Remote window replaces the "QC" labels for the Quick
 Controls with the names that currently apply to those Quick Controls. When I
@@ -285,18 +278,12 @@ Controls. By default, the VST instrument suggests a common map. You can click on
 the Learn (L) button, click on a Quick Control, and then adjust a parameter in
 to map it to that Quick Control.
 
-<video width="600" controls>
-  <source src="{{site.assets.url_prefix}}/images/posts/2024-04-18/cubase-instrument-quick-control-mapping.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+![Cubase Quick Controls mapping]({{site.assets.url_prefix}}/images/posts/2024-04-18/cubase-instrument-quick-control-mapping.mp4?width=600)
 
 You can also clear out the Quick Control mapping, and restore it to the mapping
 suggested by the VST instrument.
 
-<video width="600" controls>
-  <source src="{{site.assets.url_prefix}}/images/posts/2024-04-18/cubase-instrument-clear-restore-qc.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+![Cubase virtual instrument restore Quick Controls]({{site.assets.url_prefix}}/images/posts/2024-04-18/cubase-instrument-clear-restore-qc.mp4?width=600)
 
 In this example I've setup, you can notice that the Quick Controls assigned in
 the MIDI Remote window swap as I switch between the Project window (Track) and
@@ -304,10 +291,7 @@ the VST Instrument window. If you want to avoid this, click on the Lock icon
 next to the 'QC' button in the VST instrument window, and the Quick Controls
 will be locked to that context.
 
-<video width="600" controls>
-  <source src="{{site.assets.url_prefix}}/images/posts/2024-04-18/cubase-quick-control-focus-lock.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+![Cubase Quick Controls Focus Lock]({{site.assets.url_prefix}}/images/posts/2024-04-18/cubase-quick-control-focus-lock.mp4?width=600)
 
 #### Beyond Quick Controls
 

@@ -9,4 +9,4 @@ categories:
 - web development
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-KCj_Klp8aY" frameborder="0" allowfullscreen></iframe>
+![iPhone](//www.youtube.com/watch?v=-KCj_Klp8aY?width=600)

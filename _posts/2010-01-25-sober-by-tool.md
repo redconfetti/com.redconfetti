@@ -13,4 +13,4 @@ I love this song. This piano tribute can possibly make the dark beauty of this
 song accessible by those who probably wouldn't be able to appreciate the
 original.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6AqLBlOf2Vk" frameborder="0" allowfullscreen></iframe>
+![Sober - The Piano Tribute to Tool](//www.youtube.com/watch?v=6AqLBlOf2Vk)

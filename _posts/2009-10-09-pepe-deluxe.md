@@ -9,6 +9,6 @@ categories:
 - recommended songs
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/khXG10_1YF4" frameborder="0" allowfullscreen></iframe>
+![Pepe Deluxe - Indifference](//www.youtube.com/watch?v=khXG10_1YF4)
 
 __Indifference__, very awesome song.

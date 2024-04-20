@@ -16,13 +16,9 @@ I got turned onto them by their single '[Turn It
 Up](http://www.robotsindisguise.co.uk/music/turn-it-up/)', which I discovered on
 Last.fm.
 
-![Robots in Disguise - Turn it Up]({{site.assets.url_prefix}}m/images/posts/robots-in-disguise-turn-it-up.jpg "Robots in Disguise - Turn It Up single cover")
+![Robots in Disguise - Turn it Up album cover]({{site.assets.url_prefix}}/images/posts/robots-in-disguise-turn-it-up.jpg "Robots in Disguise - Turn It Up single cover")
 
-<iframe width="560" height="315"
-  src="https://www.youtube.com/embed/6H13RprHi3I?si=_f4TW34LtoBiYPZ7"
-  title="YouTube video player" frameborder="0"
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-  allowfullscreen></iframe>
+![Robots in Disguise - Turn it Up video](//www.youtube.com/watch?v=6H13RprHi3I)
 
 I decided it was time that I give the other songs a listen on Grooveshark, and
 I'm finding that they're not just an underground one hit wonder. I urge anyone

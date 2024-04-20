@@ -1,34 +1,44 @@
 # Jekyll
 
+This site is generated using [Jekyll]. I'm choosing to use it because I'm fluent
+in Ruby development, and it's pretty simple to use to implement changes.
+
+[Jekyll]: https://jekyllrb.com/docs/
+
 ## Theme
 
-This site uses the [jekyll-theme-console] theme.
+This site uses the [Jekyll Theme YAT] theme.
 
-[jekyll-theme-console]: https://github.com/b2a3e8/jekyll-theme-console
-
-### New Theme
-
-Testing out [Jekyll Theme YAT]
-
-[Github: jekyll-theme-yat], which makes use of [jekyll-spaceship]
+* [Github: jekyll-theme-yat]
 
 [Jekyll Theme YAT]: https://jekyll-themes.com/jeffreytse/jekyll-theme-yat
 [Github: jekyll-theme-yat]: https://github.com/jeffreytse/jekyll-theme-yat
-[jekyll-spaceship]: https://github.com/jeffreytse/jekyll-spaceship
 
 ## Utterances
 
-Using [Utterances] for comment system that relies on Github Issues.
+This site uses [Utterances] for the comment system, which relies on Github Issues.
 
 [Utterances]: https://utteranc.es/
+
+## Plugins
+
+* [jekyll-feed][]
+* [jekyll-seo-tag][]
+* [jekyll-sitemap][]
+* [jekyll-paginate][]
+* [jekyll-spaceship][]
+
+[jekyll-feed]: https://github.com/jekyll/jekyll-feed
+[jekyll-seo-tag]: https://github.com/jekyll/jekyll-seo-tag
+[jekyll-sitemap]: https://github.com/jekyll/jekyll-sitemap
+[jekyll-paginate]: https://github.com/jekyll/jekyll-paginate
+[jekyll-spaceship]: https://github.com/jeffreytse/jekyll-spaceship
 
 ## Reference
 
 * [Jekyll Docs](https://jekyllrb.com/docs/)
 * Github Jekyll - [docs](https://github.com/jekyll) |
   [repo](https://github.com/jekyll/jekyll)
-* jekyll-theme-console - [docs](https://jekyll-themes.com/jekyll-console/) |
-  [repo](https://github.com/b2a3e8/jekyll-theme-console)
 * jekyll-picture-tag - [docs](https://rbuchberger.github.io/jekyll_picture_tag/)
   | [repo](https://github.com/rbuchberger/jekyll_picture_tag)
 * [supported markdown languages][supported-languages]

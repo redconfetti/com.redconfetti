@@ -15,4 +15,4 @@ the same band recently covered 'Disarm' by The Smashing Pumpkins.
 
 [Under the Milky Way]: https://www.youtube.com/watch?v=pWxJEIz7sSA
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j1idbQBZQVM?si=uL-2CNeAmL48oM4f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+![The Church plays The Smashing Pumpkins Disarm](//www.youtube.com/watch?v=j1idbQBZQVM)
