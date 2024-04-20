@@ -10,10 +10,15 @@ categories:
 
 ## Ultra Illusion
 
-Here is a collection of music I made from late 2007 - late 2008. I am dubbing the album 'Ultra Illusion'. The music is free for you to download, and also available for anyone to remix or use however they wish as per the Creative Commons license linked at the bottom of this page.
+Here is a collection of music I made from late 2007 - late 2008. I am dubbing
+the album 'Ultra Illusion'. The music is free for you to download, and also
+available for anyone to remix or use however they wish as per the Creative
+Commons license linked at the bottom of this page.
 
-Album produced using [Cubase 4](http://www.steinberg.net/en/products/musicproduction/cubase4_product.html) with
-[IK Multimedia](http://www.ikmultimedia.com/) Studio Bundle.
+Album produced using [Cubase 4][] with [IK Multimedia][] Studio Bundle.
+
+[IK Multimedia]: http://www.ikmultimedia.com/
+[Cubase 4]: https://web.archive.org/web/20081030072102/https://www.steinberg.net/en/products/musicproduction/cubase4_product.html/
 
 1. [Support]({{site.assets.url_prefix}}/mp3/ultra-illusion/redconfetti-support.mp3)
 1. [Techlithium]({{site.assets.url_prefix}}/mp3/ultra-illusion/redconfetti-techlithium.mp3)
