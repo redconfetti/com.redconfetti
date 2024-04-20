@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: about
 published: true
 title: Privacy Policy
 ---

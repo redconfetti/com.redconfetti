@@ -6,6 +6,16 @@ This site uses the [jekyll-theme-console] theme.
 
 [jekyll-theme-console]: https://github.com/b2a3e8/jekyll-theme-console
 
+### New Theme
+
+Testing out [Jekyll Theme YAT]
+
+[Github: jekyll-theme-yat], which makes use of [jekyll-spaceship]
+
+[Jekyll Theme YAT]: https://jekyll-themes.com/jeffreytse/jekyll-theme-yat
+[Github: jekyll-theme-yat]: https://github.com/jeffreytse/jekyll-theme-yat
+[jekyll-spaceship]: https://github.com/jeffreytse/jekyll-spaceship
+
 ## Reference
 
 * [Jekyll Docs](https://jekyllrb.com/docs/)

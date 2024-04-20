@@ -4,11 +4,8 @@ Site: http://www.redconfetti.com/
 Twitter: redconfetti
 Location: Erwin, Tennessee, United States of America
 
-/* THANKS */
-Name: Josh Gerdes
-
 /* SITE */
-Last update: 2023/09/03
+Last update: 2024/04/19
 Standards: HTML5, CSS3
 Components: Jekyll
-Software: VSCode, Photoshop
+Software: VSCode
