@@ -2,7 +2,7 @@
 layout: post
 published: false
 title: Representing your Social Change Ideology
-author: maxwell keyes
+author: Jason Miller
 date: '2016-02-09 18:38:40 -0800'
 date_gmt: '2016-02-09 22:38:40 -0800'
 categories:

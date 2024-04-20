@@ -2,7 +2,7 @@
 layout: post
 published: false
 title: Gene Blocking Turns Monkeys into Workaholics
-author: maxwell keyes
+author: Jason Miller
 date: '2004-08-12 09:00:00 -0500'
 categories:
 - personal

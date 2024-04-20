@@ -2,7 +2,7 @@
 layout: post
 published: false
 title: How to Get Healthy
-author: maxwell keyes
+author: Jason Miller
 date: '2013-05-29 12:40:23 -0700'
 date_gmt: '2013-05-29 16:40:23 -0700'
 categories:

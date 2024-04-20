@@ -2,7 +2,7 @@
 layout: post
 published: false
 title: Fried Chicken
-author: maxwell keyes
+author: Jason Miller
 date: '2009-05-09 20:00:14 -0700'
 date_gmt: '2009-05-10 00:00:14 -0700'
 categories:

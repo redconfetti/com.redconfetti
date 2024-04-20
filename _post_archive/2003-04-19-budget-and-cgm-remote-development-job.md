@@ -2,7 +2,7 @@
 layout: post
 published: false
 title: Budget and CGM Remote Development Job
-author: maxwell keyes
+author: Jason Miller
 date: '2003-04-19 16:06:00 -0500'
 categories:
 - personal

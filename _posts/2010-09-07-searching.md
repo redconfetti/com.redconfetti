@@ -2,7 +2,7 @@
 layout: post
 published: true
 title: Searching
-author: maxwell keyes
+author: Jason Miller
 date: '2010-09-07 00:43:24 -0700'
 date_gmt: '2010-09-07 04:43:24 -0700'
 categories:

@@ -2,7 +2,7 @@
 layout: post
 published: false
 title: Dispersed Camping in California
-author: maxwell keyes
+author: Jason Miller
 date: '2018-06-05 17:04:10 -0700'
 categories:
 - personal

@@ -2,7 +2,7 @@
 layout: post
 published: false
 title: Let Go From America Online
-author: maxwell keyes
+author: Jason Miller
 date: '2003-09-18 13:15:00 -0500'
 categories:
 - personal

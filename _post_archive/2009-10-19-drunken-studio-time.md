@@ -2,7 +2,7 @@
 layout: post
 published: false
 title: Drunken Studio Time
-author: maxwell keyes
+author: Jason Miller
 date: '2009-10-19 00:04:49 -0700'
 date_gmt: '2009-10-19 04:04:49 -0700'
 categories:

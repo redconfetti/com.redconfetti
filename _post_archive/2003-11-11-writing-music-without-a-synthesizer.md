@@ -2,7 +2,7 @@
 layout: post
 published: false
 title: Passion of Uru and realMYST
-author: maxwell keyes
+author: Jason Miller
 date: '2003-11-11 23:45:00 -0500'
 categories:
 - music

@@ -2,7 +2,7 @@
 layout: post
 published: false
 title: First Highway Trip to San Jose
-author: maxwell keyes
+author: Jason Miller
 date: '2011-03-05 23:56:28 -0800'
 date_gmt: '2011-03-06 03:56:28 -0800'
 categories:

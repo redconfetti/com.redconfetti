@@ -2,7 +2,7 @@
 layout: post
 published: false
 title: San Francisco Bay Area Hiking Suggestions
-author: maxwell keyes
+author: Jason Miller
 date: '2014-10-08 16:15:15 -0700'
 date_gmt: '2014-10-08 20:15:15 -0700'
 categories:

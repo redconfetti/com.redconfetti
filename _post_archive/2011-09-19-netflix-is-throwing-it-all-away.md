@@ -2,7 +2,7 @@
 layout: post
 published: false
 title: Netflix is Throwing It All Away
-author: maxwell keyes
+author: Jason Miller
 date: '2011-09-19 14:31:43 -0700'
 date_gmt: '2011-09-19 18:31:43 -0700'
 categories:

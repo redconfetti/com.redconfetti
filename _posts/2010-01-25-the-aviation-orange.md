@@ -2,7 +2,7 @@
 layout: post
 published: true
 title: The Aviation Orange
-author: maxwell keyes
+author: Jason Miller
 date: '2010-01-25 14:06:42 -0800'
 date_gmt: '2010-01-25 18:06:42 -0800'
 categories:

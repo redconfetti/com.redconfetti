@@ -2,7 +2,7 @@
 layout: post
 published: false
 title: Motorcycles, not Scooters?
-author: maxwell keyes
+author: Jason Miller
 date: '2011-02-04 03:24:34 -0800'
 date_gmt: '2011-02-04 07:24:34 -0800'
 categories:

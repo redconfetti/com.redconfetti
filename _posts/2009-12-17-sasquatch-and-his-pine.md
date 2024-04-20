@@ -2,7 +2,7 @@
 layout: post
 published: true
 title: Sasquatch and his Pine
-author: maxwell keyes
+author: Jason Miller
 date: '2009-12-17 00:55:15 -0800'
 date_gmt: '2009-12-17 04:55:15 -0800'
 categories:

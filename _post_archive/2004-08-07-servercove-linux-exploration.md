@@ -2,7 +2,7 @@
 layout: post
 published: false
 title: ServerCove and Linux Exploration
-author: maxwell keyes
+author: Jason Miller
 date: '2004-08-07 09:02:00 -0500'
 categories:
 - personal

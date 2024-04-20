@@ -2,7 +2,7 @@
 layout: post
 published: false
 title: Debt and Repressed Desires
-author: maxwell keyes
+author: Jason Miller
 date: '2003-10-28 12:17:00 -0500'
 categories:
 - personal

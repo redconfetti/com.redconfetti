@@ -2,7 +2,7 @@
 layout: post
 published: false
 title: starting over
-author: maxwell keyes
+author: Jason Miller
 date: '2009-03-09 01:35:04 -0700'
 date_gmt: '2009-03-09 05:35:04 -0700'
 categories:

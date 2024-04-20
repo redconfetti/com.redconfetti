@@ -233,7 +233,7 @@ Here is why:
     those with a single monitor.
 
 <br />
-<video width="800" controls>
+<video width="600" controls>
   <source src="{{site.assets.url_prefix}}/images/posts/2024-04-18/cubase-midi-remote-test.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
@@ -268,7 +268,7 @@ From the QC section of the track inspector, you can use the Learn button (L) to
 assign the Quick Controls to parameters related to that track, including effects
 and VST plugins.
 
-<video width="800" controls>
+<video width="600" controls>
   <source src="{{site.assets.url_prefix}}/images/posts/2024-04-18/cubase-track-qc.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
@@ -285,7 +285,7 @@ Controls. By default, the VST instrument suggests a common map. You can click on
 the Learn (L) button, click on a Quick Control, and then adjust a parameter in
 to map it to that Quick Control.
 
-<video width="800" controls>
+<video width="600" controls>
   <source src="{{site.assets.url_prefix}}/images/posts/2024-04-18/cubase-instrument-quick-control-mapping.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
@@ -293,7 +293,7 @@ to map it to that Quick Control.
 You can also clear out the Quick Control mapping, and restore it to the mapping
 suggested by the VST instrument.
 
-<video width="800" controls>
+<video width="600" controls>
   <source src="{{site.assets.url_prefix}}/images/posts/2024-04-18/cubase-instrument-clear-restore-qc.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
@@ -304,7 +304,7 @@ the VST Instrument window. If you want to avoid this, click on the Lock icon
 next to the 'QC' button in the VST instrument window, and the Quick Controls
 will be locked to that context.
 
-<video width="800" controls>
+<video width="600" controls>
   <source src="{{site.assets.url_prefix}}/images/posts/2024-04-18/cubase-quick-control-focus-lock.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>

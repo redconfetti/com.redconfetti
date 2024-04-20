@@ -2,7 +2,7 @@
 layout: post
 published: false
 title: Park Strolling and Friends Drama
-author: maxwell keyes
+author: Jason Miller
 date: '2003-04-30 14:55:00 -0500'
 categories:
 - personal

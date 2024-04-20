@@ -2,7 +2,7 @@
 layout: post
 published: false
 title: Steak N Shake Food Poisoning
-author: maxwell keyes
+author: Jason Miller
 date: '2004-02-13 13:19:00 -0500'
 categories:
 - personal

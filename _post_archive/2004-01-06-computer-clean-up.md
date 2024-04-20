@@ -2,7 +2,7 @@
 layout: post
 published: false
 title: Computer Clean Up
-author: maxwell keyes
+author: Jason Miller
 date: '2004-01-06 00:12:00 -0500'
 categories:
 - personal

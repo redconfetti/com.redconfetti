@@ -2,7 +2,7 @@
 layout: post
 published: false
 title: Live from New York
-author: maxwell keyes
+author: Jason Miller
 date: '2003-05-27 19:55:00 -0500'
 categories:
 - personal

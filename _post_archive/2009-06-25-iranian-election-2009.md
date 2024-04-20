@@ -2,7 +2,7 @@
 layout: post
 published: false
 title: Iranian Election 2009
-author: maxwell keyes
+author: Jason Miller
 date: '2009-06-25 04:00:49 -0700'
 date_gmt: '2009-06-25 08:00:49 -0700'
 categories:

@@ -2,7 +2,7 @@
 layout: post
 published: false
 title: Napping and Miscellaneous
-author: maxwell keyes
+author: Jason Miller
 date: '2004-08-10 17:24:00 -0500'
 categories:
 - personal

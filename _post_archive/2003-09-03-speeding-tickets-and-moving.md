@@ -2,7 +2,7 @@
 layout: post
 published: false
 title: Speeding Tickets and Moving
-author: maxwell keyes
+author: Jason Miller
 date: '2003-09-03 01:07:00 -0500'
 categories:
 - personal

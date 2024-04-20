@@ -2,7 +2,7 @@
 layout: post
 published: false
 title: Honeymoon Killer
-author: maxwell keyes
+author: Jason Miller
 date: '2009-06-06 03:43:58 -0700'
 date_gmt: '2009-06-06 07:43:58 -0700'
 categories:

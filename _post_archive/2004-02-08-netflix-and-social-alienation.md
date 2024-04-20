@@ -2,7 +2,7 @@
 layout: post
 published: false
 title: Netflix and Social Alienation
-author: maxwell keyes
+author: Jason Miller
 date: '2004-02-08 18:55:00 -0500'
 categories:
 - personal

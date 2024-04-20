@@ -2,7 +2,7 @@
 layout: post
 published: false
 title: Struggling to Put in Hours
-author: maxwell keyes
+author: Jason Miller
 date: '2003-04-18 12:16:00 -0500'
 categories:
 - personal

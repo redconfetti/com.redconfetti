@@ -2,7 +2,7 @@
 layout: post
 published: false
 title: Psychology as a Path to the Heart
-author: maxwell keyes
+author: Jason Miller
 date: '2014-06-02 10:42:11 -0700'
 date_gmt: '2014-06-02 14:42:11 -0700'
 categories:

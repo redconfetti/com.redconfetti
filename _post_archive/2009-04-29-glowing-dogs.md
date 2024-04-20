@@ -2,7 +2,7 @@
 layout: post
 published: false
 title: Glowing Dogs
-author: maxwell keyes
+author: Jason Miller
 date: '2009-04-29 02:28:19 -0700'
 date_gmt: '2009-04-29 06:28:19 -0700'
 categories:

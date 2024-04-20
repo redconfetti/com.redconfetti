@@ -2,7 +2,7 @@
 layout: post
 published: false
 title: Objectivism and Miller Power
-author: maxwell keyes
+author: Jason Miller
 date: '2003-06-14 11:10:00 -0500'
 categories:
 - personal

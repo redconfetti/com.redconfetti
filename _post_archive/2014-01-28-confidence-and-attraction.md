@@ -2,7 +2,7 @@
 layout: post
 published: false
 title: Confidence and Attraction
-author: maxwell keyes
+author: Jason Miller
 date: '2014-01-28 18:01:40 -0800'
 date_gmt: '2014-01-28 22:01:40 -0800'
 categories:

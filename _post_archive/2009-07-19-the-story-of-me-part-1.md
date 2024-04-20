@@ -2,7 +2,7 @@
 layout: post
 published: false
 title: The Story of Me - Part 1
-author: maxwell keyes
+author: Jason Miller
 date: '2009-07-19 04:53:16 -0700'
 date_gmt: '2009-07-19 08:53:16 -0700'
 categories:

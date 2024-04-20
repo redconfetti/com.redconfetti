@@ -2,7 +2,7 @@
 layout: post
 published: false
 title: Let Go and Exploring Job Prospects
-author: maxwell keyes
+author: Jason Miller
 date: '2003-09-15 00:30:00 -0500'
 categories:
 - personal

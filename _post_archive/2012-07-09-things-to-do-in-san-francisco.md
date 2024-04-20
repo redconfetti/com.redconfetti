@@ -2,7 +2,7 @@
 layout: post
 published: false
 title: Things to Do in San Francisco
-author: maxwell keyes
+author: Jason Miller
 date: '2012-07-09 14:38:26 -0700'
 date_gmt: '2012-07-09 18:38:26 -0700'
 categories:

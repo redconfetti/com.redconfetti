@@ -2,7 +2,7 @@
 layout: post
 published: false
 title: Hunting near the San Francisco Bay Area
-author: maxwell keyes
+author: Jason Miller
 date: "2018-08-11 10:06:20 -0700"
 categories:
   - personal

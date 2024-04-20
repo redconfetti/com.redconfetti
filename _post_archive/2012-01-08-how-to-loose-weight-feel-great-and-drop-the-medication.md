@@ -2,7 +2,7 @@
 layout: post
 published: false
 title: How to Loose Weight, Feel Great, and Drop the Medication
-author: maxwell keyes
+author: Jason Miller
 date: '2012-01-08 22:34:30 -0800'
 date_gmt: '2012-01-09 02:34:30 -0800'
 categories:

@@ -2,7 +2,7 @@
 layout: post
 published: false
 title: Ali's House and Unix Machine
-author: maxwell keyes
+author: Jason Miller
 date: '2004-06-15 09:15:00 -0500'
 categories:
 - personal

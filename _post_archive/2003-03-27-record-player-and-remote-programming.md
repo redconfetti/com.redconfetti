@@ -2,7 +2,7 @@
 layout: post
 published: false
 title: Record Player and Remote Programming
-author: maxwell keyes
+author: Jason Miller
 date: '2003-03-27 15:16:00 -0500'
 categories:
 - personal

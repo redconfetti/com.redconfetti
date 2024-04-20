@@ -2,7 +2,7 @@
 layout: post
 published: false
 title: Job Transitioning
-author: maxwell keyes
+author: Jason Miller
 date: '2003-12-28 21:50:00 -0500'
 categories:
 - personal

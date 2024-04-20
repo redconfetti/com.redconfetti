@@ -2,7 +2,7 @@
 layout: post
 published: false
 title: Emoji Reference
-author: maxwell keyes
+author: Jason Miller
 date: '2017-05-08 17:36:24 -0700'
 date_gmt: '2017-05-08 21:36:24 -0700'
 categories:

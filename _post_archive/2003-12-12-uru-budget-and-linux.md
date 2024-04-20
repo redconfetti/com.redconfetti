@@ -2,7 +2,7 @@
 layout: post
 published: false
 title: Uru, Budget, and Linux
-author: maxwell keyes
+author: Jason Miller
 date: '2003-12-12 10:42:00 -0500'
 categories:
 - personal

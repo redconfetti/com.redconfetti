@@ -2,7 +2,7 @@
 layout: post
 published: false
 title: Jekyll Hosting on Neocities
-author: maxwell keyes
+author: Jason Miller
 date: '2017-05-24 11:22:20 -0700'
 categories:
 - web development

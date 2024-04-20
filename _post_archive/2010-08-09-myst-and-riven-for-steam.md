@@ -2,7 +2,7 @@
 layout: post
 published: false
 title: Myst and Riven - for Steam!!
-author: maxwell keyes
+author: Jason Miller
 date: '2010-08-09 15:21:01 -0700'
 date_gmt: '2010-08-09 19:21:01 -0700'
 categories:

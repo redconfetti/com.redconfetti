@@ -2,7 +2,7 @@
 layout: post
 published: false
 title: Linux Experimenting
-author: maxwell keyes
+author: Jason Miller
 date: '2003-12-26 18:12:00 -0500'
 categories:
 - personal

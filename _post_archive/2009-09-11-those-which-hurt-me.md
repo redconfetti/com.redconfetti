@@ -2,7 +2,7 @@
 layout: post
 published: false
 title: Those Which Hurt Me
-author: maxwell keyes
+author: Jason Miller
 date: '2009-09-11 03:00:08 -0700'
 date_gmt: '2009-09-11 07:00:08 -0700'
 categories:

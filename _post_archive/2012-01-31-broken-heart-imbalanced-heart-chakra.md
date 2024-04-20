@@ -2,7 +2,7 @@
 layout: post
 published: false
 title: Broken Heart = Imbalanced Heart Chakra
-author: maxwell keyes
+author: Jason Miller
 date: '2012-01-31 14:30:43 -0800'
 date_gmt: '2012-01-31 18:30:43 -0800'
 categories:

@@ -2,7 +2,7 @@
 layout: post
 published: false
 title: Tingling Pinky
-author: maxwell keyes
+author: Jason Miller
 date: '2011-02-15 12:51:38 -0800'
 date_gmt: '2011-02-15 16:51:38 -0800'
 categories:

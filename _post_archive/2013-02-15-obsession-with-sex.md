@@ -2,7 +2,7 @@
 layout: post
 published: false
 title: The Obsession with Sex
-author: maxwell keyes
+author: Jason Miller
 date: '2013-02-15 13:01:57 -0800'
 date_gmt: '2013-02-15 17:01:57 -0800'
 categories:

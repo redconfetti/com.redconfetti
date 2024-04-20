@@ -2,7 +2,7 @@
 layout: post
 published: true
 title: Golden Pot Tree
-author: maxwell keyes
+author: Jason Miller
 date: '2010-06-01 01:24:53 -0700'
 date_gmt: '2010-06-01 05:24:53 -0700'
 categories:

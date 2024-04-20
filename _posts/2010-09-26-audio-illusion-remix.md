@@ -2,7 +2,7 @@
 layout: post
 published: true
 title: Audio Illusion Remix
-author: maxwell keyes
+author: Jason Miller
 date: '2010-09-26 15:25:35 -0700'
 date_gmt: '2010-09-26 19:25:35 -0700'
 categories:

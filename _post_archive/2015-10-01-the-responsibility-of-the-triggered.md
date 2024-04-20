@@ -2,7 +2,7 @@
 layout: post
 published: false
 title: The Responsibility of the Triggered
-author: maxwell keyes
+author: Jason Miller
 date: '2015-10-01 15:49:44 -0700'
 date_gmt: '2015-10-01 19:49:44 -0700'
 categories:

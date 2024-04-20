@@ -2,7 +2,7 @@
 layout: post
 published: false
 title: Job Search
-author: maxwell keyes
+author: Jason Miller
 date: '2003-09-26 22:17:00 -0500'
 categories:
 - personal

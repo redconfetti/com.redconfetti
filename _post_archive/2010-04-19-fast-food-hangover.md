@@ -2,7 +2,7 @@
 layout: post
 published: false
 title: Fast Food Hangover
-author: maxwell keyes
+author: Jason Miller
 date: '2010-04-19 15:41:02 -0700'
 date_gmt: '2010-04-19 19:41:02 -0700'
 categories:

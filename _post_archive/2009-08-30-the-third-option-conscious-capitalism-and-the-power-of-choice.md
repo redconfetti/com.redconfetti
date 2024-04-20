@@ -2,7 +2,7 @@
 layout: post
 published: false
 title: Conscious Capitalism and the Power of Choice
-author: maxwell keyes
+author: Jason Miller
 date: '2009-08-30 04:48:59 -0700'
 date_gmt: '2009-08-30 08:48:59 -0700'
 categories:

@@ -2,7 +2,7 @@
 layout: post
 published: false
 title: Inquiry - Part One
-author: maxwell keyes
+author: Jason Miller
 date: '2010-05-04 00:31:26 -0700'
 date_gmt: '2010-05-04 04:31:26 -0700'
 categories:

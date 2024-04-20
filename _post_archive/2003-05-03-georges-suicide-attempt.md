@@ -2,7 +2,7 @@
 layout: post
 published: false
 title: George's Suicide Attempt
-author: maxwell keyes
+author: Jason Miller
 date: '2003-05-03 09:37:00 -0500'
 categories:
 - personal

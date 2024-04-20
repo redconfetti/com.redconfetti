@@ -2,7 +2,7 @@
 layout: post
 published: false
 title: Considering AOL Job
-author: maxwell keyes
+author: Jason Miller
 date: '2003-07-30 12:53:00 -0500'
 categories:
 - personal

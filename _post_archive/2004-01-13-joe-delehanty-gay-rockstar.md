@@ -2,7 +2,7 @@
 layout: post
 published: false
 title: Joe Delehanty Gay Rockstar
-author: maxwell keyes
+author: Jason Miller
 date: '2004-01-13 12:31:00 -0500'
 categories:
 - personal

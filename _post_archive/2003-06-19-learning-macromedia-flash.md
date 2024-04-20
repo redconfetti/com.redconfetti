@@ -2,7 +2,7 @@
 layout: post
 published: false
 title: Learning Macromedia Flash
-author: maxwell keyes
+author: Jason Miller
 date: '2003-06-19 00:00:00 -0500'
 categories:
 - personal

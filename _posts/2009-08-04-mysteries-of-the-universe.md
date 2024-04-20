@@ -2,7 +2,7 @@
 layout: post
 published: true
 title: Mysteries of the Universe
-author: maxwell keyes
+author: Jason Miller
 date: '2009-08-04 23:12:14 -0700'
 date_gmt: '2009-08-05 03:12:14 -0700'
 categories:

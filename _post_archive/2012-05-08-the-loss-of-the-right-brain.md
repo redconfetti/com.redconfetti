@@ -2,7 +2,7 @@
 layout: post
 published: false
 title: The Loss of the Right Brain
-author: maxwell keyes
+author: Jason Miller
 date: '2012-05-08 13:49:36 -0700'
 date_gmt: '2012-05-08 17:49:36 -0700'
 categories:

@@ -3,7 +3,7 @@ layout: post
 status: publish
 published: true
 title: Distressed Lotus
-author: maxwell keyes
+author: Jason Miller
 date: '2012-04-05 01:20:27 -0700'
 date_gmt: '2012-04-05 05:20:27 -0700'
 categories:

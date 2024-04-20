@@ -2,7 +2,7 @@
 layout: post
 published: false
 title: Traffic Court
-author: maxwell keyes
+author: Jason Miller
 date: '2003-03-27 16:10:00 -0500'
 categories:
 - personal

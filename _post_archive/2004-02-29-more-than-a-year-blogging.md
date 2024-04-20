@@ -2,7 +2,7 @@
 layout: post
 published: false
 title: Lost Job at Devereux
-author: maxwell keyes
+author: Jason Miller
 date: '2004-02-29 03:43:00 -0500'
 categories:
 - personal

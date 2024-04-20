@@ -2,7 +2,7 @@
 layout: post
 published: false
 title: Learning Active Server Pages
-author: maxwell keyes
+author: Jason Miller
 date: '2004-03-18 09:29:00 -0500'
 categories:
 - personal

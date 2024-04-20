@@ -2,7 +2,7 @@
 layout: post
 published: false
 title: Chris Ondo's ServerCove Introduction
-author: maxwell keyes
+author: Jason Miller
 date: '2004-08-01 12:03:00 -0500'
 categories:
 - personal

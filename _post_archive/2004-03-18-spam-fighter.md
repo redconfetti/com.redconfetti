@@ -2,7 +2,7 @@
 layout: post
 published: false
 title: Spam Fighter
-author: maxwell keyes
+author: Jason Miller
 date: '2004-03-18 19:58:00 -0500'
 categories:
 - personal

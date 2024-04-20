@@ -2,7 +2,7 @@
 layout: post
 published: false
 title: The Psychological Impact of Having the Advantage
-author: maxwell keyes
+author: Jason Miller
 date: '2013-07-11 14:48:05 -0700'
 date_gmt: '2013-07-11 18:48:05 -0700'
 categories:

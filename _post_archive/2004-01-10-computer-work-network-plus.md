@@ -2,7 +2,7 @@
 layout: post
 published: false
 title: Computer Work and Network+
-author: maxwell keyes
+author: Jason Miller
 date: '2004-01-10 04:41:00 -0500'
 categories:
 - personal

@@ -2,7 +2,7 @@
 layout: post
 published: false
 title: Shit My Mind Says
-author: maxwell keyes
+author: Jason Miller
 date: '2010-05-04 00:44:35 -0700'
 date_gmt: '2010-05-04 04:44:35 -0700'
 categories:

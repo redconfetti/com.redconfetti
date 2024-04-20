@@ -2,7 +2,7 @@
 layout: post
 published: false
 title: East Bay Motorcycle Route
-author: maxwell keyes
+author: Jason Miller
 date: '2011-02-27 11:44:34 -0800'
 date_gmt: '2011-02-27 15:44:34 -0800'
 categories:

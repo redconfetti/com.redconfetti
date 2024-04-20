@@ -2,7 +2,7 @@
 layout: post
 published: false
 title: Emotional Back Pain
-author: maxwell keyes
+author: Jason Miller
 date: '2017-05-08 17:01:47 -0700'
 date_gmt: '2017-05-08 21:01:47 -0700'
 categories:

@@ -2,7 +2,7 @@
 layout: post
 published: false
 title: Reasons for Staying in Florida
-author: maxwell keyes
+author: Jason Miller
 date: '2004-05-07 15:45:00 -0500'
 categories:
 - personal

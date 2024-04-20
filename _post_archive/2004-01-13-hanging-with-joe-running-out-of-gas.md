@@ -2,7 +2,7 @@
 layout: post
 published: false
 title: Hanging Out with Joe and Running out of Gas
-author: maxwell keyes
+author: Jason Miller
 date: '2004-01-13 12:27:00 -0500'
 categories:
 - personal

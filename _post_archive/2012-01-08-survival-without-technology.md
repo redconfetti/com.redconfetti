@@ -2,7 +2,7 @@
 layout: post
 published: false
 title: Survival without Technology
-author: maxwell keyes
+author: Jason Miller
 date: '2012-01-08 23:22:34 -0800'
 date_gmt: '2012-01-09 03:22:34 -0800'
 categories:

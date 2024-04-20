@@ -2,7 +2,7 @@
 layout: post
 published: false
 title: Borrowed Money from Grandma
-author: maxwell keyes
+author: Jason Miller
 date: '2003-08-01 16:04:00 -0500'
 categories:
 - personal

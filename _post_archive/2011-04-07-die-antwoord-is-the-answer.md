@@ -2,7 +2,7 @@
 layout: post
 published: false
 title: Die Antwoord is The Answer
-author: maxwell keyes
+author: Jason Miller
 date: '2011-04-07 15:14:36 -0700'
 date_gmt: '2011-04-07 19:14:36 -0700'
 categories:

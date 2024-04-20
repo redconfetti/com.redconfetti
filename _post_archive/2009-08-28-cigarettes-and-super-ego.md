@@ -2,7 +2,7 @@
 layout: post
 published: false
 title: Cigarettes and Super Ego
-author: maxwell keyes
+author: Jason Miller
 date: '2009-08-28 14:34:00 -0700'
 date_gmt: '2009-08-28 18:34:00 -0700'
 categories:

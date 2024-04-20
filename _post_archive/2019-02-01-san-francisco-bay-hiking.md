@@ -2,7 +2,7 @@
 layout: post
 published: false
 title: My Favorite San Francisco Bay Area Hiking Spots
-author: maxwell keyes
+author: Jason Miller
 date: '2019-02-01 13:00:10 -0700'
 categories:
 - personal

@@ -2,7 +2,7 @@
 layout: post
 published: false
 title: Pagination in Progress
-author: maxwell keyes
+author: Jason Miller
 date: '2003-02-24 01:38:00 -0500'
 categories:
 - personal

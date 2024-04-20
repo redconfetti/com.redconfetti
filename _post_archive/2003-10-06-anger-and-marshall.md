@@ -2,7 +2,7 @@
 layout: post
 published: false
 title: Anger and Marshall
-author: maxwell keyes
+author: Jason Miller
 date: '2003-10-06 22:02:00 -0500'
 categories:
 - personal

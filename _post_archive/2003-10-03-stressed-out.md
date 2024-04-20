@@ -2,7 +2,7 @@
 layout: post
 published: false
 title: Stressed Out
-author: maxwell keyes
+author: Jason Miller
 date: '2003-10-03 00:32:00 -0500'
 categories:
 - personal

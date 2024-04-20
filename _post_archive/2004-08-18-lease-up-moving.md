@@ -2,7 +2,7 @@
 layout: post
 published: false
 title: Lease Up & Moving
-author: maxwell keyes
+author: Jason Miller
 date: '2004-08-18 22:11:00 -0500'
 categories:
 - personal

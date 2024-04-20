@@ -2,7 +2,7 @@
 layout: post
 published: false
 title: Lyrics, Credit Cards, and Taxes
-author: maxwell keyes
+author: Jason Miller
 date: '2004-06-30 08:55:00 -0500'
 categories:
 - personal

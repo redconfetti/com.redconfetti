@@ -2,7 +2,7 @@
 layout: post
 published: false
 title: Myst IV (Revelation) Installation for Mac OSX 10.6 (Snow Leopard)
-author: maxwell keyes
+author: Jason Miller
 date: '2010-10-03 20:34:47 -0700'
 date_gmt: '2010-10-04 00:34:47 -0700'
 categories:

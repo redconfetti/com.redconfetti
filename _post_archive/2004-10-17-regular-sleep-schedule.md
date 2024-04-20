@@ -2,7 +2,7 @@
 layout: post
 published: false
 title: Regular Sleep Schedule
-author: maxwell keyes
+author: Jason Miller
 date: '2004-10-17 11:43:43 -0500'
 categories:
 - personal

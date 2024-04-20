@@ -2,7 +2,7 @@
 layout: post
 published: false
 title: Programming Endurance and Cashflow
-author: maxwell keyes
+author: Jason Miller
 date: '2003-04-04 19:44:00 -0500'
 categories:
 - personal

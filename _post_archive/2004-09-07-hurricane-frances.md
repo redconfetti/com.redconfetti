@@ -2,7 +2,7 @@
 layout: post
 published: false
 title: Hurricane Frances
-author: maxwell keyes
+author: Jason Miller
 date: '2004-09-07 11:15:00 -0500'
 categories:
 - personal

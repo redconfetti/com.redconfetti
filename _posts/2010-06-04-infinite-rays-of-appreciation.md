@@ -2,7 +2,7 @@
 layout: post
 published: true
 title: Infinite Rays of Appreciation
-author: maxwell keyes
+author: Jason Miller
 date: '2010-06-04 04:19:59 -0700'
 date_gmt: '2010-06-04 08:19:59 -0700'
 categories:

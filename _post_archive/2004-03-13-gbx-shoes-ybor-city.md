@@ -2,7 +2,7 @@
 layout: post
 published: false
 title: GBX Shoes Ybor City
-author: maxwell keyes
+author: Jason Miller
 date: '2004-03-13 22:51:00 -0500'
 categories:
 - personal

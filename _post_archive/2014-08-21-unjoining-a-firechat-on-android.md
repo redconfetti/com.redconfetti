@@ -2,7 +2,7 @@
 layout: post
 published: false
 title: Unjoining a FireChat on Android
-author: maxwell keyes
+author: Jason Miller
 date: '2014-08-21 13:47:55 -0700'
 date_gmt: '2014-08-21 17:47:55 -0700'
 categories:

@@ -2,7 +2,7 @@
 layout: music
 published: true
 title: Music
-author: maxwell keyes
+author: Jason Miller
 date: "2009-04-08 04:06:10 -0700"
 categories:
   - web development

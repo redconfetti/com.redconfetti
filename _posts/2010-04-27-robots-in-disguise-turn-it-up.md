@@ -2,7 +2,7 @@
 layout: post
 published: true
 title: Robots in Disguise - Turn It Up
-author: maxwell keyes
+author: Jason Miller
 date: '2010-04-27 12:43:12 -0700'
 date_gmt: '2010-04-27 16:43:12 -0700'
 categories:

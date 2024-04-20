@@ -2,7 +2,7 @@
 layout: post
 published: false
 title: CGM, PHP, SQL, and MIDI
-author: maxwell keyes
+author: Jason Miller
 date: "2003-03-06 13:58:00 -0500"
 categories:
   - personal

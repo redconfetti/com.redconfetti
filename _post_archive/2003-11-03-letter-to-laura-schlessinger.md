@@ -2,7 +2,7 @@
 layout: post
 published: false
 title: A Letter to Laura Schlessinger
-author: maxwell keyes
+author: Jason Miller
 date: '2003-11-03 02:36:00 -0500'
 categories:
 - personal

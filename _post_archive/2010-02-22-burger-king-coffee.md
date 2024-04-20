@@ -2,7 +2,7 @@
 layout: post
 published: false
 title: Burger King Coffee
-author: maxwell keyes
+author: Jason Miller
 date: '2010-02-22 13:14:46 -0800'
 date_gmt: '2010-02-22 17:14:46 -0800'
 categories:

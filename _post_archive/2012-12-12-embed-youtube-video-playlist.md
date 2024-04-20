@@ -2,7 +2,7 @@
 layout: post
 published: false
 title: Embed YouTube Video Playlist
-author: maxwell keyes
+author: Jason Miller
 date: '2012-12-12 16:07:00 -0800'
 date_gmt: '2012-12-12 20:07:00 -0800'
 categories:

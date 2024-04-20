@@ -2,7 +2,7 @@
 layout: post
 published: false
 title: Don't Medicate Your Children
-author: maxwell keyes
+author: Jason Miller
 date: '2013-06-09 13:10:31 -0700'
 date_gmt: '2013-06-09 17:10:31 -0700'
 categories:

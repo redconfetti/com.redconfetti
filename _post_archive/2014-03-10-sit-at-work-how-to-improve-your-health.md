@@ -2,7 +2,7 @@
 layout: post
 published: false
 title: Sit at work? How to Improve your Health
-author: maxwell keyes
+author: Jason Miller
 date: '2014-03-10 19:08:59 -0700'
 date_gmt: '2014-03-10 23:08:59 -0700'
 categories:

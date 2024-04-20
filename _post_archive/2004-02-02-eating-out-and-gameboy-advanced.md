@@ -2,7 +2,7 @@
 layout: post
 published: false
 title: Eating Out and Gameboy Advanced
-author: maxwell keyes
+author: Jason Miller
 date: '2004-02-02 23:02:00 -0500'
 categories:
 - personal

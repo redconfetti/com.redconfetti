@@ -2,7 +2,7 @@
 layout: post
 published: false
 title: Blog Pagination and Administration
-author: maxwell keyes
+author: Jason Miller
 date: '2003-02-24 16:15:00 -0500'
 categories:
 - personal

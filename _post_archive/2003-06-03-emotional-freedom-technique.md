@@ -2,7 +2,7 @@
 layout: post
 published: false
 title: Emotional Freedom Technique
-author: maxwell keyes
+author: Jason Miller
 date: '2003-06-03 11:54:00 -0500'
 categories:
 - personal

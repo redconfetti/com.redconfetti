@@ -2,7 +2,7 @@
 layout: post
 published: false
 title: PHP Compilation
-author: maxwell keyes
+author: Jason Miller
 date: '2005-02-28 05:22:00 -0500'
 categories:
 - personal

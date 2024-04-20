@@ -2,7 +2,7 @@
 layout: post
 published: false
 title: Brainless Lawyer
-author: maxwell keyes
+author: Jason Miller
 date: '2009-08-01 11:41:01 -0700'
 date_gmt: '2009-08-01 15:41:01 -0700'
 categories:

@@ -2,7 +2,7 @@
 layout: post
 published: false
 title: Beware of Bikes from Walmart
-author: maxwell keyes
+author: Jason Miller
 date: '2010-06-25 02:00:01 -0700'
 date_gmt: '2010-06-25 06:00:01 -0700'
 categories:

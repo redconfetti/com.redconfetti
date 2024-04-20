@@ -2,7 +2,7 @@
 layout: post
 published: true
 title: We Want Information
-author: maxwell keyes
+author: Jason Miller
 date: '2012-05-16 17:07:02 -0700'
 date_gmt: '2012-05-16 21:07:02 -0700'
 categories:

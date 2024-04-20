@@ -2,7 +2,7 @@
 layout: post
 published: true
 title: How to Transfer Music to your iPhone
-author: maxwell keyes
+author: Jason Miller
 date: '2014-03-24 17:47:01 -0700'
 date_gmt: '2014-03-24 21:47:01 -0700'
 categories:

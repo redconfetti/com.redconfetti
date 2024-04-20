@@ -2,7 +2,7 @@
 layout: post
 published: false
 title: Cool Quotes on Education
-author: maxwell keyes
+author: Jason Miller
 date: '2010-04-20 15:33:38 -0700'
 date_gmt: '2010-04-20 19:33:38 -0700'
 categories:

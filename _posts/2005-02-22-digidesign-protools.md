@@ -2,7 +2,7 @@
 layout: post
 published: true
 title: Digidesign MBox and Protools
-author: maxwell keyes
+author: Jason Miller
 date: '2005-02-22 16:46:00 -0500'
 categories:
 - personal

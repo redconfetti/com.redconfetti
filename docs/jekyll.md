@@ -16,6 +16,12 @@ Testing out [Jekyll Theme YAT]
 [Github: jekyll-theme-yat]: https://github.com/jeffreytse/jekyll-theme-yat
 [jekyll-spaceship]: https://github.com/jeffreytse/jekyll-spaceship
 
+## Utterances
+
+Using [Utterances] for comment system that relies on Github Issues.
+
+[Utterances]: https://utteranc.es/
+
 ## Reference
 
 * [Jekyll Docs](https://jekyllrb.com/docs/)

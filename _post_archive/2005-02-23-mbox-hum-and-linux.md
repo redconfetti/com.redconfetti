@@ -2,7 +2,7 @@
 layout: post
 published: false
 title: Mbox Hum and Linux
-author: maxwell keyes
+author: Jason Miller
 date: '2005-02-23 18:25:00 -0500'
 categories:
 - personal

@@ -2,7 +2,7 @@
 layout: post
 published: false
 title: Creating or Releasing Pain
-author: maxwell keyes
+author: Jason Miller
 date: '2012-05-07 21:01:42 -0700'
 date_gmt: '2012-05-08 01:01:42 -0700'
 categories:

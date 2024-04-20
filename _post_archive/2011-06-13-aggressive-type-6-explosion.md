@@ -2,7 +2,7 @@
 layout: post
 published: false
 title: Aggressive Type 6 Explosion
-author: maxwell keyes
+author: Jason Miller
 date: '2011-06-13 12:57:03 -0700'
 date_gmt: '2011-06-13 16:57:03 -0700'
 categories:

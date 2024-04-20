@@ -2,7 +2,7 @@
 layout: post
 published: false
 title: Repressed Emotions
-author: maxwell keyes
+author: Jason Miller
 date: '2009-05-11 13:43:39 -0700'
 date_gmt: '2009-05-11 17:43:39 -0700'
 categories:

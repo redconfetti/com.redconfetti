@@ -2,7 +2,7 @@
 layout: post
 published: false
 title: The Devil Teaches Us Too
-author: maxwell keyes
+author: Jason Miller
 date: '2014-10-08 13:34:14 -0700'
 date_gmt: '2014-10-08 17:34:14 -0700'
 categories:

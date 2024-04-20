@@ -2,7 +2,7 @@
 layout: post
 published: false
 title: Smoking for normalcy?
-author: maxwell keyes
+author: Jason Miller
 date: '2014-02-03 12:57:09 -0800'
 date_gmt: '2014-02-03 16:57:09 -0800'
 categories:

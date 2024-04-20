@@ -2,7 +2,7 @@
 layout: post
 published: false
 title: Hurricane Charlie
-author: maxwell keyes
+author: Jason Miller
 date: '2004-08-13 20:00:00 -0500'
 categories:
 - personal

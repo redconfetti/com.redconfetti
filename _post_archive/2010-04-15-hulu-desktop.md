@@ -2,7 +2,7 @@
 layout: post
 published: false
 title: Hulu Desktop
-author: maxwell keyes
+author: Jason Miller
 date: '2010-04-15 19:33:42 -0700'
 date_gmt: '2010-04-15 23:33:42 -0700'
 categories:

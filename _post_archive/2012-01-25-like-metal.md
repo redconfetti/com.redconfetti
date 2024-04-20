@@ -2,7 +2,7 @@
 layout: post
 published: false
 title: Like Metal
-author: maxwell keyes
+author: Jason Miller
 date: '2012-01-25 11:59:49 -0800'
 date_gmt: '2012-01-25 15:59:49 -0800'
 categories:

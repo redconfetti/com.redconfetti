@@ -2,7 +2,7 @@
 layout: post
 published: false
 title: Domain Name Renewed
-author: maxwell keyes
+author: Jason Miller
 date: '2003-08-15 23:48:00 -0500'
 categories:
 - personal

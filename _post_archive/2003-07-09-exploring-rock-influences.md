@@ -2,7 +2,7 @@
 layout: post
 published: false
 title: Exploring Rock Influences
-author: maxwell keyes
+author: Jason Miller
 date: '2003-07-09 10:36:00 -0500'
 categories:
 - personal

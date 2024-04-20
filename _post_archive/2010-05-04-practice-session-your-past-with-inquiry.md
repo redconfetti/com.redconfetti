@@ -2,7 +2,7 @@
 layout: post
 published: false
 title: 'Practice Session: Your Past Experience with Inquiry'
-author: maxwell keyes
+author: Jason Miller
 date: '2010-05-04 00:02:08 -0700'
 date_gmt: '2010-05-04 04:02:08 -0700'
 categories:

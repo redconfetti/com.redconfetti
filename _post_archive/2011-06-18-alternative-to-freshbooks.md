@@ -2,7 +2,7 @@
 layout: post
 published: false
 title: Alternative to Freshbooks
-author: maxwell keyes
+author: Jason Miller
 date: '2011-06-18 16:23:57 -0700'
 date_gmt: '2011-06-18 20:23:57 -0700'
 categories:

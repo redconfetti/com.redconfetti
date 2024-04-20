@@ -2,7 +2,7 @@
 layout: post
 published: true
 title: Ableton Live Newbie
-author: maxwell keyes
+author: Jason Miller
 date: '2014-03-24 23:39:45 -0700'
 date_gmt: '2014-03-25 03:39:45 -0700'
 categories:

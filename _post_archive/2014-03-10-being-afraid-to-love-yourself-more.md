@@ -2,7 +2,7 @@
 layout: post
 published: false
 title: Being Afraid to Love Yourself More
-author: maxwell keyes
+author: Jason Miller
 date: '2014-03-10 02:07:14 -0700'
 date_gmt: '2014-03-10 06:07:14 -0700'
 categories:

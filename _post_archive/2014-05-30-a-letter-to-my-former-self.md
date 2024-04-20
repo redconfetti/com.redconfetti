@@ -2,7 +2,7 @@
 layout: post
 published: false
 title: A Letter to My Former Self
-author: maxwell keyes
+author: Jason Miller
 wordpress_id: 1577
 wordpress_url: http://www.redconfetti.com/?p=1577
 date: '2014-05-30 03:20:34 -0700'

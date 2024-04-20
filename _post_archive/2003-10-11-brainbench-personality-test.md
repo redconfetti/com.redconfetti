@@ -2,7 +2,7 @@
 layout: post
 published: false
 title: Brainbench Personality Test
-author: maxwell keyes
+author: Jason Miller
 date: '2003-10-11 01:41:00 -0500'
 categories:
 - personal

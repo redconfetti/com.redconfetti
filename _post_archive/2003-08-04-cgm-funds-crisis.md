@@ -2,7 +2,7 @@
 layout: post
 published: false
 title: Compass Global Music Funds Crisis
-author: maxwell keyes
+author: Jason Miller
 date: '2003-08-04 19:01:00 -0500'
 categories:
 - personal

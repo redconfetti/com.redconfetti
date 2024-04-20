@@ -2,7 +2,7 @@
 layout: post
 published: false
 title: Ouija Board and Digidesign MBox
-author: maxwell keyes
+author: Jason Miller
 date: '2004-02-29 03:41:00 -0500'
 categories:
 - personal

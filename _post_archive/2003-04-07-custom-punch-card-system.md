@@ -2,7 +2,7 @@
 layout: post
 published: false
 title: Custom Punch Card System
-author: maxwell keyes
+author: Jason Miller
 date: '2003-04-07 13:54:00 -0500'
 categories:
 - personal

@@ -2,7 +2,7 @@
 layout: post
 published: false
 title: Human Error and Suspended License
-author: maxwell keyes
+author: Jason Miller
 date: '2003-12-03 23:20:00 -0500'
 categories:
 - personal

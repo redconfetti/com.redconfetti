@@ -2,7 +2,7 @@
 layout: post
 published: false
 title: Interviewed with Great Insurance Jobs
-author: maxwell keyes
+author: Jason Miller
 date: '2004-03-24 16:55:00 -0500'
 categories:
 - personal

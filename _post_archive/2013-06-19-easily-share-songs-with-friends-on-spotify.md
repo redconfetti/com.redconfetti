@@ -2,7 +2,7 @@
 layout: post
 published: false
 title: Easily Share Songs with Friends on Spotify
-author: maxwell keyes
+author: Jason Miller
 date: '2013-06-19 03:41:43 -0700'
 date_gmt: '2013-06-19 07:41:43 -0700'
 categories:

@@ -2,7 +2,7 @@
 layout: post
 published: false
 title: Mysticism - Faith or Fact?
-author: maxwell keyes
+author: Jason Miller
 date: '2010-06-29 00:24:08 -0700'
 date_gmt: '2010-06-29 04:24:08 -0700'
 categories:

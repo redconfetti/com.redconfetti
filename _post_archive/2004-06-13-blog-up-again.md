@@ -2,7 +2,7 @@
 layout: post
 published: false
 title: Blog Up Again
-author: maxwell keyes
+author: Jason Miller
 date: '2004-06-13 01:20:00 -0500'
 categories:
 - personal

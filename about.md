@@ -10,9 +10,7 @@ I contribute to a Ruby / Rails blog called [Ruby Colored Glasses][]
 
 I was formerly a student of the [Diamond Approach][].
 
-<img src="{{site.assets.url_prefix}}/images/jason-miller.jpg"
-  alt="Jason Miller" title="Jason Miller" width="550"
-/>
+<img src="{{site.assets.url_prefix}}/images/jason-miller.jpg" alt="Jason Miller" title="Jason Miller" />
 
 [Diamond Approach]: https://en.wikipedia.org/wiki/A._H._Almaas#Diamond_Approach
 [Ruby Colored Glasses]: http://www.rubycoloredglasses.com/

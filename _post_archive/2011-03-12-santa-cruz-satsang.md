@@ -2,7 +2,7 @@
 layout: post
 published: false
 title: Santa Cruz Satsang
-author: maxwell keyes
+author: Jason Miller
 date: '2011-03-12 12:19:52 -0800'
 date_gmt: '2011-03-12 16:19:52 -0800'
 categories:

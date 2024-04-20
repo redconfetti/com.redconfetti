@@ -2,7 +2,7 @@
 layout: post
 published: false
 title: Hanging out and Canoeing
-author: maxwell keyes
+author: Jason Miller
 date: '2003-11-02 23:54:00 -0500'
 categories:
 - personal

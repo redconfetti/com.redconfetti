@@ -2,7 +2,7 @@
 layout: post
 published: false
 title: Programming and Website Work
-author: maxwell keyes
+author: Jason Miller
 date: '2003-06-11 11:21:00 -0500'
 categories:
 - personal
