@@ -13,8 +13,4 @@ categories:
 
 [Audio Illusion Remix]({{site.assets.url_prefix}}/images/mp3/misc/redconfetti-searching.mp3)
 
-<audio controls>
-  <source src="{{site.assets.url_prefix}}/mp3/misc/redconfetti-searching.mp3" type="audio/mpeg">
-Your browser does not support the audio element.
-</audio>
-
+![Searching]({{site.assets.url_prefix}}/mp3/misc/redconfetti-searching.mp3)

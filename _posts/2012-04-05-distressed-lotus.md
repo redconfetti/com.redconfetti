@@ -14,7 +14,4 @@ Here is a song that I produced using a YouRock MIDI Guitar.
 
 [Distressed Lotus]({{site.assets.url_prefix}}/mp3/misc/distressed-lotus.mp3)
 
-<audio controls>
-  <source src="{{site.assets.url_prefix}}/mp3/misc/distressed-lotus.mp3" type="audio/mpeg">
-Your browser does not support the audio element.
-</audio>
+![Distressed Lotus]({{site.assets.url_prefix}}/mp3/misc/distressed-lotus.mp3)

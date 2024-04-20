@@ -30,7 +30,4 @@ back in 2004-2008.
 
 [Golden Pot Tree]({{site.assets.url_prefix}}/mp3/misc/redconfetti-golden-pot-tree.mp3)
 
-<audio controls>
-  <source src="{{site.assets.url_prefix}}/mp3/misc/redconfetti-golden-pot-tree.mp3" type="audio/mpeg">
-Your browser does not support the audio element.
-</audio>
+![Golden Pot Tree]({{site.assets.url_prefix}}/mp3/misc/redconfetti-golden-pot-tree.mp3)

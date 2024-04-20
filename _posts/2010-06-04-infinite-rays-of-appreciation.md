@@ -15,7 +15,4 @@ tags:
 
 [Infinite Rays of Appreciation]({{site.assets.url_prefix}}/mp3/misc/infinite-rays-appreciation-june3-2010.mp3)
 
-<audio controls>
-  <source src="{{site.assets.url_prefix}}/mp3/misc/infinite-rays-appreciation-june3-2010.mp3" type="audio/mpeg">
-Your browser does not support the audio element.
-</audio>
+![Infinite Rays of Appreciation]({{site.assets.url_prefix}}/mp3/misc/infinite-rays-appreciation-june3-2010.mp3)
