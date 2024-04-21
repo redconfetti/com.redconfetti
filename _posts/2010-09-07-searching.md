@@ -9,7 +9,7 @@ categories:
 - by redconfetti
 ---
 
-![Searching Uncanny]({{site.assets.url_prefix}}/images/posts/searching-uncanny.jpg "Searching Uncanny")
+![Searching Uncanny]({{site.assets.url_prefix}}/images/posts/2010-09-07/searching-uncanny.jpg "Searching Uncanny")
 
 [Audio Illusion Remix]({{site.assets.url_prefix}}/images/mp3/misc/redconfetti-searching.mp3)
 

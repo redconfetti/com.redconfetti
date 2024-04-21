@@ -17,7 +17,6 @@ tags:
 - Novation Launchpad
 - Kawehi
 - IK Multimedia
-comments: []
 ---
 
 In the past I've developed music using the IK Multimedia's [Total Studio
@@ -78,9 +77,8 @@ goes for about $150, or the [Launchpad
 Mini](http://us.novationmusic.com/midi-controllers-digital-dj/launchpad-mini),
 which goes for $100.
 
-<img alt="Novation Launchpad S"
-src="{{site.assets.url_prefix}}/images/posts/novation-launchpad-s.jpg"
-width="400">
+![Novation Launchpad S]({{site.assets.url_prefix}}/images/posts/2014-03-24/novation-launchpad-s.jpg "Novation Launchpad S")
+
 
 Some other MIDI controllers that I might consider to complement or replace the
 MPK Mini are Akai's [APC20](http://www.akaipro.com/product/apc20) (retails for
@@ -89,5 +87,4 @@ $200) or [APC40](http://www.akaipro.com/product/apc40). Or ultimately, the new
 Amazon](http://www.amazon.com/Ableton-Push-Controller-Touch-Sensitive-Encoders/dp/B00AZ98TVS))
 seems to be the creme de la creme currently.
 
-<img alt="Ableton Push"
-src="{{site.assets.url_prefix}}/images/posts/ableton-push.jpg" width="400">
+![Ableton Push]({{site.assets.url_prefix}}/images/posts/2014-03-24/ableton-push.jpg "Ableton Push")

@@ -13,7 +13,7 @@ If you like 80's synth pop, you'll likely like [The Aviation Orange][].
 
 [The Aviation Orange]: http://www.purevolume.com/theaviationorange
 
-![The Aviation Orange]({{site.assets.url_prefix}}/images/posts/the-aviation-orange.jpg "The Aviation Orange")
+![The Aviation Orange]({{site.assets.url_prefix}}/images/posts/2010-01-25/the-aviation-orange.jpg "The Aviation Orange")
 
 Check out their single 'Radio'.
 

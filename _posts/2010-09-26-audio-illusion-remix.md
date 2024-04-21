@@ -13,7 +13,7 @@ I decided to make a "remix" of the [Audio Illusion][] video on YouTube.
 
 [Audio Illusion]: http://www.youtube.com/watch?v=ugriWSmRxcM
 
-![audio illusion]({{site.assets.url_prefix}}/images/posts/audio-illusion.jpg "audio illusion")
+![audio illusion]({{site.assets.url_prefix}}/images/posts/2010-09-26/audio-illusion.jpg "audio illusion")
 
 [Audio Illusion Remix]({{site.assets.url_prefix}}/images/posts/mp3/misc/audio-illusion-remix.mp3)
 

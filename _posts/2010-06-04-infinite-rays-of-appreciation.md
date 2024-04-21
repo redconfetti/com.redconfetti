@@ -11,7 +11,7 @@ tags:
 - logic
 ---
 
-![Infinite Rays Desert]({{site.assets.url_prefix}}/images/posts/infinite-rays-desert.jpg "Underground Bomb")
+![Infinite Rays Desert]({{site.assets.url_prefix}}/images/posts/2010-06-04/infinite-rays-desert.jpg "Underground Bomb")
 
 [Infinite Rays of Appreciation]({{site.assets.url_prefix}}/mp3/misc/infinite-rays-appreciation-june3-2010.mp3)
 

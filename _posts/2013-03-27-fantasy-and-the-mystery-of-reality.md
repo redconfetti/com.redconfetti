@@ -51,8 +51,6 @@ I'm really curious about our real history. What is the origin of [playing
 cards](http://en.wikipedia.org/wiki/Playing_card), or tarot. Why were hearts,
 spades, clubs, and diamonds chosen? How did we discover the tarot?
 
-What do you feel when you see this
-[pentacle](http://en.wikipedia.org/wiki/Pentacle)?
+What do you feel when you see this [pentacle](http://en.wikipedia.org/wiki/Pentacle)?
 
-![seal of god]({{site.assets.url_prefix}}/images/posts/john-dees-seal-of-god.jpg
-"John Dee's Seal of God")
+![seal of god]({{site.assets.url_prefix}}/images/posts/2013-03-27/john-dees-seal-of-god.jpg "John Dee's Seal of God")

@@ -17,13 +17,13 @@ tags:
   - noise
   - comfy synth
   - chaos
-image: posts/2021-07-12-prism-kisses-1.jpg
+image: https://s3-us-west-1.amazonaws.com/assets.redconfetti.com/images/posts/2021-07-12/prism-kisses-1.jpg
 ---
 
 The following is an interview on July 10, 2021 with Erik Cantù of
 Prism Kisses, available on [Spotify] and [BandCamp].
 
-![Erik Cantù of Prism Kisses - Disturbed]({{site.assets.url_prefix}}/images/posts/2021-07-12-prism-kisses-1.jpg "Erik Cantù of Prism Kisses - Disturbed")
+![Erik Cantù of Prism Kisses - Disturbed]({{site.assets.url_prefix}}/images/posts/2021-07-12/prism-kisses-1.jpg "Erik Cantù of Prism Kisses - Disturbed")
 
 [Bandcamp]: https://prismkisses.bandcamp.com/
 [Spotify]: https://open.spotify.com/artist/6tUahLmqNastBPO0DGzz4h
@@ -215,7 +215,7 @@ that was intuitive for me. Calculating BPM was complicated.
 
 ## Does Your Area Have a Scene?
 
-![Erik Cantù of Prism Kisses - Obscured]({{site.assets.url_prefix}}/images/posts/2021-07-12-prism-kisses-2.jpg "Erik Cantù of Prism Kisses - Obscured")
+![Erik Cantù of Prism Kisses - Obscured]({{site.assets.url_prefix}}/images/posts/2021-07-12/prism-kisses-2.jpg "Erik Cantù of Prism Kisses - Obscured")
 
 Where I live the music scene is much different from the music I make.
 It's mostly folk, bluegrass, blues, some country. There is a thriving punk
@@ -340,7 +340,7 @@ much worse.
 
 ## The Influence of Noise
 
-![Erik Cantù of Prism Kisses - Revealed]({{site.assets.url_prefix}}/images/posts/2021-07-12-prism-kisses-3.jpg "Erik Cantù of Prism Kisses - Revealed")
+![Erik Cantù of Prism Kisses - Revealed]({{site.assets.url_prefix}}/images/posts/2021-07-12/prism-kisses-3.jpg "Erik Cantù of Prism Kisses - Revealed")
 
 Noise definitely is a very interesting scene. I definitely like how it's
 evolved as a genre. On one end of the spectrum you have [AIDS Wolf], and on

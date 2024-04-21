@@ -16,7 +16,7 @@ I got turned onto them by their single '[Turn It
 Up](http://www.robotsindisguise.co.uk/music/turn-it-up/)', which I discovered on
 Last.fm.
 
-![Robots in Disguise - Turn it Up album cover]({{site.assets.url_prefix}}/images/posts/robots-in-disguise-turn-it-up.jpg "Robots in Disguise - Turn It Up single cover")
+![Robots in Disguise - Turn it Up album cover]({{site.assets.url_prefix}}/images/posts/2010-04-27/robots-in-disguise-turn-it-up.jpg "Robots in Disguise - Turn It Up single cover")
 
 ![Robots in Disguise - Turn it Up video](//www.youtube.com/watch?v=6H13RprHi3I)
 
