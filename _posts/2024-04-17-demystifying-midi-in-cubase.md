@@ -81,7 +81,7 @@ Recent versions of Cubase have added advanced capabilities to configure a
 graphical layout of your own MIDI controller, and then map those controls to the
 various functions. This feature is known as [MIDI Remote][].
 
-[MIDI Remote]: https://steinberg.help/cubase_pro/v13/en/cubase_nuendo/topics/midi_remote/midi_remote_c.html
+[MIDI Remote]: https://steinberg.help/cubase_artist/v13/en/cubase_nuendo/topics/midi_remote/midi_remote_c.html
 
 Unless you have a common Akai, Novation Launchkey, or Arturia Keylab controller,
 you'll need to confiture your own "script" for MIDI Remote. This is actually
@@ -92,7 +92,7 @@ your own device. You'll need to provide the vendor and model names for your
 device, and choose the MIDI input and outputs to use to communicate with your
 device.
 
-[Add MIDI Controller Surface]: https://steinberg.help/cubase_pro/v13/en/cubase_nuendo/topics/midi_remote/midi_remote_midi_controller_surfaces_adding_t.html
+[Add MIDI Controller Surface]: https://steinberg.help/cubase_artist/v13/en/cubase_nuendo/topics/midi_remote/midi_remote_midi_controller_surfaces_adding_t.html
 
 You can [watch this video][] I created to see the process in action, or continue
 to read below for similar instructions.
@@ -137,109 +137,61 @@ Controller to supported actions within Cubase. If you don't see the Functions
 Browser on the left side, click on the Show/Hide Functions Browser button in the
 top-right corner of the window.
 
-[Mapping Assistant]: https://steinberg.help/cubase_pro/v13/en/cubase_nuendo/topics/midi_remote/mapping_midi_device_parameters_to_parameters_t.html
+[Mapping Assistant]: https://steinberg.help/cubase_artist/v13/en/cubase_nuendo/topics/midi_remote/mapping_midi_device_parameters_to_parameters_t.html
 
 The Functions Browser reveals the hundreds of controls that you can manipulate
 in Cubase, to make your MIDI Controller act as a control surface.
 
-Here's a list of what I think are the most useful controls you can use in Cubase
-with a limited controller:
+Here's a list of many suggested controls you can search for and use:
 
-* Focus Quick Controls (Explained below)
-  * QC1
-  * QC2
-  * QC3
-  * QC4
-* Selected Track
-  * Mute
-  * Solo
-* Transport
-  * Activate Cycle (Toggle)
-  * Activate Metronome Click (Toggle)
-  * Forward
-  * Record
-  * Rewind
-  * Start
-  * Stop
-* Key Commands
-  * Devices
-    * Mixer (Toggle Display)
-  * File
-    * Save
-    * Save New Version
-  * Edit
-    * Undo
-  * Media
-    * Open Media Bay
-    * Search Media Bay
-    * Loop Browser
-    * Sound Browser
-  * Preset
-    * Next
-    * Previous
-    * Open/Close Browser
-  * Transport
-    * Go to Left Locator
-    * Go to Right Locator
-    * Nudge -1 bar
-    * Nudge +1 bar
-    * Return to Start Position
-    * Set Left Locator to Project Cursor Position
-    * Set Right Locator to Project Cursor Position
-  * Zoom
-    * Zoom 4 Tracks
-    * Zoom 8 Tracks
-    * Zoom Full
-    * Zoom In
-    * Zoom In Vertically
-    * Zoom Out
-    * Zoom Out Vertically
+* Focus Quick Controls (QC1 - QC8)
+* Selected Track - Volume, Mute, Solo, Panning, EQ, Inserts, Sends, Select
+  Next/Previous Track
+* Transport - Cycle, Metronome, Rewind, Forward, Start, Stop, Record, Go to Left
+  Locator, Go to Right Locator, Nudge -1 Bar, Nudge +1 Bar, Set Left Locator
+  to Project Cursor Position, Set Right Locator to Project Cursor Position
+* Zoom - 4 tracks, 8 tracks, Full, Zoom In, Zoom In Vertically, Zoom Out, Zoom
+  Out Vertically
+* Toggle Mixer window, Toggle Instrument window
+* File - Save, Save New Version
+* Edit - Undo
+* Media - Open Media Bay, Search Media Bay, Loop Browser, Sound Browser
+* Preset - Previous, Next, Open/Close Browser
 
-For this example, I'm going to map the controls as follows:
-
-* Knobs 1-4: Focus Quick Controls > QC1 - QC4
-* Button 1: Preset > Previous
-* Button 2: Preset > Next
-* Button 3: Transport > Activate Cycle
-* Button 4: Key Commands > Devices > Mixer
-* Pad 1: Key Commands > Edit > Undo
-* Pad 2: Transport > Stop
-* Pad 3: Transport > Start
-* Pad 4: Transport > Record
-* Pad 5: Key Commands > Transport > Nudge -1 bar
-* Pad 6: Key Commands > Transport > Nudge +1 bar
-* Pad 7: Key Commands > Transport > Set Left Locator to Project Cursor Position
-* Pad 8: Key Commands > Transport > Set Right Locator to Project Cursor Position
-
-![Image]({{site.assets.url_prefix}}/images/posts/2024-04-18/cubase-midi-remote-mapping-assistant.png "Image")
-
-Here is why:
-
-* Knobs
-  * I cover Quick Controls in the next section
-* Pads
-  * 3 buttons are the basic transport controls (Stop, Play, Record), and one is
-    to undo the last recording. I record a loop, stop, and undo, quite often.
-  * Instead of using "Forward" and "Rewind", I'm using "Nudge -1 Bar" and "Nudge
-    +1 Bar" to move the cursor to a fixed position forward or back
-  * After moving the cursor to a specific bar, I'm able to set the Left and
-    Right Locators for the Cycle.
-* Buttons
-  * Navigating through instrument presets is really important to my workflow
-  * I decided to group the Undo button with the other 3 transport controls, and
-    place the "Activate Cycle" button here, as it's used less often to toggle
-    the cycle mode.
-  * Devoting a button to toggle the Mixer console window is certainly a must for
-    those with a single monitor.
+![Cubase MIDI Remote Mapping Assistant]({{site.assets.url_prefix}}/images/posts/2024-04-18/cubase-midi-remote-mapping-assistant.png "Cubase MIDI Remote Mapping Assistant")
 
 ![MIDI Remote Demonstration]({{site.assets.url_prefix}}/images/posts/2024-04-18/cubase-midi-remote-test.mp4?width=600)
 
+### Mapping Pages
+
+Even with a limited set of knobs, faders, and/or buttons on your MIDI
+Controller, it's possible to control many more parameters in Cubase by
+configuring [Mapping Pages][] in the MIDI Remote section.
+
+You can event assign 2 buttons to change between the mapping pages. Just make
+sure to map the same buttons to those actions on each page so that the behavior
+is consistent.
+
+![Cubase MIDI Remote Mapping Page]({{site.assets.url_prefix}}/images/posts/2024-04-18/cubase-midi-remote-mapping-page.png)
+
+Here's an example of the configuration you could setup for each page:
+
+* Page 1 - "Track" - Maps controls for current selected track
+* Page 2 - "EQ" - Maps controls to EQ parameters for current selected track
+* Page 3 - "Sends" - Maps controls to Send levels
+* Page 4 - "Quick Controls" - Maps controls to Focus Quick Controls 1-8
+  (see next section)
+* Page 5 - "Instrument" - Maps controls to "Instrument Parameters" (see below)
+
+[Mapping Pages]: https://steinberg.help/cubase_artist/v13/en/cubase_nuendo/topics/midi_remote/midi_remote_mapping_pages_c.html
+
 ## Focus Quick Controls
 
-I recommend that you reserve your knobs that are available to the [Focus Quick
-Controls] (QC 1 - QC 8).
+If you only have 4-8 knobs on your controller, you might prefer to use the
+Quick Control features in Cubase. In the Mapping Assistant, you can configure
+up to 8 controls to map to the [Focus Quick Controls] (QC 1 - QC 8).
 
-[Focus Quick Controls]: https://steinberg.help/cubase_pro/v13/en/cubase_nuendo/topics/midi_remote/midi_remote_focused_quick_controls_c.html
+[Focus Quick Controls]: https://steinberg.help/cubase_artist/v13/en/cubase_nuendo/topics/midi_remote/midi_remote_focused_quick_controls_c.html
 
 The Quick Controls can manipulate controls that are [associated with a track][],
 or ones that are associated with a [VST instrument][]. Cubase determines which
@@ -248,8 +200,8 @@ context your controls apply to based on which window is currently selected or
 controls apply to that track. When you've opened a VST instrument, those
 controls will apply to that instrument instead.
 
-[associated with a track]: https://steinberg.help/cubase_pro/v13/en/cubase_nuendo/topics/track_quick_controls/track_quick_controls_c.html?hl=track%2Cquick%2Ccontrols
-[VST instrument]: https://steinberg.help/cubase_pro/v13/en/cubase_nuendo/topics/vst_instruments/vst_instrument_control_panel_r.html
+[associated with a track]: https://steinberg.help/cubase_artist/v13/en/cubase_nuendo/topics/track_quick_controls/track_quick_controls_c.html?hl=track%2Cquick%2Ccontrols
+[VST instrument]: https://steinberg.help/cubase_artist/v13/en/cubase_nuendo/topics/vst_instruments/vst_instrument_control_panel_r.html
 
 ### Controlling Track Parameters
 
@@ -293,51 +245,146 @@ will be locked to that context.
 
 ![Cubase Quick Controls Focus Lock]({{site.assets.url_prefix}}/images/posts/2024-04-18/cubase-quick-control-focus-lock.mp4?width=600)
 
-#### Beyond Quick Controls
+## Full Instrument Mapping
 
-If you have a MIDI Controller with far more than 8 knobs, you'll want to make
-assignments that are not associated with the Quick Controls.
+Quick Controls are quick and easy for manipulating your top 8 controls for each
+plugin. This may be completely adequate if you're using them with very simple
+effects and instrument plugins. However you'll find this very limiting
+if you're trying to engage in sound design with software synthesizer
+plugins that include multiple oscillators, filters, modulators, etc.
 
-For many VST instruments, mapping the Control Change Numbers used by your MIDI
-controller to the controls in the instrument is as simple as right-clicking on a
-control inside of the instrument, selecting a "Learn" option, and then
-manipulating the control on your MIDI controller. The software should
-immediately detect the MIDI CC messages being sent and automatically map that
-control to the VST instrument.
+The good news is that there is a configuration for plugins that can be
+configured with more than 8 controls, and it supports "parameter banks" that act
+similar to the Mapping Pages feature mentioned above.
 
-![Korg Polysix MIDI Learn]({{site.assets.url_prefix}}/images/posts/2024-04-18/korg-polysix-midi-learn.gif "Korg Polysix MIDI Learn")
+Instead of using Quick Controls with your instruments, you might find it more
+useful to use the following approach instead.
 
-Make sure you consult your VST instruments manual on how it handles this
-functionality, and if you need to save the mapping that is "learned" once you're
-done so that your changes aren't lost between sessions.
+### Map Instrument Parameters
+
+The first step is to map your available controls to a number of Instrument
+Parameters. Remember whatever this number is, this is how many parameters that
+will exist in each "bank". In the Functions Browser of the MIDI Remote Mapping
+Assistant, navigate to Selected Track > Instrument > Parameters.
+
+If you have more than 8 controls you wish to map, double click on the
+"===Setup===" entry, and reconfigure the number of parameters that are available
+for you to map. Once you've done this, go ahead and map the options labelled
+"Parameter 1", "Parameter 2", etc. to your controller interface.
+
+![Cubase MIDI Remote Mapping Assistant Instrument Parameters]({{site.assets.url_prefix}}/images/posts/2024-04-18/cubase-midi-remote-instrument-parameters.jpg "Cubase MIDI Remote Mapping Assistant Instrument Parameters")
+
+Make sure to reserve a couple buttons for the actions that navigate through
+the parameter banks.
+
+![Cubase MIDI Remote Mapping Assistant - Plugin Parameter Bank]({{site.assets.url_prefix}}/images/posts/2024-04-18/cubase-midi-remote-mapping-assistant-plugin-parameter-bank.png)
+
+Note: The Instrument Parameters assignments, and the navigation assignments,
+must be assigned to the same MIDI Remote device or else the parameter bank
+paging won't work. I tried to use a different MIDI Remote device configuration
+that listened to my MIDI controllers secondary interface, and the parameter bank
+actions did not work.
+
+### Remote Control Editor
+
+After you're done, open a Virtual Instrument window, and right-click in the
+top section to reveal the option to open the [Remote Control Editor][].
+
+![Cubase VST Instrument Remote Control Editor]({{site.assets.url_prefix}}/images/posts/2024-04-18/cubase-instrument-remote-control-editor-1.png "Cubase VST Instrument Remote Control Editor")
+
+[Remote Control Editor]: https://steinberg.help/cubase_artist/v13/en/cubase_nuendo/topics/remote_control/remote_control_editor_r.html
+
+![Cubase VST Instrument Remote Control Editor Window]({{site.assets.url_prefix}}/images/posts/2024-04-18/cubase-vst-remote-control-editor.png "Cubase VST Instrument Remote Control Editor Window")
+
+Each "page" in the Remote Control Editor is the parameter "bank" that you'll
+be able to page through using the 2 buttons you've mapped to your controller.
+The parameters offered by your virtual instrument should populate automatically
+with the list of parameters provided by the VST instrument to Cubase.
+
+Here's a very well produced video demonstrating how this feature works, including
+a demonstration of the "Learn" functionality within the Remote Control Editor.
+Keep in mind that this presenter is mapping out Insert Effects plugin parameters
+instead of Instrument plugin parameters for the current selected track. You can
+also see from his Mapping Assistant that he has multiple Mapping pages
+in MIDI remote that he's using also.
+
+![Control All Plug-In Parameters with MIDI Remote](https://www.youtube.com/watch?v=rucngo6i6qs&t=320s "Control All Plug-In Parameters with MIDI Remote")
+
+Some instrument plugins do not provide control of their parameters unfortunately.
+Others may glitch in loading the parameters, so feel free to use the
+"Remove All Assignments" button in the upper-right area of the window to clear
+all the current assignments, and then use the "Get Default Factory Layout"
+button to load the parameters offered by the plugin.
+
+### Custom Page Layouts
+
+You might want to click on the "Setup Cell Layout" button in the top of the
+window and reconfigure the number of cells to match the number of parameters
+that you have mapped.
+
+Often it seems like the parameters and the order that are suggested for each
+"page" in are arbitrary, or overlapping in a manner that isn't logically clear
+and defined to you.
+
+In this example there are 5 controls per each Oscillator, and we have 8 controls
+assigned to the parameters, so we end up getting Oscillator 2 settings on the
+same page as Oscillator 1.
+
+![Cubase Instrument Parameter Mapping Defaults]({{site.assets.url_prefix}}/images/posts/2024-04-18/cubase-midi-remote-parameter-mapping-default.png "Cubase Instrument Parameter Mapping Defaults")
+
+I find it more logical to separate the mappings for each module of the
+instrument on each page, especially when they can be uniform across a series of
+pages, such as for each Oscillator.
+
+Here's an example of how we could group together the various controls per
+each page with a complicated synthesizer:
+
+* Page 1 - Oscillator 1 controls
+* Page 2 - Oscillator 2 controls
+* Page 3 - Oscillator 3 controls
+* Page 4 - Filter controls
+* Page 5 - Amplifier Envelope controls
+* Page 6 - Filter Envelope controls
+* Page 7 - LFO 1 controls
+* Page 8 - LFO 2 controls
+
+By the way, the 8 knobs I setup in the MIDI Remote screenshot above are very
+wide. I purposefully did this so that the names of the parameters that get mapped
+to my controls show up in the MIDI Remote window with the full names, instead of
+the abbreviated names.
 
 ## Controlling Presets
 
-Above I mapped 2 buttons to the "Presets > Previous" and "Presets > Next"
-actions. When I'm trying to find a preset in an instrument that best matches a
-song I'm working on, being able to flip through the presets by the push of a
-button is very helpful.
+When I'm trying to find a preset in an instrument that best matches a song that
+I'm working on, being able to flip through the presets by the push of a button
+is very helpful.
 
 ### Cubase Presets
 
-Cubase Presets are managed by Cubase, and are navigable using the "Next" and
-"Previous" buttons mapped in the MIDI Remote Mapping Assistant. Cubase Presets
-can also be tagged and categorized in the [Media Bay][], and used to quickly add
-a new instrument track to a project.
-
-[Media Bay]: https://steinberg.help/cubase_pro/v13/en/cubase_nuendo/topics/mediabay/mediabay_r.html?hl=media
+You can map two buttons to the "Previous" and "Next" actions under
+"Key Commands > Preset". These actions only navigate through the presets that
+are managed by Cubase. Cubase presets can be loaded or saved for a plugin from
+the top of the VST plugin window.
 
 ![Cubase Preset Save]({{site.assets.url_prefix}}/images/posts/2024-04-18/cubase-preset-save.png "Cubase Preset Save")
 
-The [Virtual Studio Technology (VST)][] standard that plugins must mostly abide
-by specifies that the VST host (i.e. Cubase) must be able to request [the
-current VST plugin state][] from the plugin for all of its parameters/settings,
-so that it may snapshot these as a Cubase Preset.
+Cubase Presets can also be tagged and categorized in the [Media Bay][], and used
+to quickly add a new instrument track to a project.
+
+[Media Bay]: https://steinberg.help/cubase_pro/v13/en/cubase_nuendo/topics/mediabay/mediabay_r.html?hl=media
+
+The [Virtual Studio Technology (VST)][] standard that plugins must conform to
+specifies that the VST host (Cubase) must be able to request
+[the current VST plugin state][] from the plugin for all of its
+parameters/settings, so that it may store these inside of the Cubase Preset, or
+even inside of your project (for when you haven't decided to save it as a preset).
 
 [Virtual Studio Technology (VST)]: https://en.wikipedia.org/wiki/Virtual_Studio_Technology
 [the current VST plugin state]: https://steinbergmedia.github.io/vst3_dev_portal/pages/Technical+Documentation/Presets+Program+Lists/Index.html#simple-plug-ins
 
-In my experience, VST plugins all follow this convention very well.
+Most plugins do conform to this requirement well. Meaning that if you save a
+preset, and then try to load it later, it brings the plugin to the state it was
+in when you saved it.
 
 ### Custom Internal Presets
 
@@ -379,7 +426,7 @@ Path that points to your hard drive.
 [Halion Sonic]: https://www.steinberg.net/vst-instruments/halion/sonic/
 
 When I search for a preset in the Media Bay that was automatically populated for
-Halion Sonic, such as the General MIDI 001 Acoustic Grand Piano, the path is for
+Halion Sonic, such as the General MIDI 001 Acoustic Grand Piano, the path for
 the preset noted is different, prefixed with `vstsound://` as if it's a URL.
 
 When VST plugins do communicate their Program List to Cubase, the presets do not
@@ -449,11 +496,11 @@ actually update with the presets under the "Routing" section of the Inspector.
 Additionally, if you configure your MIDI Controller to send MIDI Program Change
 (PC) messages to Massive, it will respect those as well.
 
-Overall my conclusion is that it's nice when you can configure the plugin to use
-your MIDI CC to traverse its preset collection, but at the end of the day you're
-going to have to save the presets you like the most as Cubase presets so that
-you can navigate through them, as well as categorize and tag them in the Media
-Bay.
+### Recommendation
+
+Overall my recommendation is to load your favorite plugins internal presets,
+and save them as Cubase presets. It takes more time, but it might not be much
+more time than it takes to assemble a "Program List" manually.
 
 ## External / Hardware Instruments
 
