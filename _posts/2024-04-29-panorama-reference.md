@@ -228,7 +228,7 @@ CC number in the [MIDI CC List][].
 | --------- | ----------------------------- | ------------------------------------ |
 | 1         | Mod-Wheel (B2)                | Modulation Wheel (MSB)               |
 | 3         | Master Fader                  | Undefined (MSB)                      |
-| 7         | Motorized Fader (D)           | **Volume** (MSB)                     |
+| 7         | Motorized Fader (D)           | Volume (MSB)                         |
 | 11        | Expression Pedal              | Expression (MSB)                     |
 | 12        | Mute button (E1)              | Effect Controller 1 (MSB)            |
 | 13        | Solo Button (E2)              | Effect Controller 2 (MSB)            |
@@ -495,83 +495,6 @@ Here are links to all of the Nektar Panorama P1/P4/P6 articles.
 [Internal Mode - Pads]: https://nektartech.com/internal-mode-pads-panorama-p-series/
 [Internal Mode - Presets & Maps]: https://nektartech.com/internal-mode-presets-and-maps-panorama-p-series/
 [QWERTY Macros]: https://nektartech.com/qwerty-macros-panorama-p-series/
-
-## System Exclusive Notes
-
-When the DAW is started with the Panorama already started, SysEx messages are
-sent to the Panorama that tell it to enable the DAW Integration modes (Mixer,
-Instrument, Transport).
-
-I armed my MIDI Monitor app on both the outgoing and incoming "Panorama P6
-ReWire Host" interfaces. I start up Cubase, and I see that the first messages
-sent to the Panorama P6 are 2 SYSEX messages.
-
-The SysEx ID for Nektar Technology Inc. is "00 01 77"
-
-```plaintext
-# 14 bytes
-F0 00 01 77 7F 01 08 02 00 00 01 01 0D F7
-
-# 6 bytes
-F0 7E 7F 06 01 F7
-```
-
-The second SysEx message is the Universal Device Inquiry - "What are you?"
-
-The Panorama P6 responds on all 3 DAW integration interfaces with 17 bytes to
-say "I AM!!".
-
-```plaintext
-F0                         # Begin of SysEx
-7E 7F 06 02                # Universal Device Reply
-00 01 77                   # ID: Nektar Technology Inc
-67 48                      # Family ID
-22 40                      # Family Member
-30 31 30 30                # Version 0100 (v01.00)
-F7                         # End of SysEx
-```
-
-So I'm going to keep an eye out for `00 01 77 67 48`, as this is like an address
-to the Panorama P6 (or P1 or P4 as they are in the same "family" of devices).
-The other device specific information just helps the device making requests
-(Cubase integration driver) know specific device type and software version it's
-dealing with, so it can send the right types of requests to the device that it
-is designed to receive.
-
-Here is a reply from the Panorama P6 to the Cubase integration driver.
-
-```plaintext
-F0                   # Begin of SysEx
-00 01 77             # ID: Nektar Technology Inc
-7F 02                # Family ID
-09 02                # Operation Code ?
-00 00 01 36 3C.      # Data
-F7                   # End of SysEx
-
-F0 Sysex  
-ii Identification  
-[sub-status]  
-[parameter]  
-[value]  
-F7
-
-```
-
-More CC messages are sent back to the Panorama, along with another SysEx message:
-
-```plaintext
-F0 00 01 77 7F 01 09 02 00 00 01 36 43 F7
-```
-
-The Panorama responds back with:
-
-```plaintext
-F0 00 01 77 7F 02 09 02 00 00 01 36 3C F7
-```
-
-```plaintext
-F0 00 01 77 7F 01 09 02 00 00 01 00 0D F7
-```
 
 ## Mapped Instruments
 
