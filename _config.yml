@@ -19,6 +19,9 @@ url: "https://redconfetti.com" # the base hostname & protocol for your site, e.g
 twitter_username: redconfetti
 github_username: redconfetti
 
+# publish future dated posts
+future: true
+
 defaults:
   home:
     heading: "music production experiments"
