@@ -188,315 +188,7 @@ This makes a lot of sense, because updating the firmware of the Panorama to
 bring about new behavior is a lot more risky and difficult than coming up with a
 new driver that sits between the Panorama P6 and the DAW it is integrating with.
 
-## Internal Mode
-
-Most of the controls are transmitted on the "Panorama P6 Internal" MIDI
-interface in Internal mode. The "Device" column indicates if the signal is sent
-to the Internal (INT) interface, or the DAW integration interfaces (DAW).
-
-Data value of "0 or 127" applies to momentary buttons that send 127 when
-pressed, 0 when released.
-
-### Hidden Options
-
-Here are features that require certain button combinations in certain contexts
-to access.
-
-| Context                                   | Button Combination            | Purpose                                                                                      |
-| ----------------------------------------- | ----------------------------- | -------------------------------------------------------------------------------------------- |
-| Power controller on while holding buttons | Toggle/View (G) + Mixer (K1)  | Starts the controller in "Update mode" for the purpose of using the firmware update software |
-| Any                                       | Octave ⏷ + Octave ⏶           | Access Global Setup menu                                                                     |
-| Any                                       | PB1 + PB2                     | Access Performance Button assign page                                                        |
-| Internal Mode                             | Faders (M1) + Encoders (M2)   | View About Page - Firmware and Hardware version, Copyright notices                           |
-| Instrument Mode                           | SHIFT (N1) + M5               | Access "Learn Mode" when instrument has already been previously mapped/configured            |
-| Transport Mode                            | SHIFT + Jump Last Marker (Q2) | Move Left Locator Position to Song Position Pointer (SPP)                                    |
-| Transport Mode                            | SHIFT + Jump Next Marker (Q3) | Move Right Locator Position to Song Position Pointer (SPP)                                   |
-| Global                                    | SHIFT + Toggle/View           | Change from one DAW to the other (Cubase to Reason, or vice versa)                           |
-
-### Internal Mode Default Control Assignments
-
-The default control mapping lines up well with the defined purpose of each MIDI
-CC number in the [MIDI CC List][].
-
-[MIDI CC List]: https://anotherproducer.com/online-tools-for-musicians/midi-cc-list/
-
-#### MIDI CC Summarized
-
-##### Used
-
-| MIDI CC   | Controls                      | Defined Purpose                      |
-| --------- | ----------------------------- | ------------------------------------ |
-| 1         | Mod-Wheel (B2)                | Modulation Wheel (MSB)               |
-| 3         | Master Fader                  | Undefined (MSB)                      |
-| 7         | Motorized Fader (D)           | Volume (MSB)                         |
-| 11        | Expression Pedal              | Expression (MSB)                     |
-| 12        | Mute button (E1)              | Effect Controller 1 (MSB)            |
-| 13        | Solo Button (E2)              | Effect Controller 2 (MSB)            |
-| 32 - 39   | Mixer Encoders (F)            | LSB Controller for 0-7               |
-| 40 - 47   | Faders (H)                    | LSB Controller for 8-15              |
-| 48 - 55   | Context Encoders (P)          | LSB Controller for 16-23             |
-| 56 - 63   | LED Buttons (J)               | LSB Controller for 24-31             |
-| 64        | Sustain Pedal                 | Damper Pedal on/off                  |
-| 85 - 89   | SHIFT + Navigation Button (N) | Undefined / High Res Velocity Prefix |
-| 103 - 107 | Navigation Buttons (N)        | Undefined                            |
-| 108 - 118 | Transport Buttons (Q)         | Undefined                            |
-
-##### Unused
-
-Here are some undefined MIDI CC that you can use with the F-Keys that don't
-overlap with the default map above.
-
-| MIDI CC | Defined Purpose         |
-| ------- | ----------------------- |
-| 9       | Undefined (MSB)         |
-| 14      | Undefined (MSB)         |
-| 15      | Undefined (MSB)         |
-| 16 - 19 | General Purpose (MSB)   |
-| 20 - 31 | Undefined (MSB)         |
-| 70 - 79 | Sound Controller 1 - 10 |
-| 80 - 83 | General Purpose         |
-| 90      | Undefined               |
-| 91 - 95 | Effect Depth 1 - 5      |
-| 102     | Undefined               |
-| 119     | Undefined               |
-
-#### Full Map
-
-|     | Description             | Msg Type    | Data           | Dev | Assignable |
-| --- | ----------------------- | ----------- | -------------- | --- | ---------- |
-| A   | Keyboard                | Note        | 0 - 127        | INT | No         |
-| A   | Aftertouch Sensor       | Aftertouch  | 0 - 127        | INT | Yes        |
-| B1  | Pitch Wheel*            | Pitch Wheel | -8192 - 8191   | INT | Yes        |
-| B2  | Mod Wheel               | CC# 1       | 0-127          | INT | Yes        |
-| X   | Sustain / Foot Switch   | CC# 64      | 0 or 127       | INT | Yes        |
-| Y   | Expression Pedal        | CC# 11      | 0-127          | INT | Yes        |
-| C1  | Octave ⏷                | CC# 112     | 0 or 127       | DAW | No         |
-| C2  | Octave ⏶                | CC# 113     | 0 or 127       | DAW | No         |
-| C3  | PB1                     | CC# 114     | 0 or 127       | DAW | Yes**      |
-| C4  | PB2                     | CC# 115     | 0 or 127       | DAW | Yes**      |
-| D   | Motorized Fader         | CC# 7<br>   | 0 - 127        | INT | Yes        |
-| E1  | Mute Button             | CC# 12      | 0 or 127       | INT | Yes        |
-| E2  | Solo Button             | CC# 13      | 0 or 127       | INT | Yes        |
-| F1  | Rotary Encoder          | CC# 32      | 0 - 127        | INT | Yes        |
-| F2  | Rotary Encoder          | CC# 33      | 0 - 127        | INT | Yes        |
-| F3  | Rotary Encoder          | CC# 34      | 0 - 127        | INT | Yes        |
-| F4  | Rotary Encoder          | CC# 35      | 0 - 127        | INT | Yes        |
-| F5  | Rotary Encoder          | CC# 36      | 0 - 127        | INT | Yes        |
-| F6  | Rotary Encoder          | CC# 37      | 0 - 127        | INT | Yes        |
-| F7  | Rotary Encoder          | CC# 38      | 0 - 127        | INT | Yes        |
-| F8  | Rotary Encoder          | CC# 39      | 0 - 127        | INT | Yes        |
-| G   | Toggle/View Button      | CC# 98      | 0 or 127       | DAW | No         |
-| H1  | 45mm Fader              | CC# 40      | 0 - 127        | INT | Yes        |
-| H2  | 45mm Fader              | CC# 41      | 0 - 127        | INT | Yes        |
-| H3  | 45mm Fader              | CC# 42      | 0 - 127        | INT | Yes        |
-| H4  | 45mm Fader              | CC# 43      | 0 - 127        | INT | Yes        |
-| H5  | 45mm Fader              | CC# 44      | 0 - 127        | INT | Yes        |
-| H6  | 45mm Fader              | CC# 45      | 0 - 127        | INT | Yes        |
-| H7  | 45mm Fader              | CC# 46      | 0 - 127        | INT | Yes        |
-| H8  | 45mm Fader              | CC# 47      | 0 - 127        | INT | Yes        |
-| H9  | 45mm Fader              | CC# 3       | 0 - 127        | INT | Yes        |
-| I1  | LED Button              | CC# 56      | 0 or 127       | INT | Yes        |
-| I2  | LED Button              | CC# 57      | 0 or 127       | INT | Yes        |
-| I3  | LED Button              | CC# 58      | 0 or 127       | INT | Yes        |
-| I4  | LED Button              | CC# 59      | 0 or 127       | INT | Yes        |
-| I5  | LED Button              | CC# 60      | 0 or 127       | INT | Yes        |
-| I6  | LED Button              | CC# 61      | 0 or 127       | INT | Yes        |
-| I7  | LED Button              | CC# 62      | 0 or 127       | INT | Yes        |
-| I8  | LED Button              | CC# 63      | 0 or 127       | INT | Yes        |
-| J   | Toggle/Mute Button      | CC# 97      | 0 or 127       | DAW | No         |
-| K1  | Mixer Mode Button       | CC# 99      | 0 or 127       | DAW | No         |
-| K2  | Instrument Mode Button  | CC# 100     | 0 or 127       | DAW | No         |
-| K3  | Transport Mode Button   | CC# 101     | 0 or 127       | DAW | No         |
-| K4  | Internal Mode Button    | CC# 102     | 0 or 127       | DAW | No         |
-| M1  | Graphical Menu Button 1 | CC# 106     | 0 or 127       | DAW | No         |
-| M2  | Graphical Menu Button 2 | CC# 107     | 0 or 127       | DAW | No         |
-| M3  | Graphical Menu Button 3 | CC# 108     | 0 or 127       | DAW | No         |
-| M4  | Graphical Menu Button 4 | CC# 109     | 0 or 127       | DAW | No         |
-| M5  | Graphical Menu Button 5 | CC# 110     | 0 or 127       | DAW | No         |
-| N1  | Shift Button            | n/a         | n/a            | n/a | No         |
-| N2  | Track- Button           | CC# 103     | 0 or 127       | INT | Yes        |
-| N3  | Track+ Button           | CC# 104     | 0 or 127       | INT | Yes        |
-| N4  | Patch- Button           | CC# 105     | 0 or 127       | INT | Yes        |
-| N5  | Patch+ Button           | CC# 106     | 0 or 127       | INT | Yes        |
-| N6  | View Button             | CC# 107     | 0 or 127       | INT | Yes        |
-| N7  | SHIFT + ◀ Bank          | CC# 85      | 0 or 127       | INT | Yes        |
-| N8  | SHIFT + Bank ▶          | CC# 86      | 0 or 127       | INT | Yes        |
-| N9  | SHIFT + ◀ Zoom          | CC# 87      | 0 or 127       | INT | Yes        |
-| N10 | SHIFT + Zoom ▶          | CC# 88      | 0 or 127       | INT | Yes        |
-| N11 | SHIFT + View            | CC# 89      | 0 or 127       | INT | Yes        |
-| O   | Data Rotary Encoder     | CC# 111     | 1/127 relative | DAW | No         |
-| P1  | Rotary Encoder          | CC# 48      | 0 - 127        | INT | Yes        |
-| P2  | Rotary Encoder          | CC# 49      | 0 - 127        | INT | Yes        |
-| P3  | Rotary Encoder          | CC# 50      | 0 - 127        | INT | Yes        |
-| P4  | Rotary Encoder          | CC# 51      | 0 - 127        | INT | Yes        |
-| P5  | Rotary Encoder          | CC# 52      | 0 - 127        | INT | Yes        |
-| P6  | Rotary Encoder          | CC# 53      | 0 - 127        | INT | Yes        |
-| P7  | Rotary Encoder          | CC# 54      | 0 - 127        | INT | Yes        |
-| P8  | Rotary Encoder          | CC# 55      | 0 - 127        | INT | Yes        |
-| Q1  | F-Keys                  | CC# 103     | 0 or 127       | DAW | No         |
-| Q2  | Jump Last Marker        | CC# 114     | 0 or 127       | INT | Yes        |
-| Q3  | Jump Next Marker        | CC# 115     | 0 or 127       | INT | Yes        |
-| Q4  | Undo                    | CC# 116     | 0 or 127       | INT | Yes        |
-| Q5  | Click                   | CC# 117     | 0 or 127       | INT | Yes        |
-| Q6  | Mode                    | CC# 118     | 0 or 127       | INT | Yes        |
-| Q7  | Cycle                   | CC# 108     | 0 or 127       | INT | Yes        |
-| Q8  | Rewind                  | CC# 109     | 0 or 127       | INT | Yes        |
-| Q9  | Forward                 | CC# 110     | 0 or 127       | INT | Yes        |
-| Q10 | Stop                    | CC# 111     | 0 or 127       | INT | Yes        |
-| Q11 | Play                    | CC# 112     | 0 or 127       | INT | Yes        |
-| Q12 | Record                  | CC# 113     | 0 or 127       | INT | Yes        |
-| Q13 | F-Keys + F1             | QWERTY      | Macro          | INT | Yes        |
-| Q14 | F-Keys + F2             | QWERTY      | Macro          | INT | Yes        |
-| Q15 | F-Keys + F3             | QWERTY      | Macro          | INT | Yes        |
-| Q16 | F-Keys + F4             | QWERTY      | Macro          | INT | Yes        |
-| Q17 | F-Keys + F5             | QWERTY      | Macro          | INT | Yes        |
-| Q18 | F-Keys + F6             | QWERTY      | Macro          | INT | Yes        |
-| Q19 | F-Keys + F7             | QWERTY      | Macro          | INT | Yes        |
-| Q20 | F-Keys + F8             | QWERTY      | Macro          | INT | Yes        |
-| Q21 | F-Keys + F9             | QWERTY      | Macro          | INT | Yes        |
-| Q22 | F-Keys + F10            | QWERTY      | Macro          | INT | Yes        |
-| Q23 | F-Keys + F11            | QWERTY      | Macro          | INT | Yes        |
-| R   | Pad Select Button       | CC# 104     | 0 or 127       | DAW | No         |
-| S1  | Drum Pad                | Note        | 0 - 127        | INT | Yes***     |
-| S2  | Drum Pad                | Note        | 0 - 127        | INT | Yes***     |
-| S3  | Drum Pad                | Note        | 0 - 127        | INT | Yes***     |
-| S4  | Drum Pad                | Note        | 0 - 127        | INT | Yes***     |
-| S5  | Drum Pad                | Note        | 0 - 127        | INT | Yes***     |
-| S6  | Drum Pad                | Note        | 0 - 127        | INT | Yes***     |
-| S7  | Drum Pad                | Note        | 0 - 127        | INT | Yes***     |
-| S8  | Drum Pad                | Note        | 0 - 127        | INT | Yes***     |
-| S9  | Drum Pad                | Note        | 0 - 127        | INT | Yes***     |
-| S10 | Drum Pad                | Note        | 0 - 127        | INT | Yes***     |
-| S11 | Drum Pad                | Note        | 0 - 127        | INT | Yes***     |
-| S12 | Drum Pad                | Note        | 0 - 127        | INT | Yes***     |
-
-\* *Pitch wheel uses two 7 bit bytes to obtain a 14-bit signed value range*
-\** *PB1 and PB2 can be assigned to Transpose, Program Change, Global Channel
-Change, Enc Curve 2, and other MIDI FX functions*
-\*** *Drum Pads can send Note data and other messages related to Pressure
-Sensor. Note assignment can be turned off to allow only for*
-
-### Notes
-
-* All non-assignable buttons except for the "Shift" button send the same MIDI CC
-  messages in Internal mode, from the non-Internal MIDI interfaces, as they do
-  in the Mixer, Instrument, and Transport modes.
-* The PB1 and PB2 buttons can send Program Change messages on the P6 Internal
-  interface, if configured to do so.
-
-### Assignable Controls
-
-Assignable Controls have different options depending on the type of control
-
-* Rotary Encoders
-  * MIDI CC
-  * MIDI CC(Relative) - Sends Edits parameter relative to current value.
-  * Pitch Bend
-  * After Touch
-  * Non-Registered Parameter Number (NRPN) coarse
-  * Non-Registered Parameter Number (NRPN) fine
-  * Fixed Velocity
-  * Program
-  * OFF
-* Momentary Buttons / Drum Pads
-  * MIDI CC
-  * Pitch Bend
-  * Fixed Velocity
-  * Note - Sends note on when pressed, note-off when released
-  * Note (toggle) - Sends note-on when press, note-off when pressed again
-  * Program & Bank - Used to jump to a specific patch/program quickly
-  * Program (step) - Step through a range of Program Change messages with each press
-  * MIDI CC (toggle) - Toggles between two values each time it is pressed
-  * MIDI CC (step) - Step through a range of values with each press
-  * Load Preset - Load a specific preset (1-20) or step next or previous
-  * Load Pad Map - Specify preset number 1-20, "Previous", or "Next"
-  * Load Key Map - Specify preset number 1-5, "Previous", or "Next"
-  * Load F-Key Map - Specify preset number 1-10, "Previous", or "Next"
-  * NRPN Toggle Coarsely (TogCors) - Toggle an NRPN value between 0 and 7-bit value
-  * NRPN Toggle Fine (TogFine) - Toggle an NRPN between 0 and 7-bit value
-  * NRPN Step Course (StpCors) - Coarse Step between 0 and 7-bit value
-  * NRPN Step Fine (StpFine) - Fine Step between 0 and 7-bit value
-  * Fixed Velocity
-  * QWERTY Macro (Supported with Windows and MacOS 10.10.5 (Yosemite) or earlier)
-* Pitch Bend / Mod-Wheel / Aftertouch
-  * MIDI CC
-  * Pitch Bend
-  * Aftertouch (Default)
-  * Non-Registered Parameter Number (NRPN) coarse
-  * Non-Registered Parameter Number (NRPN) fine
-  * Fixed Velocity - When the keyboard is configured to use a fixed velocity
-    (instead of dynamically soft or hard) from the Global menu, this setting
-    allows you to control the level of that fixed velocity.
-  * OFF
-
-More information on Assignable Control options are in [Internal Mode - Control Edit][]
-
-[Internal Mode - Control Edit]: https://nektartech.com/internal-mode-control-edit-panorama-p-series/
-
-### Not Assignable
-
-![Nektar Panorama P4 Diagram]({{site.assets.url_prefix}}/images/posts/2024-04-29-panorama-reference/nektar-panorama-p4.png "Nektar Panorama P4 Diagram")
-
-* "Fader" Button (E3)
-* Octave ⏷ Button (C1)
-* Octave ⏶ Button (C2)
-* PB1 / PB2 Buttons (C3, C4)
-  * Can be configured for special purposes (e.g. Program Change, Global MIDI
-    Channel, MIDI FX)
-* Toggle/Mute (J)
-* Toggle/View (G)
-* 5 graphical display buttons (M1 - M5)
-* "Pads" button (R)
-
-## Knowledge Base Articles
-
-Here are links to all of the Nektar Panorama P1/P4/P6 articles.
-
-* [Internal Mode - Global Settings](https://nektartech.com/internal-mode-global-settings-panorama-p-series/)
-  * Velocity curves - Changes velocity behavior for keyboard. Only available on P4/P6.
-    * Options: Soft2, Soft1, Standard, Hard1, Hard2, Fixed
-    * Claims that Fixed Velocity value can be configured from Control Edit mode,
-    * but I'm not sure where.
-  * Encoder curve - Changes how fast encoders scroll through values
-    * Options: Off, Lin Step, Slow, Standard, Fast
-  * Encoder Curve 2: Same options, enabled while PB1 or PB2 button assigned to
-    "Enc Curve 2" is held down
-  * Global MIDI channel
-  * MIDI Jack source - Decide if 5-pin MIDI output sends out other MIDI messages
-    received from your DAW on the USB port.
-  * Adjusting the display - Change configuration to help with visibility from
-    different viewing angles.
-  * Panic button
-* [Internal Mode - Auto-Fader Group][] - Describes functionality of Fader menu
-  when in Internal mode
-* [The PB Assign Page][] - Configure Performance Buttons for Functions or MIDI FX
-  * Functions -  Transpose, Program Change, Global MIDI Channel, activate
-    Encoder Curve 2 (configured in Global Settings)
-  * MIDI FX - Changes patterns of MIDI message values for interesting effects
-* [Internal Mode - Pads][]
-  * How to map pads to different notes quickly
-  * Adjust velocity settings
-  * Change the map between different scales
-* [Internal Mode - Control Edit][] - In depth overview of the options you can
-  assign to assignable controls
-* [Internal Mode - Presets & Maps][] - In depth guide to the 20 Presets memory
-  locations you can use to store:
-  * MIDI CC Control Assignments for Buttons / Faders / Encoders
-  * The present includes pointers to one of the following types of "Maps".
-    * 20 Pad Maps
-    * 5 Keyboard Map
-    * 10 F-Keys Map
-* [QWERTY Macros][] - Guide to configuring QWERTY Macros to buttons. Only
-  supported in Windows and MacOS version 10.10.5 (Yosemite, 2014-2017) and
-  earlier.
-
-[Internal Mode - Auto-Fader Group]: https://nektartech.com/internal-mode-control-edit-panorama-p-series-2/
-[The PB Assign Page]: https://nektartech.com/the-pb-assign-page-panorama-p-series/
-[Internal Mode - Pads]: https://nektartech.com/internal-mode-pads-panorama-p-series/
-[Internal Mode - Presets & Maps]: https://nektartech.com/internal-mode-presets-and-maps-panorama-p-series/
-[QWERTY Macros]: https://nektartech.com/qwerty-macros-panorama-p-series/
-
-## Mapped Instruments
+### Mapped Instruments
 
 | **Publisher**      | **Title**                   |
 | ------------------ | --------------------------- |
@@ -603,7 +295,7 @@ Here are links to all of the Nektar Panorama P1/P4/P6 articles.
 | Xfer Records       | Serum                       |
 | Xhun Audio         | LittleOne                   |
 
-## Mapped Effects
+### Mapped Effects
 
 | **Publisher**   | **Title**                  |
 | --------------- | -------------------------- |
@@ -915,3 +607,689 @@ Here are links to all of the Nektar Panorama P1/P4/P6 articles.
 | Waves           | TransX Wide                |
 | Waves           | UltraPitch Shift           |
 | Waves           | W43                        |
+
+## Internal Mode
+
+Most of the controls are transmitted on the "Panorama P6 Internal" MIDI
+interface in Internal mode. The "Device" column indicates if the signal is sent
+to the Internal (INT) interface, or the DAW integration interfaces (DAW).
+
+Data value of "0 or 127" applies to momentary buttons that send 127 when
+pressed, 0 when released.
+
+### Hidden Options
+
+Here are features that require certain button combinations in certain contexts
+to access.
+
+| Context                                   | Button Combination            | Purpose                                                                                      |
+| ----------------------------------------- | ----------------------------- | -------------------------------------------------------------------------------------------- |
+| Power controller on while holding buttons | Toggle/View (G) + Mixer (K1)  | Starts the controller in "Update mode" for the purpose of using the firmware update software |
+| Power controller on while holding buttons | Patch– (N4) and Patch+ (N5)   | Factory Reset. Erases all presets and maps, returning to default factory state               |
+| Any                                       | Octave ⏷ + Octave ⏶           | Access Global Setup menu                                                                     |
+| Any                                       | PB1 + PB2                     | Access Performance Button assign page                                                        |
+| Internal Mode                             | Faders (M1) + Encoders (M2)   | View About Page - Firmware and Hardware version, Copyright notices                           |
+| Instrument Mode                           | SHIFT (N1) + M5               | Access "Learn Mode" when instrument has already been previously mapped/configured            |
+| Transport Mode                            | SHIFT + Jump Last Marker (Q2) | Move Left Locator Position to Song Position Pointer (SPP)                                    |
+| Transport Mode                            | SHIFT + Jump Next Marker (Q3) | Move Right Locator Position to Song Position Pointer (SPP)                                   |
+| Global                                    | SHIFT + Toggle/View           | Change from one DAW to the other (Cubase to Reason, or vice versa)                           |
+
+### Internal Mode Default Control Assignments
+
+The default control mapping lines up well with the defined purpose of each MIDI
+CC number in the [MIDI CC List][].
+
+[MIDI CC List]: https://anotherproducer.com/online-tools-for-musicians/midi-cc-list/
+
+#### MIDI CC Summarized
+
+##### Used
+
+| MIDI CC   | Controls                      | Defined Purpose                      |
+| --------- | ----------------------------- | ------------------------------------ |
+| 1         | Mod-Wheel (B2)                | Modulation Wheel (MSB)               |
+| 3         | Master Fader                  | Undefined (MSB)                      |
+| 7         | Motorized Fader (D)           | Volume (MSB)                         |
+| 11        | Expression Pedal              | Expression (MSB)                     |
+| 12        | Mute button (E1)              | Effect Controller 1 (MSB)            |
+| 13        | Solo Button (E2)              | Effect Controller 2 (MSB)            |
+| 32 - 39   | Mixer Encoders (F)            | LSB Controller for 0-7               |
+| 40 - 47   | Faders (H)                    | LSB Controller for 8-15              |
+| 48 - 55   | Context Encoders (P)          | LSB Controller for 16-23             |
+| 56 - 63   | LED Buttons (J)               | LSB Controller for 24-31             |
+| 64        | Sustain Pedal                 | Damper Pedal on/off                  |
+| 85 - 89   | SHIFT + Navigation Button (N) | Undefined / High Res Velocity Prefix |
+| 103 - 107 | Navigation Buttons (N)        | Undefined                            |
+| 108 - 118 | Transport Buttons (Q)         | Undefined                            |
+
+##### Unused
+
+Here are some undefined MIDI CC that you can use with the F-Keys that don't
+overlap with the default map above.
+
+| MIDI CC | Defined Purpose         |
+| ------- | ----------------------- |
+| 9       | Undefined (MSB)         |
+| 14      | Undefined (MSB)         |
+| 15      | Undefined (MSB)         |
+| 16 - 19 | General Purpose (MSB)   |
+| 20 - 31 | Undefined (MSB)         |
+| 70 - 79 | Sound Controller 1 - 10 |
+| 80 - 83 | General Purpose         |
+| 90      | Undefined               |
+| 91 - 95 | Effect Depth 1 - 5      |
+| 102     | Undefined               |
+| 119     | Undefined               |
+
+#### Full Map
+
+|     | Description             | Msg Type    | Data           | Dev | Assignable |
+| --- | ----------------------- | ----------- | -------------- | --- | ---------- |
+| A   | Keyboard                | Note        | 0 - 127        | INT | No         |
+| A   | Aftertouch Sensor       | Aftertouch  | 0 - 127        | INT | Yes        |
+| B1  | Pitch Wheel¹            | Pitch Wheel | -8192 - 8191   | INT | Yes        |
+| B2  | Mod Wheel               | CC# 1       | 0-127          | INT | Yes        |
+| X   | Sustain / Foot Switch   | CC# 64      | 0 or 127       | INT | Yes        |
+| Y   | Expression Pedal        | CC# 11      | 0-127          | INT | Yes        |
+| C1  | Octave ⏷                | CC# 112     | 0 or 127       | DAW | No         |
+| C2  | Octave ⏶                | CC# 113     | 0 or 127       | DAW | No         |
+| C3  | PB1                     | CC# 114     | 0 or 127       | DAW | Yes²       |
+| C4  | PB2                     | CC# 115     | 0 or 127       | DAW | Yes²       |
+| D   | Motorized Fader         | CC# 7<br>   | 0 - 127        | INT | Yes        |
+| E1  | Mute Button             | CC# 12      | 0 or 127       | INT | Yes        |
+| E2  | Solo Button             | CC# 13      | 0 or 127       | INT | Yes        |
+| F1  | Rotary Encoder          | CC# 32      | 0 - 127        | INT | Yes        |
+| F2  | Rotary Encoder          | CC# 33      | 0 - 127        | INT | Yes        |
+| F3  | Rotary Encoder          | CC# 34      | 0 - 127        | INT | Yes        |
+| F4  | Rotary Encoder          | CC# 35      | 0 - 127        | INT | Yes        |
+| F5  | Rotary Encoder          | CC# 36      | 0 - 127        | INT | Yes        |
+| F6  | Rotary Encoder          | CC# 37      | 0 - 127        | INT | Yes        |
+| F7  | Rotary Encoder          | CC# 38      | 0 - 127        | INT | Yes        |
+| F8  | Rotary Encoder          | CC# 39      | 0 - 127        | INT | Yes        |
+| G   | Toggle/View Button      | CC# 98      | 0 or 127       | DAW | No         |
+| H1  | 45mm Fader              | CC# 40      | 0 - 127        | INT | Yes        |
+| H2  | 45mm Fader              | CC# 41      | 0 - 127        | INT | Yes        |
+| H3  | 45mm Fader              | CC# 42      | 0 - 127        | INT | Yes        |
+| H4  | 45mm Fader              | CC# 43      | 0 - 127        | INT | Yes        |
+| H5  | 45mm Fader              | CC# 44      | 0 - 127        | INT | Yes        |
+| H6  | 45mm Fader              | CC# 45      | 0 - 127        | INT | Yes        |
+| H7  | 45mm Fader              | CC# 46      | 0 - 127        | INT | Yes        |
+| H8  | 45mm Fader              | CC# 47      | 0 - 127        | INT | Yes        |
+| H9  | 45mm Fader              | CC# 3       | 0 - 127        | INT | Yes        |
+| I1  | LED Button              | CC# 56      | 0 or 127       | INT | Yes        |
+| I2  | LED Button              | CC# 57      | 0 or 127       | INT | Yes        |
+| I3  | LED Button              | CC# 58      | 0 or 127       | INT | Yes        |
+| I4  | LED Button              | CC# 59      | 0 or 127       | INT | Yes        |
+| I5  | LED Button              | CC# 60      | 0 or 127       | INT | Yes        |
+| I6  | LED Button              | CC# 61      | 0 or 127       | INT | Yes        |
+| I7  | LED Button              | CC# 62      | 0 or 127       | INT | Yes        |
+| I8  | LED Button              | CC# 63      | 0 or 127       | INT | Yes        |
+| J   | Toggle/Mute Button      | CC# 97      | 0 or 127       | DAW | No         |
+| K1  | Mixer Mode Button       | CC# 99      | 0 or 127       | DAW | No         |
+| K2  | Instrument Mode Button  | CC# 100     | 0 or 127       | DAW | No         |
+| K3  | Transport Mode Button   | CC# 101     | 0 or 127       | DAW | No         |
+| K4  | Internal Mode Button    | CC# 102     | 0 or 127       | DAW | No         |
+| M1  | Graphical Menu Button 1 | CC# 106     | 0 or 127       | DAW | No         |
+| M2  | Graphical Menu Button 2 | CC# 107     | 0 or 127       | DAW | No         |
+| M3  | Graphical Menu Button 3 | CC# 108     | 0 or 127       | DAW | No         |
+| M4  | Graphical Menu Button 4 | CC# 109     | 0 or 127       | DAW | No         |
+| M5  | Graphical Menu Button 5 | CC# 110     | 0 or 127       | DAW | No         |
+| N1  | Shift Button            | n/a         | n/a            | n/a | No         |
+| N2  | Track- Button           | CC# 103     | 0 or 127       | INT | Yes        |
+| N3  | Track+ Button           | CC# 104     | 0 or 127       | INT | Yes        |
+| N4  | Patch- Button           | CC# 105     | 0 or 127       | INT | Yes        |
+| N5  | Patch+ Button           | CC# 106     | 0 or 127       | INT | Yes        |
+| N6  | View Button             | CC# 107     | 0 or 127       | INT | Yes        |
+| N7  | SHIFT + ◀ Bank          | CC# 85      | 0 or 127       | INT | Yes        |
+| N8  | SHIFT + Bank ▶          | CC# 86      | 0 or 127       | INT | Yes        |
+| N9  | SHIFT + ◀ Zoom          | CC# 87      | 0 or 127       | INT | Yes        |
+| N10 | SHIFT + Zoom ▶          | CC# 88      | 0 or 127       | INT | Yes        |
+| N11 | SHIFT + View            | CC# 89      | 0 or 127       | INT | Yes        |
+| O   | Data Rotary Encoder     | CC# 111     | 1/127 relative | DAW | No         |
+| P1  | Rotary Encoder          | CC# 48      | 0 - 127        | INT | Yes        |
+| P2  | Rotary Encoder          | CC# 49      | 0 - 127        | INT | Yes        |
+| P3  | Rotary Encoder          | CC# 50      | 0 - 127        | INT | Yes        |
+| P4  | Rotary Encoder          | CC# 51      | 0 - 127        | INT | Yes        |
+| P5  | Rotary Encoder          | CC# 52      | 0 - 127        | INT | Yes        |
+| P6  | Rotary Encoder          | CC# 53      | 0 - 127        | INT | Yes        |
+| P7  | Rotary Encoder          | CC# 54      | 0 - 127        | INT | Yes        |
+| P8  | Rotary Encoder          | CC# 55      | 0 - 127        | INT | Yes        |
+| Q1  | F-Keys                  | CC# 103     | 0 or 127       | DAW | No         |
+| Q2  | Jump Last Marker        | CC# 114     | 0 or 127       | INT | Yes        |
+| Q3  | Jump Next Marker        | CC# 115     | 0 or 127       | INT | Yes        |
+| Q4  | Undo                    | CC# 116     | 0 or 127       | INT | Yes        |
+| Q5  | Click                   | CC# 117     | 0 or 127       | INT | Yes        |
+| Q6  | Mode                    | CC# 118     | 0 or 127       | INT | Yes        |
+| Q7  | Cycle                   | CC# 108     | 0 or 127       | INT | Yes        |
+| Q8  | Rewind                  | CC# 109     | 0 or 127       | INT | Yes        |
+| Q9  | Forward                 | CC# 110     | 0 or 127       | INT | Yes        |
+| Q10 | Stop                    | CC# 111     | 0 or 127       | INT | Yes        |
+| Q11 | Play                    | CC# 112     | 0 or 127       | INT | Yes        |
+| Q12 | Record                  | CC# 113     | 0 or 127       | INT | Yes        |
+| Q13 | F-Keys + F1             | QWERTY      | Macro³         | INT | Yes        |
+| Q14 | F-Keys + F2             | QWERTY      | Macro³         | INT | Yes        |
+| Q15 | F-Keys + F3             | QWERTY      | Macro³         | INT | Yes        |
+| Q16 | F-Keys + F4             | QWERTY      | Macro³         | INT | Yes        |
+| Q17 | F-Keys + F5             | QWERTY      | Macro³         | INT | Yes        |
+| Q18 | F-Keys + F6             | QWERTY      | Macro³         | INT | Yes        |
+| Q19 | F-Keys + F7             | QWERTY      | Macro³         | INT | Yes        |
+| Q20 | F-Keys + F8             | QWERTY      | Macro³         | INT | Yes        |
+| Q21 | F-Keys + F9             | QWERTY      | Macro³         | INT | Yes        |
+| Q22 | F-Keys + F10            | QWERTY      | Macro³         | INT | Yes        |
+| Q23 | F-Keys + F11            | QWERTY      | Macro³         | INT | Yes        |
+| R   | Pad Select Button       | CC# 104     | 0 or 127       | DAW | No         |
+| S1  | Drum Pad                | Note        | 0 - 127        | INT | Yes⁴       |
+| S2  | Drum Pad                | Note        | 0 - 127        | INT | Yes⁴       |
+| S3  | Drum Pad                | Note        | 0 - 127        | INT | Yes⁴       |
+| S4  | Drum Pad                | Note        | 0 - 127        | INT | Yes⁴       |
+| S5  | Drum Pad                | Note        | 0 - 127        | INT | Yes⁴       |
+| S6  | Drum Pad                | Note        | 0 - 127        | INT | Yes⁴       |
+| S7  | Drum Pad                | Note        | 0 - 127        | INT | Yes⁴       |
+| S8  | Drum Pad                | Note        | 0 - 127        | INT | Yes⁴       |
+| S9  | Drum Pad                | Note        | 0 - 127        | INT | Yes⁴       |
+| S10 | Drum Pad                | Note        | 0 - 127        | INT | Yes⁴       |
+| S11 | Drum Pad                | Note        | 0 - 127        | INT | Yes⁴       |
+| S12 | Drum Pad                | Note        | 0 - 127        | INT | Yes⁴       |
+
+¹ *Pitch wheel uses two 7 bit bytes to obtain a 14-bit signed value range*
+
+² *PB1 and PB2 can be assigned to Transpose, Program Change, Global Channel
+Change, Enc Curve 2, and other MIDI FX functions*
+
+³ *QWERTY Macros no longer supported by MacOS after 10.10.5 (Yosemite)*
+
+⁴ *Drum Pads can send Note data and other messages related to Pressure
+Sensor. Note assignment can be turned off to allow only for MIDI CC.*
+
+### Notes
+
+* All non-assignable buttons except for the "Shift" button send the same MIDI CC
+  messages in Internal mode, from the non-Internal MIDI interfaces, as they do
+  in the Mixer, Instrument, and Transport modes.
+* The PB1 and PB2 buttons can send Program Change messages on the P6 Internal
+  interface, if configured to do so.
+
+### Assignable Controls
+
+Assignable Controls have different options depending on the type of control
+
+* Rotary Encoders
+  * MIDI CC
+  * MIDI CC(Relative) - Sends Edits parameter relative to current value.
+  * Pitch Bend
+  * After Touch
+  * Non-Registered Parameter Number (NRPN) coarse
+  * Non-Registered Parameter Number (NRPN) fine
+  * Fixed Velocity
+  * Program
+  * OFF
+* Momentary Buttons / Drum Pads
+  * MIDI CC
+  * Pitch Bend
+  * Fixed Velocity
+  * Note - Sends note on when pressed, note-off when released
+  * Note (toggle) - Sends note-on when press, note-off when pressed again
+  * Program & Bank - Used to jump to a specific patch/program quickly
+  * Program (step) - Step through a range of Program Change messages with each press
+  * MIDI CC (toggle) - Toggles between two values each time it is pressed
+  * MIDI CC (step) - Step through a range of values with each press
+  * Load Preset - Load a specific preset (1-20) or step next or previous
+  * Load Pad Map - Specify preset number 1-20, "Previous", or "Next"
+  * Load Key Map - Specify preset number 1-5, "Previous", or "Next"
+  * Load F-Key Map - Specify preset number 1-10, "Previous", or "Next"
+  * NRPN Toggle Coarsely (TogCors) - Toggle an NRPN value between 0 and 7-bit value
+  * NRPN Toggle Fine (TogFine) - Toggle an NRPN between 0 and 7-bit value
+  * NRPN Step Course (StpCors) - Coarse Step between 0 and 7-bit value
+  * NRPN Step Fine (StpFine) - Fine Step between 0 and 7-bit value
+  * Fixed Velocity
+  * QWERTY Macro (Supported with Windows and MacOS 10.10.5 (Yosemite) or earlier)
+* Pitch Bend / Mod-Wheel / Aftertouch
+  * MIDI CC
+  * Pitch Bend
+  * Aftertouch (Default)
+  * Non-Registered Parameter Number (NRPN) coarse
+  * Non-Registered Parameter Number (NRPN) fine
+  * Fixed Velocity - When the keyboard is configured to use a fixed velocity
+    (instead of dynamically soft or hard) from the Global menu, this setting
+    allows you to control the level of that fixed velocity.
+  * OFF
+
+More information on Assignable Control options are in [Internal Mode - Control Edit][]
+
+[Internal Mode - Control Edit]: https://nektartech.com/internal-mode-control-edit-panorama-p-series/
+
+### Not Assignable
+
+![Nektar Panorama P4 Diagram]({{site.assets.url_prefix}}/images/posts/2024-04-29-panorama-reference/nektar-panorama-p4.png "Nektar Panorama P4 Diagram")
+
+* "Fader" Button (E3)
+* Octave ⏷ Button (C1)
+* Octave ⏶ Button (C2)
+* PB1 / PB2 Buttons (C3, C4)
+  * Can be configured for special purposes (e.g. Program Change, Global MIDI
+    Channel, MIDI FX)
+* Toggle/Mute (J)
+* Toggle/View (G)
+* 5 graphical display buttons (M1 - M5)
+* "Pads" button (R)
+
+## Drum Pad Maps
+
+I've reset my Panorama P6 and noted these configurations so you don't have to.
+
+I've tried to track down what these drum maps might be used for, but some
+abbreviations such as "TRNS DRM" or "TRANSTRG" don't surface any drum machines
+or synths that come up in search engine results.
+
+The Panorama Identifies the Pads as follows:
+
+| C1  | C2  | C3  | C4  |
+| --- | --- | --- | --- |
+| B1  | B2  | B3  | B4  |
+| A1  | A2  | A3  | A4  |
+
+### Pad Map: 1-C1-B1
+
+| Pad | Note | Channel | Latch | Pressure |
+| --- | ---- | ------- | ----- | -------- |
+| A1  | C1   | Global  | OFF   | OFF      |
+| A2  | C#1  | Global  | OFF   | OFF      |
+| A3  | D1   | Global  | OFF   | OFF      |
+| A4  | D#1  | Global  | OFF   | OFF      |
+| B1  | E1   | Global  | OFF   | OFF      |
+| B2  | F1   | Global  | OFF   | OFF      |
+| B3  | F#1  | Global  | OFF   | OFF      |
+| B4  | G1   | Global  | OFF   | OFF      |
+| C1  | G#1  | Global  | OFF   | OFF      |
+| C2  | A1   | Global  | OFF   | OFF      |
+| C3  | A#1  | Global  | OFF   | OFF      |
+| C4  | B1   | Global  | OFF   | OFF      |
+
+### Pad Map: 2-GM DRUMS
+
+| Pad | Note | Channel | Latch | Pressure |
+| --- | ---- | ------- | ----- | -------- |
+| A1  | C1   | 10      | OFF   | OFF      |
+| A2  | D1   | 10      | OFF   | OFF      |
+| A3  | F#1  | 10      | OFF   | OFF      |
+| A4  | A#1  | 10      | OFF   | OFF      |
+| B1  | B0   | 10      | OFF   | OFF      |
+| B2  | E1   | 10      | OFF   | OFF      |
+| B3  | D#1  | 10      | OFF   | OFF      |
+| B4  | C#1  | 10      | OFF   | OFF      |
+| C1  | D#2  | 10      | OFF   | OFF      |
+| C2  | G1   | 10      | OFF   | OFF      |
+| C3  | A1   | 10      | OFF   | OFF      |
+| C4  | C#2  | 10      | OFF   | OFF      |
+
+### Pad Map: 3-GM PERC.
+
+| Pad | Note | Channel | Latch | Pressure |
+| --- | ---- | ------- | ----- | -------- |
+| A1  | E3   | 10      | OFF   | OFF      |
+| A2  | D#3  | 10      | OFF   | OFF      |
+| A3  | D3   | 10      | OFF   | OFF      |
+| A4  | F#2  | 10      | OFF   | OFF      |
+| B1  | F4   | 10      | OFF   | OFF      |
+| B2  | E4   | 10      | OFF   | OFF      |
+| B3  | G#4  | 10      | OFF   | OFF      |
+| B4  | A4   | 10      | OFF   | OFF      |
+| C1  | G#2  | 10      | OFF   | OFF      |
+| C2  | F2   | 10      | OFF   | OFF      |
+| C3  | B3   | 10      | OFF   | OFF      |
+| C4  | G2   | 10      | OFF   | OFF      |
+
+### Pad Map: 4-IMAP 1
+
+Sonic Reality [I-MAP](https://sonicreality.com/imap.php) Format
+
+| Pad | Note | Channel | Latch | Pressure |
+| --- | ---- | ------- | ----- | -------- |
+| A1  | G1   | Global  | OFF   | OFF      |
+| A2  | A1   | Global  | OFF   | OFF      |
+| A3  | B1   | Global  | OFF   | OFF      |
+| A4  | C2   | Global  | OFF   | OFF      |
+| B1  | C#2  | Global  | OFF   | OFF      |
+| B2  | D2   | Global  | OFF   | OFF      |
+| B3  | D#2  | Global  | OFF   | OFF      |
+| B4  | E2   | Global  | OFF   | OFF      |
+| C1  | F#2  | Global  | OFF   | OFF      |
+| C2  | G2   | Global  | OFF   | OFF      |
+| C3  | G#2  | Global  | OFF   | OFF      |
+| C4  | A#2  | Global  | OFF   | OFF      |
+
+### Pad Map: 5-IMAP 2
+
+| Pad | Note | Channel | Latch | Pressure |
+| --- | ---- | ------- | ----- | -------- |
+| A1  | G1   | Global  | OFF   | OFF      |
+| A2  | A1   | Global  | OFF   | OFF      |
+| A3  | B1   | Global  | OFF   | OFF      |
+| A4  | C2   | Global  | OFF   | OFF      |
+| B1  | C#2  | Global  | OFF   | OFF      |
+| B2  | D2   | Global  | OFF   | OFF      |
+| B3  | D#2  | Global  | OFF   | OFF      |
+| B4  | E2   | Global  | OFF   | OFF      |
+| C1  | D3   | Global  | OFF   | OFF      |
+| C2  | D#3  | Global  | OFF   | OFF      |
+| C3  | C3   | Global  | OFF   | OFF      |
+| C4  | C#3  | Global  | OFF   | OFF      |
+
+### Pad Map: 6-IMAPROLL
+
+| Pad | Note | Channel | Latch | Pressure |
+| --- | ---- | ------- | ----- | -------- |
+| A1  | A#3  | Global  | OFF   | OFF      |
+| A2  | B3   | Global  | OFF   | OFF      |
+| A3  | C4   | Global  | OFF   | OFF      |
+| A4  | G#1  | Global  | OFF   | OFF      |
+| B1  | G3   | Global  | OFF   | OFF      |
+| B2  | G#3  | Global  | OFF   | OFF      |
+| B3  | A3   | Global  | OFF   | OFF      |
+| B4  | F#1  | Global  | OFF   | OFF      |
+| C1  | E3   | Global  | OFF   | OFF      |
+| C2  | F3   | Global  | OFF   | OFF      |
+| C3  | F#3  | Global  | OFF   | OFF      |
+| C4  | C3   | Global  | OFF   | OFF      |
+
+### Pad Map: 7-IMPULSE
+
+Ableton Live [Impulse](https://www.soundonsound.com/techniques/impulse-drum-machine-ableton-live) drum machine.
+
+| Pad | Note | Channel | Latch | Pressure |
+| --- | ---- | ------- | ----- | -------- |
+| A1  | C3   | Global  | OFF   | OFF      |
+| A2  | D3   | Global  | OFF   | OFF      |
+| A3  | E3   | Global  | OFF   | OFF      |
+| A4  | F3   | Global  | OFF   | OFF      |
+| B1  | G3   | Global  | OFF   | OFF      |
+| B2  | A3   | Global  | OFF   | OFF      |
+| B3  | B3   | Global  | OFF   | OFF      |
+| B4  | C4   | Global  | OFF   | OFF      |
+| C1  | OFF  | Global  | OFF   | OFF      |
+| C2  | OFF  | Global  | OFF   | OFF      |
+| C3  | OFF  | Global  | OFF   | OFF      |
+| C4  | OFF  | Global  | OFF   | OFF      |
+
+### Pad Map: 8-PROTOOLS
+
+Perhaps [GrooveCell](https://www.avid.com/plugins/pro-tools-groovecell) drum machine by Avid.
+
+| Pad | Note | Channel | Latch | Pressure |
+| --- | ---- | ------- | ----- | -------- |
+| A1  | C1   | Global  | OFF   | OFF      |
+| A2  | D1   | Global  | OFF   | OFF      |
+| A3  | F#1  | Global  | OFF   | OFF      |
+| A4  | A#1  | Global  | OFF   | OFF      |
+| B1  | B0   | Global  | OFF   | OFF      |
+| B2  | E1   | Global  | OFF   | OFF      |
+| B3  | D#1  | Global  | OFF   | OFF      |
+| B4  | C#1  | Global  | OFF   | OFF      |
+| C1  | D#2  | Global  | OFF   | OFF      |
+| C2  | G1   | Global  | OFF   | OFF      |
+| C3  | B1   | Global  | OFF   | OFF      |
+| C4  | C#2  | Global  | OFF   | OFF      |
+
+### Pad Map: 9-TRNS DRM
+
+| Pad | Note | Channel | Latch | Pressure |
+| --- | ---- | ------- | ----- | -------- |
+| A1  | C2   | Global  | OFF   | OFF      |
+| A2  | C#2  | Global  | OFF   | OFF      |
+| A3  | D2   | Global  | OFF   | OFF      |
+| A4  | D#2  | Global  | OFF   | OFF      |
+| B1  | E2   | Global  | OFF   | OFF      |
+| B2  | F2   | Global  | OFF   | OFF      |
+| B3  | F#2  | Global  | OFF   | OFF      |
+| B4  | G2   | Global  | OFF   | OFF      |
+| C1  | G#2  | Global  | OFF   | OFF      |
+| C2  | A2   | Global  | OFF   | OFF      |
+| C3  | A#2  | Global  | OFF   | OFF      |
+| C4  | B2   | Global  | OFF   | OFF      |
+
+### Pad Map: 10-TRNS PTN
+
+| Pad | Note | Channel | Latch | Pressure |
+| --- | ---- | ------- | ----- | -------- |
+| A1  | C1   | Global  | OFF   | OFF      |
+| A2  | C#1  | Global  | OFF   | OFF      |
+| A3  | D1   | Global  | OFF   | OFF      |
+| A4  | D#1  | Global  | OFF   | OFF      |
+| B1  | E1   | Global  | OFF   | OFF      |
+| B2  | F1   | Global  | OFF   | OFF      |
+| B3  | F#1  | Global  | OFF   | OFF      |
+| B4  | G1   | Global  | OFF   | OFF      |
+| C1  | G#1  | Global  | OFF   | OFF      |
+| C2  | A1   | Global  | OFF   | OFF      |
+| C3  | A#1  | Global  | OFF   | OFF      |
+| C4  | B1   | Global  | OFF   | OFF      |
+
+### Pad Map: 11-TRANSTRG
+
+| Pad | Note | Channel | Latch | Pressure |
+| --- | ---- | ------- | ----- | -------- |
+| A1  | C6   | Global  | OFF   | OFF      |
+| A2  | C#6  | Global  | OFF   | OFF      |
+| A3  | D6   | Global  | OFF   | OFF      |
+| A4  | D#6  | Global  | OFF   | OFF      |
+| B1  | E6   | Global  | OFF   | OFF      |
+| B2  | F6   | Global  | OFF   | OFF      |
+| B3  | F#6  | Global  | OFF   | OFF      |
+| B4  | G6   | Global  | OFF   | OFF      |
+| C1  | OFF  | Global  | OFF   | OFF      |
+| C2  | OFF  | Global  | OFF   | OFF      |
+| C3  | OFF  | Global  | OFF   | OFF      |
+| C4  | OFF  | Global  | OFF   | OFF      |
+
+### Pad Map: 12-BLOFELD
+
+[Waldorf Blofeld](https://www.youtube.com/watch?v=_75oHr9A8jI) drum sounds
+
+| Pad | Note | Channel | Latch | Pressure | MIDI CC | Max | Min | Data Entry |
+| --- | ---- | ------- | ----- | -------- | ------- | --- | --- | ---------- |
+| A1  | OFF  | Global  | OFF   | MIDI CC  | 14      | 0   | 0   | Decimal    |
+| A2  | OFF  | Global  | OFF   | MIDI CC  | 14      | 1   | 1   | Decimal    |
+| A3  | OFF  | Global  | OFF   | MIDI CC  | 14      | 2   | 2   | Decimal    |
+| A4  | OFF  | Global  | OFF   | MIDI CC  | 14      | 3   | 3   | Decimal    |
+| B1  | OFF  | Global  | OFF   | MIDI CC  | 13      | 4   | 4   | Decimal    |
+| B2  | OFF  | Global  | OFF   | MIDI CC  | 13      | 5   | 5   | Decimal    |
+| B3  | OFF  | Global  | OFF   | MIDI CC  | 13      | 6   | 6   | Decimal    |
+| B4  | OFF  | Global  | OFF   | MIDI CC  | 13      | 7   | 7   | Decimal    |
+| C1  | OFF  | Global  | OFF   | MIDI CC  | 13      | 0   | 0   | Decimal    |
+| C2  | OFF  | Global  | OFF   | MIDI CC  | 13      | 1   | 1   | Decimal    |
+| C3  | OFF  | Global  | OFF   | MIDI CC  | 13      | 2   | 2   | Decimal    |
+| C4  | OFF  | Global  | OFF   | MIDI CC  | 13      | 3   | 3   | Decimal    |
+
+### Pad Map: 13-IMPOSCAR
+
+[Imposcar](https://www.gforcesoftware.com/products/imposcar2/) virtual synthesizer
+
+| Pad | Note | Channel | Latch | Pressure | MIDI CC | Max | Min | Data Entry |
+| --- | ---- | ------- | ----- | -------- | ------- | --- | --- | ---------- |
+| A1  | OFF  | Global  | OFF   | MIDI CC  | 63      | 16  | 16  | Decimal    |
+| A2  | OFF  | Global  | OFF   | MIDI CC  | 63      | 48  | 48  | Decimal    |
+| A3  | OFF  | Global  | OFF   | MIDI CC  | 63      | 80  | 80  | Decimal    |
+| A4  | OFF  | Global  | OFF   | MIDI CC  | 63      | 127 | 127 | Decimal    |
+| B1  | OFF  | Global  | OFF   | MIDI CC  | 63      | 0   | 0   | Decimal    |
+| B2  | OFF  | Global  | OFF   | MIDI CC  | 104     | 127 | 0   | Decimal    |
+| B3  | OFF  | Global  | OFF   | MIDI CC  | 105     | 127 | 0   | Decimal    |
+| B4  | OFF  | Global  | OFF   | MIDI CC  | 106     | 127 | 0   | Decimal    |
+| C1  | OFF  | Global  | OFF   | MIDI CC  | 107     | 127 | 0   | Decimal    |
+| C2  | OFF  | Global  | OFF   | MIDI CC  | 108     | 127 | 0   | Decimal    |
+| C3  | OFF  | Global  | OFF   | MIDI CC  | 109     | 127 | 0   | Decimal    |
+| C4  | OFF  | Global  | OFF   | MIDI CC  | 110     | 127 | 0   | Decimal    |
+
+### Pad Map: 14-CUB MARK
+
+Cubase Marker controls. QWERTY Macros don't work after Mac OS 
+
+| Pad | Note | Channel | Latch | Pressure     | Macro |
+| --- | ---- | ------- | ----- | ------------ | ----- |
+| A1  | n/a  | n/a     | n/a   | QWERTY Macro |       |
+| A2  | n/a  | n/a     | n/a   | QWERTY Macro |       |
+| A3  | n/a  | n/a     | n/a   | QWERTY Macro |       |
+| A4  | n/a  | n/a     | n/a   | QWERTY Macro |       |
+| B1  | n/a  | n/a     | n/a   | QWERTY Macro |       |
+| B2  | n/a  | n/a     | n/a   | QWERTY Macro |       |
+| B3  | n/a  | n/a     | n/a   | QWERTY Macro |       |
+| B4  | n/a  | n/a     | n/a   | QWERTY Macro |       |
+| C1  | n/a  | n/a     | n/a   | QWERTY Macro |       |
+| C2  | n/a  | n/a     | n/a   | QWERTY Macro |       |
+| C3  | OFF  | 10      | OFF   | OFF          |       |
+| C4  | OFF  | 10      | OFF   | OFF          |       |
+
+### Pad Map: 15-PT MARK
+
+ProTools Marker controls.
+
+| Pad | Note | Channel | Latch | Pressure     | Macro |
+| --- | ---- | ------- | ----- | ------------ | ----- |
+| A1  | n/a  | n/a     | n/a   | QWERTY Macro |       |
+| A2  | n/a  | n/a     | n/a   | QWERTY Macro |       |
+| A3  | n/a  | n/a     | n/a   | QWERTY Macro |       |
+| A4  | n/a  | n/a     | n/a   | QWERTY Macro |       |
+| B1  | n/a  | n/a     | n/a   | QWERTY Macro |       |
+| B2  | n/a  | n/a     | n/a   | QWERTY Macro |       |
+| B3  | n/a  | n/a     | n/a   | QWERTY Macro |       |
+| B4  | n/a  | n/a     | n/a   | QWERTY Macro |       |
+| C1  | n/a  | n/a     | n/a   | QWERTY Macro |       |
+| C2  | n/a  | n/a     | n/a   | QWERTY Macro |       |
+| C3  | OFF  | 3       | OFF   | OFF          |       |
+| C4  | OFF  | 4       | OFF   | OFF          |       |
+
+### Pad Map: 16-CC MAP
+
+| Pad | Note | Channel | Latch | Pressure    | MIDI CC | Max | Min | Data Entry |
+| --- | ---- | ------- | ----- | ----------- | ------- | --- | --- | ---------- |
+| A1  | OFF  | 1       | OFF   | Aftertouch  | n/a     | 127 | 0   | Decimal    |
+| A2  | OFF  | 2       | OFF   | Aftertouch  | n/a     | 127 | 0   | Decimal    |
+| A3  | OFF  | 3       | OFF   | Aftertouch  | n/a     | 127 | 0   | Decimal    |
+| A4  | OFF  | 4       | OFF   | Afftertouch | n/a     | 127 | 0   | Decimal    |
+| B1  | OFF  | 1       | OFF   | MIDI CC     | 2       | 127 | 0   | Decimal    |
+| B2  | OFF  | 2       | OFF   | MIDI CC     | 2       | 127 | 0   | Decimal    |
+| B3  | OFF  | 3       | OFF   | MIDI CC     | 2       | 127 | 0   | Decimal    |
+| B4  | OFF  | 4       | OFF   | MIDI CC     | 2       | 127 | 0   | Decimal    |
+| C1  | OFF  | 1       | OFF   | MIDI CC     | 11      | 127 | 0   | Decimal    |
+| C2  | OFF  | 2       | OFF   | MIDI CC     | 11      | 127 | 0   | Decimal    |
+| C3  | OFF  | 3       | OFF   | MIDI CC     | 11      | 127 | 0   | Decimal    |
+| C4  | OFF  | 4       | OFF   | MIDI CC     | 11      | 127 | 0   | Decimal    |
+
+### Pad Map: 17-C1-B1 L
+
+| Pad | Note | Channel | Latch | Pressure     | Value | MSB | LSB | Data Entry |
+| --- | ---- | ------- | ----- | ------------ | ----- | --- | --- | ---------- |
+| A1  | C1   | Global  | ON    | NRPN TogCors | 3     | 127 | 0   | Decimal    |
+| A2  | C#1  | Global  | ON    | NRPN TogCors | 3     | 127 | 0   | Decimal    |
+| A3  | D1   | Global  | ON    | NRPN TogCors | 3     | 127 | 0   | Decimal    |
+| A4  | D#1  | Global  | ON    | NRPN TogCors | 3     | 127 | 0   | Decimal    |
+| B1  | E1   | Global  | ON    | NRPN TogCors | 3     | 127 | 0   | Decimal    |
+| B2  | F1   | Global  | ON    | NRPN TogCors | 3     | 127 | 0   | Decimal    |
+| B3  | F#1  | Global  | ON    | NRPN TogCors | 3     | 127 | 0   | Decimal    |
+| B4  | G1   | Global  | ON    | NRPN TogCors | 3     | 127 | 0   | Decimal    |
+| C1  | G#1  | Global  | ON    | NRPN TogCors | 3     | 127 | 0   | Decimal    |
+| C2  | A1   | Global  | ON    | NRPN TogCors | 3     | 127 | 0   | Decimal    |
+| C3  | A#1  | Global  | ON    | NRPN TogCors | 3     | 127 | 0   | Decimal    |
+| C4  | B1   | Global  | ON    | NRPN TogCors | 3     | 127 | 0   | Decimal    |
+
+### Pad Map: 18-NUMERIC
+
+I assume these are meant to be mapped to numbers.
+
+| Pad | Note | Channel | Latch | Pressure     | Macro |
+| --- | ---- | ------- | ----- | ------------ | ----- |
+| A1  | n/a  | n/a     | n/a   | QWERTY Macro | ?     |
+| A2  | n/a  | n/a     | n/a   | QWERTY Macro | ?     |
+| A3  | n/a  | n/a     | n/a   | QWERTY Macro | ?     |
+| A4  | n/a  | n/a     | n/a   | QWERTY Macro | ?     |
+| B1  | n/a  | n/a     | n/a   | QWERTY Macro | ?     |
+| B2  | n/a  | n/a     | n/a   | QWERTY Macro | ?     |
+| B3  | n/a  | n/a     | n/a   | QWERTY Macro | ?     |
+| B4  | n/a  | n/a     | n/a   | QWERTY Macro | ?     |
+| C1  | n/a  | n/a     | n/a   | QWERTY Macro | ?     |
+| C2  | n/a  | n/a     | n/a   | QWERTY Macro | ?     |
+| C3  | n/a  | n/a     | n/a   | QWERTY Macro | ?     |
+| C4  | n/a  | n/a     | n/a   | QWERTY Macro | ?     |
+
+### Pad Map: 19-KEYLEARN
+
+More QWERTY macros.
+
+| Pad | Note | Channel | Latch | Pressure     | Macro |
+| --- | ---- | ------- | ----- | ------------ | ----- |
+| A1  | n/a  | n/a     | n/a   | QWERTY Macro | ?     |
+| A2  | n/a  | n/a     | n/a   | QWERTY Macro | ?     |
+| A3  | n/a  | n/a     | n/a   | QWERTY Macro | ?     |
+| A4  | n/a  | n/a     | n/a   | QWERTY Macro | ?     |
+| B1  | n/a  | n/a     | n/a   | QWERTY Macro | ?     |
+| B2  | n/a  | n/a     | n/a   | QWERTY Macro | ?     |
+| B3  | n/a  | n/a     | n/a   | QWERTY Macro | ?     |
+| B4  | n/a  | n/a     | n/a   | QWERTY Macro | ?     |
+| C1  | n/a  | n/a     | n/a   | QWERTY Macro | ?     |
+| C2  | n/a  | n/a     | n/a   | QWERTY Macro | ?     |
+| C3  | n/a  | n/a     | n/a   | QWERTY Macro | ?     |
+| C4  | n/a  | n/a     | n/a   | QWERTY Macro | ?     |
+
+### Pad Map: 20-BLANK
+
+| Pad | Note | Channel | Latch | Pressure     | Value | MSB | LSB | Data Entry |
+| --- | ---- | ------- | ----- | ------------ | ----- | --- | --- | ---------- |
+| A1  | OFF  | Global  | OFF   | NRPN TogCors | 3     | 127 | 0   | Decimal    |
+| A2  | OFF  | Global  | OFF   | NRPN TogCors | 3     | 127 | 0   | Decimal    |
+| A3  | OFF  | Global  | OFF   | NRPN TogCors | 3     | 127 | 0   | Decimal    |
+| A4  | OFF  | Global  | OFF   | NRPN TogCors | 3     | 127 | 0   | Decimal    |
+| B1  | OFF  | Global  | OFF   | NRPN TogCors | 3     | 127 | 0   | Decimal    |
+| B2  | OFF  | Global  | OFF   | NRPN TogCors | 3     | 127 | 0   | Decimal    |
+| B3  | OFF  | Global  | OFF   | NRPN TogCors | 3     | 127 | 0   | Decimal    |
+| B4  | OFF  | Global  | OFF   | NRPN TogCors | 3     | 127 | 0   | Decimal    |
+| C1  | OFF  | Global  | OFF   | NRPN TogCors | 3     | 127 | 0   | Decimal    |
+| C2  | OFF  | Global  | OFF   | NRPN TogCors | 3     | 127 | 0   | Decimal    |
+| C3  | OFF  | Global  | OFF   | NRPN TogCors | 3     | 127 | 0   | Decimal    |
+| C4  | OFF  | Global  | OFF   | NRPN TogCors | 3     | 127 | 0   | Decimal    |
+
+## Knowledge Base Articles
+
+Here are links to all of the Nektar Panorama P1/P4/P6 articles.
+
+* [Internal Mode - Global Settings](https://nektartech.com/internal-mode-global-settings-panorama-p-series/)
+  * Velocity curves - Changes velocity behavior for keyboard. Only available on P4/P6.
+    * Options: Soft2, Soft1, Standard, Hard1, Hard2, Fixed
+    * Claims that Fixed Velocity value can be configured from Control Edit mode,
+    * but I'm not sure where.
+  * Encoder curve - Changes how fast encoders scroll through values
+    * Options: Off, Lin Step, Slow, Standard, Fast
+  * Encoder Curve 2: Same options, enabled while PB1 or PB2 button assigned to
+    "Enc Curve 2" is held down
+  * Global MIDI channel
+  * MIDI Jack source - Decide if 5-pin MIDI output sends out other MIDI messages
+    received from your DAW on the USB port.
+  * Adjusting the display - Change configuration to help with visibility from
+    different viewing angles.
+  * Panic button
+* [Internal Mode - Auto-Fader Group][] - Describes functionality of Fader menu
+  when in Internal mode
+* [The PB Assign Page][] - Configure Performance Buttons for Functions or MIDI FX
+  * Functions -  Transpose, Program Change, Global MIDI Channel, activate
+    Encoder Curve 2 (configured in Global Settings)
+  * MIDI FX - Changes patterns of MIDI message values for interesting effects
+* [Internal Mode - Pads][]
+  * How to map pads to different notes quickly
+  * Adjust velocity settings
+  * Change the map between different scales
+* [Internal Mode - Control Edit][] - In depth overview of the options you can
+  assign to assignable controls
+* [Internal Mode - Presets & Maps][] - In depth guide to the 20 Presets memory
+  locations you can use to store:
+  * MIDI CC Control Assignments for Buttons / Faders / Encoders
+  * The present includes pointers to one of the following types of "Maps".
+    * 20 Pad Maps
+    * 5 Keyboard Map
+    * 10 F-Keys Map
+* [QWERTY Macros][] - Guide to configuring QWERTY Macros to buttons. Only
+  supported in Windows and MacOS version 10.10.5 (Yosemite, 2014-2017) and
+  earlier.
+
+[Internal Mode - Auto-Fader Group]: https://nektartech.com/internal-mode-control-edit-panorama-p-series-2/
+[The PB Assign Page]: https://nektartech.com/the-pb-assign-page-panorama-p-series/
+[Internal Mode - Pads]: https://nektartech.com/internal-mode-pads-panorama-p-series/
+[Internal Mode - Presets & Maps]: https://nektartech.com/internal-mode-presets-and-maps-panorama-p-series/
+[QWERTY Macros]: https://nektartech.com/qwerty-macros-panorama-p-series/
