@@ -7,8 +7,8 @@ comments: true
 categories:
   - personal
 tags:
-  - youtube
-  - macos
+  - YouTube
+  - MacOS
 image: 
   path: https://s3-us-west-1.amazonaws.com/assets.redconfetti.com/images/posts/2024-04-20/youtube-logo.jpg
   width: 650

@@ -7,8 +7,8 @@ comments: true
 categories:
   - music-production
 tags:
-  - nektar
-  - panorama
+  - Nektar
+  - Panorama
 image: 
   path: https://s3-us-west-1.amazonaws.com/assets.redconfetti.com/images/posts/2024-04-29-panorama-reference/nektar-panorama-p6.png
   width: 1500

@@ -7,10 +7,10 @@ comments: true
 categories:
   - music-production
 tags:
-  - cubase
-  - midi
-  - sysex
-  - alesis v49
+  - Cubase
+  - MIDI
+  - SysEx
+  - Alesis V49
 image: 
   path: https://s3-us-west-1.amazonaws.com/assets.redconfetti.com/images/posts/2024-04-17/minimal-midi-chain.png
   width: 450

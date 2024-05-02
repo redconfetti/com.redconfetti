@@ -8,10 +8,10 @@ date_gmt: '2014-03-25 03:39:45 -0700'
 categories:
 - inspiration
 tags:
-- cubase
-- ableton live
-- push
-- akai mpk mini
+- Cubase
+- Ableton Live
+- Push
+- Akai MPK Mini
 - APC20
 - APC40
 - Novation Launchpad

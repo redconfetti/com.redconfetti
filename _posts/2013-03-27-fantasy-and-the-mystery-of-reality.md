@@ -8,9 +8,8 @@ date_gmt: '2013-03-27 16:51:16 -0700'
 categories:
 - personal
 tags:
-- mystery
-- playing cards
-- tarot
+- Mystery
+- Curiosity
 ---
 
 When I was a child I remember having some sort of curiosity, and other subtle

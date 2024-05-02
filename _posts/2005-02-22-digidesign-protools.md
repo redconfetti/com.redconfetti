@@ -7,8 +7,8 @@ date: '2005-02-22 16:46:00 -0500'
 categories:
 - personal
 tags:
-- mbox
-- digidesign
+- MBox
+- DigiDesign
 ---
 
 Last night in the desperation to record music (because Scott's Fostex is acting
