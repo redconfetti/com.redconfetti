@@ -1256,6 +1256,72 @@ More QWERTY macros.
 | C3  | OFF  | Global  | OFF   | NRPN TogCors | 3     | 127 | 0   | Decimal    |
 | C4  | OFF  | Global  | OFF   | NRPN TogCors | 3     | 127 | 0   | Decimal    |
 
+## Keyboard Maps
+
+### 1-STANDARD
+
+| Zone   | Channel | Lowest | High | Octave | Transpose | Activated |
+| ------ | ------- | ------ | ---- | ------ | --------- | --------- |
+| Zone 1 | Global  | C-2    | G8   | 0      | 0         | No        |
+| Zone 2 | 2       | C-2    | G8   | 0      | 0         | No        |
+| Zone 3 | 3       | C-2    | G8   | 0      | 0         | No        |
+| Zone 4 | 4       | C-2    | G8   | 0      | 0         | No        |
+
+### 2-AT OFF
+
+| Zone   | Channel | Lowest | High | Octave | Transpose | Activated |
+| ------ | ------- | ------ | ---- | ------ | --------- | --------- |
+| Zone 1 | Global  | C-2    | G8   | 0      | 0         | No        |
+| Zone 2 | Global  | C-2    | G8   | 0      | 0         | Yes       |
+| Zone 3 | 3       | C-2    | G8   | 0      | 0         | No        |
+| Zone 4 | 4       | C-2    | G8   | 0      | 0         | No        |
+
+### 3-5THS
+
+| Zone   | Channel | Lowest | High | Octave | Transpose | Activated |
+| ------ | ------- | ------ | ---- | ------ | --------- | --------- |
+| Zone 1 | Global  | C-2    | G8   | 0      | 0         | Yes       |
+| Zone 2 | Global  | C-2    | G8   | 0      | 7         | Yes       |
+| Zone 3 | Global  | C-2    | G8   | 1      | 0         | No        |
+| Zone 4 | Global  | C-2    | G8   | -1     | 0         | No        |
+
+### 4-TRIADS
+
+| Zone   | Channel | Lowest | High | Octave | Transpose | Activated |
+| ------ | ------- | ------ | ---- | ------ | --------- | --------- |
+| Zone 1 | Global  | C-2    | G8   | 0      | 0         | Yes       |
+| Zone 2 | Global  | C-2    | G8   | 0      | 7         | Yes       |
+| Zone 3 | Global  | C-2    | G8   | 0      | 5         | Yes       |
+| Zone 4 | Global  | C-2    | G8   | 0      | -5        | No        |
+
+### 5-C2 SPLIT
+
+| Zone   | Channel | Lowest | High | Octave | Transpose | Activated |
+| ------ | ------- | ------ | ---- | ------ | --------- | --------- |
+| Zone 1 | 1       | C2     | G8   | 0      | 0         | Yes       |
+| Zone 2 | 2       | C-2    | G8   | 0      | 0         | Yes       |
+| Zone 3 | 3       | C2     | G8   | 0      | 0         | No        |
+| Zone 4 | 4       | C2     | G8   | -1     | 0         | No        |
+
+## F-Key Maps
+
+The F-Key Maps are all QWERTY keyboard based, of which I cannot view/access
+because I'm using a MacOS version higher than Yosemite (v10.10.5).
+
+I'm sure they map to the different QWERTY keyboard configurations for each
+common DAW, with the exception of the "KEYPAD" map.
+
+* 1-REASON
+* 2-CUBASE
+* 3-LOGIC
+* 4-STUDIO1
+* 5-FLSTUDIO
+* 6-ABLETON
+* 7-REAPER
+* 8-PROTOOLS
+* 9-SONAR
+* 10-KEYPAD
+
 ## Knowledge Base Articles
 
 Here are links to all of the Nektar Panorama P1/P4/P6 articles.
