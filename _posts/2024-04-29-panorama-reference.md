@@ -928,7 +928,7 @@ The Panorama Identifies the Pads as follows:
 | C3  | A1   | 10      | OFF   | OFF      |
 | C4  | C#2  | 10      | OFF   | OFF      |
 
-### Pad Map: 3-GM PERC.
+### Pad Map: 3-GM PERC
 
 | Pad | Note | Channel | Latch | Pressure |
 | --- | ---- | ------- | ----- | -------- |
@@ -1000,7 +1000,9 @@ Sonic Reality [I-MAP](https://sonicreality.com/imap.php) Format
 
 ### Pad Map: 7-IMPULSE
 
-Ableton Live [Impulse](https://www.soundonsound.com/techniques/impulse-drum-machine-ableton-live) drum machine.
+Ableton Live [Impulse][] drum machine.
+
+[Impulse]: https://www.soundonsound.com/techniques/impulse-drum-machine-ableton-live
 
 | Pad | Note | Channel | Latch | Pressure |
 | --- | ---- | ------- | ----- | -------- |
@@ -1019,7 +1021,9 @@ Ableton Live [Impulse](https://www.soundonsound.com/techniques/impulse-drum-mach
 
 ### Pad Map: 8-PROTOOLS
 
-Perhaps [GrooveCell](https://www.avid.com/plugins/pro-tools-groovecell) drum machine by Avid.
+Perhaps [GrooveCell][] drum machine by Avid.
+
+[GrooveCell]: https://www.avid.com/plugins/pro-tools-groovecell
 
 | Pad | Note | Channel | Latch | Pressure |
 | --- | ---- | ------- | ----- | -------- |
@@ -1127,7 +1131,7 @@ Perhaps [GrooveCell](https://www.avid.com/plugins/pro-tools-groovecell) drum mac
 
 ### Pad Map: 14-CUB MARK
 
-Cubase Marker controls. QWERTY Macros don't work after Mac OS 
+Cubase Marker controls. QWERTY Macros don't work after Mac OS
 
 | Pad | Note | Channel | Latch | Pressure     | Macro |
 | --- | ---- | ------- | ----- | ------------ | ----- |
