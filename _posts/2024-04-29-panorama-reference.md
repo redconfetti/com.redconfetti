@@ -19,15 +19,20 @@ image:
 This is a reference page for the [Nektar Panorama Series][] of MIDI controller,
 with various notes.
 
-![Nektar Panorama P6]({{site.assets.url_prefix}}/images/posts/2024-04-29-panorama-reference/nektar-panorama-p6.png "Nektar Panorama P6")
+![Nektar Panorama P6 image]
 
+[Nektar Panorama P6 image]: {{site.assets.url_prefix}}/images/posts/2024-04-29-panorama-reference/nektar-panorama-p6.png "Nektar Panorama P6 image"
 [Nektar Panorama Series]: https://nektartech.com/panorama-p4-p6/
 
 ## Controls
 
 This section captures the default MIDI CC mapping of the controls.
 
-![Nektar Panorama P4 Diagram]({{site.assets.url_prefix}}/images/posts/2024-04-29-panorama-reference/nektar-panorama-p4.png "Nektar Panorama P4 Diagram")
+![Nektar Panorama P4 diagram][]
+
+*Diagram taken from P4 Quick Start Guide*
+
+[Nektar Panorama P4 diagram]: {{site.assets.url_prefix}}/images/posts/2024-04-29-panorama-reference/nektar-panorama-p4.png "Nektar Panorama P4 diagram"
 
 I refer to the physical controls using letters and numbers. For example, the P
 group of 8 rotary encoders will be referred to individually as P1, P2, P3... P8.
@@ -860,7 +865,8 @@ More information on Assignable Control options are in [Internal Mode - Control E
 
 ### Not Assignable
 
-![Nektar Panorama P4 Diagram]({{site.assets.url_prefix}}/images/posts/2024-04-29-panorama-reference/nektar-panorama-p4.png "Nektar Panorama P4 Diagram")
+![Nektar Panorama P4 diagram][]
+*Diagram taken from P4 Quick Start Guide*
 
 * "Fader" Button (E3)
 * Octave ⏷ Button (C1)
