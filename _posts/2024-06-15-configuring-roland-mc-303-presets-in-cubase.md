@@ -35,6 +35,13 @@ act as both a sequencer and a drum machine, and more. I read that it provides
 DAWless jamming, and provides sample-based TR606, TR808, and TR909 sounds, as
 well as many other popular tones from 1996.
 
+Even though I knew it only supported up to 8 channels of MIDI as a sequencer,
+I didn't know that it does not record nor transmit mod-wheel, pitch bend, or
+other MIDI CC messages to external instruments. So it's not truly a sequencer,
+unless you're using it with the internal instruments.
+
+It can however be used as a sound module.
+
 ## Cubase Configuration
 
 I'm fairly new to configuring external MIDI devices for use with Cubase, but
