@@ -19,11 +19,13 @@ tags:
 - IK Multimedia
 ---
 
-In the past I've developed music using the IK Multimedia's [Total Studio
-bundle](http://www.ikmultimedia.com/products/totalstudio3/) combined with
-[Cubase](http://www.steinberg.net/en/shop/cubase.html). The fruits of those
+In the past I've developed music using the IK Multimedia's
+[Total Studio bundle][] combined with [Cubase][]. The fruits of those
 efforts resulted in a number of tracks that I've posted in my [Music
 section](/music/) from 2007/2008.
+
+[Total Studio bundle]: https://www.ikmultimedia.com/products/ts4/
+[Cubase]: https://www.steinberg.net/cubase/
 
 I moved to Berkeley, California in 2009, dabbling with music a bit using
 Garageband, and later again [some more tracks](http://music.redconfetti.com/)
@@ -51,20 +53,24 @@ flexibility and swiftness available for arranging a song with Ableton is so much
 more supportive than the typical horizontal timeline of ProTools, Cubase, Logic,
 etc.
 
-Over the weekend I went to Guitar Center and picked up a book, [Ableton Live 9
-Power!](http://www.amazon.com/Ableton-Live-Power-Comprehensive-Guide/dp/1285455401).
-So far the book has been really helpful. Ableton Live seems like a totally
+Over the weekend I went to Guitar Center and picked up a book,
+[Ableton Live 9 Power!][]. So far the book has been really helpful.
+Ableton Live seems like a totally
 different interface than I'm used to, and I'm not wanting any blockages to
 making progress with the program, so investing in a nice book is worth it, even
 though I've usually winged it in the past.
 
-I also bought an [Akai MPK Mini](http://www.akaipro.com/product/mpkmini)($100).
+[Ableton Live 9 Power!]: https://www.amazon.com/Cengage-Learning-Ableton-Power-Comprehensive/dp/B00DND8KOY/ref=sr_1_1?crid=2CMO4WGFI5EBA
+
+I also bought an [Akai MPK Mini][] ($100).
 I thought this was the same thing Kawehi used in her Heart Shaped Box video, but
-it looks like she's actually using an [M-Audio Axiom AIR Mini
-32](http://www.m-audio.com/products/en_us/AxiomAIRMini32New.html) that retails
+it looks like she's actually using an [M-Audio Axiom AIR Mini 32][] that retails
 for about the same price.
 
-[<img alt="MPK Mini" src="{{site.assets.url_prefix}}/images/posts/mpkmini.png"
+[Akai MPK Mini]: https://www.akaipro.com/apc-key-25-mkii.html
+[M-Audio Axiom AIR Mini 32]: https://www.amazon.com/M-Audio-Axiom-AIR-Mini-32/dp/B009SS6A8Q
+
+[<img alt="MPK Mini" src="{{site.assets.url_prefix}}/images/posts/2014-03-24-kawehi/mpkmini.png"
 width="300" height="187" />](http://www.akaipro.com/product/mpkmini)
 
 I was just looking through some of the other MIDI interfaces that complement
@@ -77,8 +83,7 @@ goes for about $150, or the [Launchpad
 Mini](http://us.novationmusic.com/midi-controllers-digital-dj/launchpad-mini),
 which goes for $100.
 
-![Novation Launchpad S]({{site.assets.url_prefix}}/images/posts/2014-03-24/novation-launchpad-s.jpg "Novation Launchpad S")
-
+![Novation Launchpad S]({{site.assets.url_prefix}}/images/posts/2014-03-24-kawehi/novation-launchpad-s.jpg "Novation Launchpad S")
 
 Some other MIDI controllers that I might consider to complement or replace the
 MPK Mini are Akai's [APC20](http://www.akaipro.com/product/apc20) (retails for
@@ -87,4 +92,4 @@ $200) or [APC40](http://www.akaipro.com/product/apc40). Or ultimately, the new
 Amazon](http://www.amazon.com/Ableton-Push-Controller-Touch-Sensitive-Encoders/dp/B00AZ98TVS))
 seems to be the creme de la creme currently.
 
-![Ableton Push]({{site.assets.url_prefix}}/images/posts/2014-03-24/ableton-push.jpg "Ableton Push")
+![Ableton Push]({{site.assets.url_prefix}}/images/posts/2014-03-24-kawehi/ableton-push.jpg "Ableton Push")
