@@ -55,7 +55,7 @@ that it's relevant.
 
 ---
 
-# Self Judgement
+## Self Judgement
 
 The root of your torment is self judgement. Ever since you were a child you had
 experiences that caused you to form beliefs about what is good and bad. These
@@ -129,7 +129,7 @@ you practice self acceptance, the more you'll be able to learn about yourself
 and grow, and eventually people will notice this and you will attract good
 people.
 
-# Compatibility
+## Compatibility
 
 Like I said, you're not going to all of a sudden be loved by everyone. This
 isn't possible. You'll eventually attain the ability to be comfortable around
@@ -204,7 +204,7 @@ introduction of compatible people. Plus you'll be more stable and ready, less
 desperate, and thus more approachable if you're more content with your life full
 of good friends.
 
-# Social Hierarchy
+## Social Hierarchy
 
 Something that tormented me greatly throughout my childhood was being in a
 position of lesser privilege than others in the area I grew up in. I was in a
@@ -243,7 +243,7 @@ of their family. Sure, this is a topic in itself, the topic of
 is a serious thing that still exists... but it's not the rule of the world like
 it was in your middle and high school years.
 
-# The Game
+## The Game
 
 The "game" is bullshit. There is no game. The only way to get respect from
 people is to not play games and be straight up. "Games" are the tool of people
@@ -278,21 +278,21 @@ without manufacturing, without interference, without trying. But you have to
 work on yourself to allow it. Many other aspects of your being can manifest as
 well the more you work on yourself.
 
-# Confidence
+## Confidence
 
 The topic of confidence will come up, and you'll struggle with it very much in
 trying to be "masculine". Even though you know that you're authentic and not
-afraid to admit that [Girls Just Want to Have
-Fun](https://www.youtube.com/watch?v=PIb6AZdTr-A) is an amazing song, the alpha
-male concept will still plague you and you'll wonder if you're somehow missing
-something, and this is why you aren't getting the attention from women that you
-crave.
+afraid to admit that
+[Girls Just Want to Have Fun](https://www.youtube.com/watch?v=PIb6AZdTr-A) is an
+amazing song, the alpha male concept will still plague you and you'll wonder if
+you're somehow missing something, and this is why you aren't getting the
+attention from women that you crave.
 
 It seems like alpha males are confident in some sort of playful yet cocky way.
 This may fool some women temporarily, but it's bullshit. So what is real
 confidence? It seems like a paradox that you're stuck in, but I learned the key
-to understanding it from [Models by Mark
-Manson](http://www.amazon.com/Models-Attract-Women-Through-Honesty-ebook/dp/B005EOTH24).
+to understanding it from
+[Models: Attract Women Through Honesty](https://amzn.to/3Xlq3VQ) by Mark Manson.
 Mark Manson is kind of a douche, so I'm not totally advocating for him as a
 person, but his book is chocked full of truth, at least if you're approaching it
 from the perspective I did and were able to integrate it fully.
@@ -309,7 +309,8 @@ and unapologetic.
 
 ## References
 
-* [Overcome Your Programming and Be a Better
-  Man](http://thechrisgethardshow.tumblr.com/post/87041806996/overcome-your-programming-and-be-a-better-man)
-* [Your Princess Is In Another Castle - Misogyny, Entitlement, and
-  Nerds](http://www.thedailybeast.com/articles/2014/05/27/your-princess-is-in-another-castle-misogyny-entitlement-and-nerds.html)
+* [Overcome Your Programming and Be a Better Man][]
+* [Your Princess Is In Another Castle - Misogyny, Entitlement, and Nerds][]
+
+[Overcome Your Programming and Be a Better Man]: http://thechrisgethardshow.tumblr.com/post/87041806996/overcome-your-programming-and-be-a-better-man
+[Your Princess Is In Another Castle - Misogyny, Entitlement, and Nerds]: http://www.thedailybeast.com/articles/2014/05/27/your-princess-is-in-another-castle-misogyny-entitlement-and-nerds.html

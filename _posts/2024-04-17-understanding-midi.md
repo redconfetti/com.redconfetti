@@ -78,7 +78,7 @@ MIDI devices can be networked together, in a daisy chain configuration, using
 the "MIDI THRU" port of one device to connect to the next device. For MIDI
 devices that do not support this, a [MIDI hub][] is a solution.
 
-[MIDI hub]: https://www.amazon.com/CAMOLA-MIDI-Interface-6-out-Splitter/dp/B08NJS5FV8/ref=sr_1_3
+[MIDI hub]: https://amzn.to/4kntoNZ
 
 ![Minimal MIDI Chain]({{site.assets.url_prefix}}/images/posts/2024-04-17/minimal-midi-chain.png "Minimal MIDI Chain by L. Rayón-Rumayor")
 *Image taken from [Figure 1 - uploaded by L. Rayón-Rumayor](https://www.researchgate.net/profile/L-Rayon-Rumayor?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6Il9kaXJlY3QiLCJwYWdlIjoiX2RpcmVjdCJ9fQ)*

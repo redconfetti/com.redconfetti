@@ -509,7 +509,7 @@ to Cubase to send and receive MIDI from. If it's an older synth that doesn't
 support USB, you can buy a MIDI-to-USB adapter device such as the
 [M-Audio Midisport Uno][] for under $35.
 
-[M-Audio Midisport Uno]: https://www.amazon.com/M-Audio-UNO/dp/B00007JRBM/ref=sr_1_1?crid=1ULSOQMWHLXVW
+[M-Audio Midisport Uno]: https://amzn.to/4iCAInx
 
 ### Audio Input
 
@@ -523,7 +523,7 @@ If you have an audio interface that has run out of available 1/4" inputs, and
 only has available XLR mic inputs, you can order a set of
 [patch adapter cables][] to free up additional inputs.
 
-[patch adapter cables]: https://www.amazon.com/WJSTN-Adapter-Quarter-inch-interconnect-Cable%EF%BC%886in%EF%BC%892/dp/B091NNYSFW/ref=sr_1_12
+[patch adapter cables]: https://amzn.to/41BpVnS
 
 ### External Instrument
 

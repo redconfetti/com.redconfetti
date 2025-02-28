@@ -60,7 +60,7 @@ themselves, and simply go to a doctor for pain medication. The pain persists for
 more than it should, so they go back for more powerful, addicting, pain killers.
 If you're at your wits end, or trying to get out of the cycle of addiction, I
 strongly recommend that you check out [Healing Back Pain by John E.
-Sarno](http://www.amazon.com/Healing-Back-Pain-Mind-Body-Connection/dp/0446557684/),
+Sarno](https://amzn.to/3QGlKRk),
 or the type of emotional work I describe below.
 
 ## Emotional Work

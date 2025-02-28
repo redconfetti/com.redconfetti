@@ -79,8 +79,7 @@ Go towards this, and develop vulnerability and confidence for yourself, not just
 to impress anyone. Learn to accept the things you are ashamed of, and to be
 comfortable admitting those things to others.
 
-I have to give credit for what is inspiring this insight, and more, to [Models:
-Attract Women Through
-Honesty](http://www.amazon.com/Models-Attract-Women-Through-Honesty-ebook/dp/B005EOTH24)
+I have to give credit for what is inspiring this insight, and more, to
+[Models: Attract Women Through Honesty](https://amzn.to/3Xlq3VQ)
 by Mark Manson. It's not just some new pickup artist bullshit that tells you how
 to win the girl, but not how to be to keep her.

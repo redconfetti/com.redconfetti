@@ -32,7 +32,7 @@ and happy. If you're fighting a sense of inferiority regarding these people,
 this is a good point to reflect on this point, and your past, and try to work
 out such reactions to others... making such comparisons. For such issues, which
 hold you back, I recommend [Soul without Shame by Byron
-Brown](http://www.amazon.com/Soul-without-Shame-Liberating-Yourself/dp/157062383X).
+Brown](https://amzn.to/4klEFP2).
 But... still if you're not fighting a sense of self loathing, you still see the
 way these people radiate...and you want that.
 

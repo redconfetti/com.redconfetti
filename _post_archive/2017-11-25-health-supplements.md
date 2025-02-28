@@ -21,16 +21,16 @@ These references were provided by [Marshall Sontag][1]
 * [Glutathione][4] - Antioxidant, supports immune system
 * [Advanced MAGNESIUM (by InnovixLabs)][5] - Supports nervous system, Helps
 promote relaxation
-* [VitaMonk™ Pregnenolone][6] - Supplement to Support Brain Power and Neuroplasticity
+* [LifeExtension Pregnenolone][6] - Supplement to Support Brain Power and Neuroplasticity
 * [Reserveage - Resveratrol][7] - Promotes healthy collagen, keratin, and
 elastin
 * [Qualia Mind][8] - Nootropic stack, promotes mental capacities, energy, etc.
 
 [1]: https://www.linkedin.com/in/marshallsontag
-[2]: https://www.amazon.com/Antarctic-Strength-Omega-3s-Astaxanthin-Softgels/dp/B00IP1E3O0
-[3]: https://www.amazon.com/Natural-Factors-CurcuminRich-Theracurmin-Vegetarian/dp/B00TJ4OD8S/
-[4]: https://www.amazon.com/Healthy-Origins-L-Glutathione-Setria-Capsules/dp/B002EG5152/
-[5]: https://www.amazon.com/MAGNESIUM-InnovixLabs-Bioavailable-Bisglycinate-Vegetarian/dp/B00QSR9D9I/
-[6]: https://www.amazon.com/gp/product/B01L7L19Q4/
-[7]: https://www.amazon.com/Reserveage-Resveratrol-Cellular-Age-Defying-Formula/dp/B002WC8178/
-[8]: http://a.co/hnnNAVK
+[2]: https://amzn.to/4hPtCff
+[3]: https://amzn.to/43j9U78
+[4]: https://amzn.to/4ijLhLI
+[5]: https://amzn.to/4ilRCXl
+[6]: https://amzn.to/4ikiS8t
+[7]: https://amzn.to/4hXEc3X
+[8]: https://amzn.to/4knrkWf
