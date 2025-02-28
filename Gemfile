@@ -24,6 +24,10 @@ group :jekyll_plugins do
    gem "jekyll-feed", "~> 0.17.0"
 end
 
+# Embed YouTube videos in your Jekyll site posts
+# https://gitlab.com/zm9studio/jekyll-youtube-embed
+gem 'jekyll-youtube-embed', '~> 0.0.4'
+
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 # gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 

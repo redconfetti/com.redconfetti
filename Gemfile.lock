@@ -65,6 +65,7 @@ GEM
       jekyll-spaceship (~> 0.2)
     jekyll-watch (2.2.1)
       listen (~> 3.0)
+    jekyll-youtube-embed (0.0.4)
     kramdown (2.4.0)
       rexml
     kramdown-parser-gfm (1.1.0)
@@ -110,6 +111,7 @@ DEPENDENCIES
   jekyll-feed (~> 0.17.0)
   jekyll-theme-console!
   jekyll-theme-yat
+  jekyll-youtube-embed (~> 0.0.4)
   minima (~> 2.5.1)
 
 RUBY VERSION
