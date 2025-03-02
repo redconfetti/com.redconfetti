@@ -319,6 +319,225 @@ as they all change when any one assignment is changed.
 This section of this article is still a work in progress as of 02/27/2025.
 Check back for updates as I make further progress.
 
+When you add a new panel, you are provided with the option of choosing
+"General Size", "Inspector Size" or "Channel Strip Size". I created a
+"General Size" panel and resized it to fit in the Inspector or the Channel
+Strip, and still it was not available to load in those contexts.
+So you can only expect a panel created for a specific context to be loadable
+in the context that it was made for.
+
+### Nested Panels
+
+In the MIDI Devices manual for Cubase 14, on page 19, the section titled
+"Creating subpanels" advises you to create a device with all 16 MIDI channels
+configured as identical. It then has you create a simple volume fader control
+in a panel in MIDI Channel 1, named "Channel".
+
+You want to add a panel under the "Channel 1" sub-node so that it is also owned
+by all the other channels (2-16), and thus that panel sends MIDI CC messages
+from the pannel on the channel that the panel is assigned to. The "channel"
+variable for each MIDI channel sub-node changes for each sub-node by convention.
+
+The manual lets you know that you can drag-and-drop panels from sub-nodes into
+a parent node, to create an aggregate panel. In this example, the root/parent
+node that is above all the MIDI Channel sub-nodes has a panel named
+"MotifMixer", which contains a "Channel" panel from each individual MIDI channel.
+This is a good example of a multi-channel mixer panel, which would be perfect
+for a mixer.
+
+Honestly any multi-timbral device could have a General mixer that is very large
+in side that features a controls in a "Channel Strip" configuration.
+
+It would be very useful to have not only Volume and Pan controls for each
+instrument in a device, but also common controls like "Filter Cutoff" and
+"Filter Resonance".
+
+#### Multi Channel Mixer Bug
+
+I have tried to create multiple "Inspector" panels inside of a MIDI channel
+sub-node for different sections such as "Part Common", "Oscillator", "Filter",
+and "Modulation"... along with a "General" size panel that combines them all
+for the channel. This doesn't work.
+
+You must create a sub-node for each sub-panel (e.g. "Oscillators", "Filter",
+etc.) under the MIDI Channel node, then create a panel inside of each of those
+nodes.
+
+In fact, this seems like it's desired because when you create the first panel
+inside of a sub-node, the panel uses the same name as the node.
+
+I tried to do this like the example in the manual, with panels under the channel
+nodes, and then combining them into a multi-channel panel under the root node.
+
+![Cubase MIDI Device Add Panel]({{site.assets.url_prefix}}/images/posts/2025-02-22-cubase-midi-devices/cubase-midi-devices-add-panel.png "Cubase MIDI Device Add Panel")
+
+Every time I tried to drag a panel from a channel into a global mixer panel,
+a Parameter Assignment window would popup. It wouldn't matter if I pressed
+Cancel or Added a New Parameter and assigned it, then pressed "OK", the program
+crashes every time.
+
+![Multi-channel mixer device panel crash]({{site.assets.url_prefix}}/images/posts/2025-02-22-cubase-midi-devices/cubase-multi-channel-mixer-test-crash.gif "Multi-channel mixer device panel crash")
+
+I even started with a new file just to see if I could reproduce this bug.
+I create 2 sub-nodes under "Channel 1", named "Common" and "Oscillator".
+I build a narrow mixer channel style panel for each using the "Inspector Size",
+with a fader at the bottom, and knobs above it. Strange enough, the "Common"
+panel can load in the track inspector "Device Panel", but the "Oscillator" panel
+doesn't show up to load. Very buggy and inconsistent.
+
+I create a new sub-node called "Filter" and configure and Inspector Size panel
+with "Cutoff" and "Resonance" knobs. This is available to show up under the
+Inspector. I create a new sub-node called "Osc" and configure a new panel within
+it. I try to delete the "Oscillator" sub-node that isn't showing up, but that's
+not possible. I remove the panel from within it, but even then I still cannot
+delete the parameters inside of it, nor the "Oscillator" sub-node itself.
+
+I check to see if my "Osc" panel is available to load in the inspector, and
+luckily it is. But now I have a dormant "Oscillator" sub-node that I cannot get
+rid of.
+
+I create a panel in the root node named "Mixer". I try to drag the "Common"
+strip from Channel 1 into the root Mixer panel, again I get a mysterious
+Parameter Assignment window, then it crashes immediately after I press either
+"Cancel" or "OK" in that window.
+
+![Multi-channel mixer device panel - second attempt crash]({{site.assets.url_prefix}}/images/posts/2025-02-22-cubase-midi-devices/cubase-multi-channel-mixer-test-crash-2.gif "Multi-channel mixer device panel - second attempt crash")
+
+I try it again after re-opening the software, removing the older Device
+configurations, and re-importing the last backup of the configuration I made.
+I try to drag the "Common" panel from Channel 2 instead, again the same behavior.
+
+This causes me to conclude that the master mixer panel, named "MotifMixer" on
+Page 19 of the manual, is not possible with Cubase 14 due to a bug.
+
+#### Composite Channel Panel
+
+The question that remains now is, will it be possible to use sub-nodes for
+separate modules, such as "Common", "Oscillator", "Filter", "Modulation", each
+being an Inspector Size panel that can be loaded in the inspector individually,
+yet then combine these into a "General Size" panel under "Channel 1" named
+"Channel", that mixes them all into a composite panel for the channel itself.
+
+This too causes the mystery Parameter Assignment window to show, followed
+by a crash. I decide to run Cubase 13 for MacOS to see if I get the same
+behavior. Turns out I can't open project files with Cubase 13 for some reason,
+my CPR files are greyed out and can't be opened. I run Cubase 12, which appears
+to be running in Rosetta mode.
+
+I have the same trouble opening a CPR file from the File > Open menu, but
+the software shows a list of "Recent" projects from 2023 that I can open.
+
+I create a fresh Device configuration file. I notice that the form behaves
+differently in Cubase 12. The "Identical" MIDI Channels are not all selected by
+default. The Backgrounds editor doesn't feature the rectangles with the
+rounded corners that you can apply names to.
+
+I configure sub-nodes for "Common" and "Oscillator" just like before.
+
+I create a new MIDI channel and assign it to my test device. I notice that just
+like the Cubase SX manual showed an "Open Device Panel" button in the track
+inspector, Cubase 12 still retained that button.
+
+![Cubase 12 inspector - open device panel]({{site.assets.url_prefix}}/images/posts/2025-02-22-cubase-midi-devices/cubase-12-inspector-open-device-panel.png "Cubase 12 inspector - open device panel")
+
+Under the root node I create a new "General Size" panel named "Mixer".
+I drag the "Common" panel from Channel 1 into the "Mixer" panel. I get the
+Parameter Assignment window popup for the "Volume" fader, but the software
+doesn't crash when I press the "Cancel" button. I inspect the controls from
+each sub-panel and they are respectively assigned to Channel 1 and Channel 2.
+
+It looks like I'm going to need to create my panels in Cubase 12, then
+import them in Cubase 14.
+
+I notice that I cannot reveal the "Mixer" panel from the Device Panel section of
+the Inspector. Only the Inspector size panels in the sub-nodes are available
+in Cubase 12. I use the "Open Device Panel" button from the primary section
+of the track inspector, and the editor opens, not the "Mixer" panel from
+the root node. Only if I go to Studio > More Options > MIDI Device Manager,
+then open my "Test" configuration does it open with the Mixer panel available
+for use, instead of the editor. I tested the Mixer panel with my MIDI Monitor
+application and it does properly send the MIDI CC messages on each individual
+channel as expected.
+
+I created a "Channel" panel under the Channel 1 sub-node, and I dragged the
+"Common" and "Oscillator" panels into it from the sub-nodes under the channel.
+This worked without crashing the application.
+
+![Cubase 12 composite panel]({{site.assets.url_prefix}}/images/posts/2025-02-22-cubase-midi-devices/cubase-12-channel-composite-panel.png "Cubase 12 composite panel")
+
+When I tried to access it from the Device Panel drop-down, it didn't appears
+as available.
+
+![Cubase 12 composite panel not available]({{site.assets.url_prefix}}/images/posts/2025-02-22-cubase-midi-devices/cubase-12-channel-panel.png "Cubase 12 composite panel not available")
+
+I created another panel in the root node named "Composite" with the "Common"
+and "Oscillator" panels dragged within it. I dragged a label into this panel
+with the text "Composite" so that I could distinguish it from the
+"Channel 1/Channel" panel that has the same configuration.
+
+Neither was available from the Device Panel section of the inspector, still.
+I did use the "Open Device Panels" button from the Inspector and the "Channel"
+panel was available from there. Success! I tested the composite panel and
+it did send messages to the MIDI Channel assigned to the MIDI track.
+I changed the MIDI channel from 1 to 2 and tested again, and it sent to the
+messages to Channel 2 instead. Success!
+
+So if I use Cubase 12, I can configure a master "Mixer" panel for a device,
+while also still creating a channel specific composite of the sub-panels.
+
+This is great because it means that a configuration can offer small sub-panels
+that are compatible with the "Device Panel" section of the track inspector,
+while still offering a master panel for each channel that combines them all,
+and if we need a big global panel that with multi-channel support we can
+also do this.
+
+I exported this test configuration to an XML file, then opened Cubase 14.
+Again the Device Panel drop-down menu did not make the "Channel" panel
+available, but when I clicked on the Gear icon, which must be the new equivalent
+of the "Open Device Panel" button that was in the main track inspector button
+set, I was able to expand "Channel 1" and access the "Channel" panel.
+
+![Cubase 14 Device Panel full tree]({{site.assets.url_prefix}}/images/posts/2025-02-22-cubase-midi-devices/cubase-14-device-panel-gear-icon.png "Cubase 14 Device Panel full tree")
+
+![Cubase 14 Device Panel channel]({{site.assets.url_prefix}}/images/posts/2025-02-22-cubase-midi-devices/cubase-14-device-panel-channel-panel.png "Cubase 14 Device Panel channel")
+
+To access the "Mixer" panel in Cubase 14, I still have to open Studio >
+More Options > MIDI Device Manager, then click on "Open Device". It opens
+in the Mixer panel, rather than the editor by default. It must pick the first
+panel that exists in the root node to open in this case.
+
+### Cubase 13 Test
+
+I decided to test the editor in Cubase 13, which is native to Apple Silicon.
+I load in the "Test" device configuration that was created in Cubase 12.
+This works the same as it did in Cubase 14.
+
+I create a brand new configuration, with the Common and Oscillator sub-nodes
+that each contain a panel of the same name. I assign Volume and Pan to the
+Common panel, and I add "Type" and "Wave" knobs to the Oscillator.
+
+I create a "Channel" panel under "Channel 1" node, then I try to drag the Common
+and Oscillator panels into it. The program crashes.
+
+So my conclusion is that Cubase 13/14 crash when trying to create composite
+panels, however Cubase 12 does not.
+
+### Panel Disappearing from Inspector
+
+I had a panel disappear from the list that you can load under the Device Panel
+section in the Track Inspector. It turns out that if you resize an
+"Inspector Size" panel to be too long vertically, that can invalidate it from
+showing up.
+
+### Unable to Remove a Sub-Node
+
+If you're working with multiple "identical" MIDI channel nodes, and you create
+a sub-node under one, it will show up under them all. If you don't want that
+sub-node any longer, you'll have to remove it from the other nodes that it
+copied to before you can remove the originating sub-node.
+
+You have to do this from the 'Device' mode, not the 'Edit Panel' mode.
+
 ### Multiple Command Messages
 
 I was having trouble configuring NRPN messages, or messages that include an MSB
