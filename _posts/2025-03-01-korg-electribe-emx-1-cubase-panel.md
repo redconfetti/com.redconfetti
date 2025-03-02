@@ -41,20 +41,19 @@ Note: Device Panels are only supported by Cubase Pro
 
 ### Future Updates
 
-* Improved preset loading (currently experiences minor issues when switching
-  between bank presets)
+* Improved preset loading to resolve minor issues when switching between banks
 * Multi-Channel Synth Mixer
 
 ## Download
 
-If you appreciate this, feel free to [Buy me a Coffee][].
-
 [Download v1.0][]
+
+If you appreciate this, feel free to [Buy me a Coffee][].
 
 <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="redconfetti" data-color="#FF5F5F" data-emoji=""  data-font="Arial" data-text="Buy me a coffee, if you want" data-outline-color="#000000" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
 
 [Buy me a Coffee]: https://buymeacoffee.com/redconfetti
-[Download v1.0]: https://s3-us-west-1.amazonaws.com/assets.redconfetti.com/images/posts/2025-03-01-korg-electribe-emx-1-cubase-panel/versions/korg-electribe-emx1-cubase-device-v1.0
+[Download v1.0]: https://s3-us-west-1.amazonaws.com/assets.redconfetti.com/images/posts/2025-03-01-korg-electribe-emx-1-cubase-panel/versions/korg-electribe-emx1-cubase-device-v1.0.zip
 
 ## Installation
 
