@@ -20,7 +20,9 @@ image:
 
 ![Cubase Device Panels for Korg Electribe EMX-1]({{site.assets.url_prefix}}/images/posts/2025-03-01-korg-electribe-emx-1-cubase-panel/blog-post-photo-medium.png "Cubase Device Panels for Korg Electribe EMX-1")
 
-Note: Device Panels are only supported by Cubase Pro
+Note: Device Panels are [only supported by Cubase Pro][]
+
+[only supported by Cubase Pro]: https://www.steinberg.help/r/cubase-pro/14.0/en/cubase_nuendo/topics/using_midi_devices/midi_devices_using_panels_in_mixconsole_showing_t.html
 
 ## Features
 
