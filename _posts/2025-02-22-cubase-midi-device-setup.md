@@ -563,6 +563,19 @@ Much thanks to this Steinberg forum thread:
 
 ![Cubase Moog Voyager MIDI Device Panel]({{site.assets.url_prefix}}/images/posts/2025-02-22-cubase-midi-devices/cubase-moog-voyager-panel.png "Cubase Moog Voyager MIDI Device Panel")
 
+## Maximum Sizes
+
+You can make panels larger than the default size they show up as. If you exceed
+these sizes, the panel will not appear in the menu for the context you're trying
+to load it for.
+
+* Strip Panels
+  * 320 Pixel Height
+  * 86 Pixel Width
+* Inspector Panels
+  * 370 Pixel Height
+  * 155 Pixel Width
+
 ## Other Resources
 
 It was helpful to get some tips from [Cykong Panel Tips][].
