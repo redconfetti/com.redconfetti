@@ -12,15 +12,29 @@ tags:
   - Electribe
   - EMX-1
 image: 
-  path: https://s3-us-west-1.amazonaws.com/assets.redconfetti.com/images/posts/2025-03-01-korg-electribe-emx-1-cubase-panel/blog-post-photo-medium.png
+  path: https://s3-us-west-1.amazonaws.com/assets.redconfetti.com/images/posts/2025-03-01-korg-electribe-emx-1-cubase-panel/blog-post-photo-medium-v2.png
   width: 800
   height: 478
   alt: Cubase Device Panels for Korg Electribe EMX-1
 ---
 
-![Cubase Device Panels for Korg Electribe EMX-1]({{site.assets.url_prefix}}/images/posts/2025-03-01-korg-electribe-emx-1-cubase-panel/blog-post-photo-medium.png "Cubase Device Panels for Korg Electribe EMX-1")
+![Cubase Device Panels for Korg Electribe EMX-1]({{site.assets.url_prefix}}/images/posts/2025-03-01-korg-electribe-emx-1-cubase-panel/blog-post-photo-medium-v2.png "Cubase Device Panels for Korg Electribe EMX-1")
 
-Note: Device Panels are [only supported by Cubase Pro][]
+I've been trying to embrace a DAWless production workflow, testing out various
+grooveboxes and their sequencers to come up with a setup I'd like. The Korg
+Electribe EMX-1 is very fun to work with standalone.
+
+I decided to approach using it as a sound module, with Cubase as the primary
+sequencer, during production... and then dump the MIDI patterns into the device
+for live performance later.
+
+I've noticed that the Device Panel feature, which is unfortunately
+[only supported by Cubase Pro][], makes it possible to access all the controls
+across different parts quicker than using the hardware interface. This also
+reduces the wear and tear on the hardware itself. I've mapped out controls
+for everything except for part muting, which isn't possible with the Cubase
+Device Panel features due to the complex binary logic that is required to
+properly mute/unmute parts.
 
 [only supported by Cubase Pro]: https://www.steinberg.help/r/cubase-pro/14.0/en/cubase_nuendo/topics/using_midi_devices/midi_devices_using_panels_in_mixconsole_showing_t.html
 
@@ -41,23 +55,29 @@ Note: Device Panels are [only supported by Cubase Pro][]
 * Drum Part Mixer and Modulation Matrix (MIDI Channel 10)
 * Cubase Drum Map
 
-### Future Updates
+### ChangeLog
 
-* More inspector and strip panels
-* Separate Panels for Drums Common/Effects and Drum Modulation Matrix
-* Improved preset loading to resolve minor issues when switching between banks
-* Multi-Channel Synth Mixer
+* v1.1 (03/04/2025)
+  * Resolves issues with preset loading across banks
+  * Adds multi-channel mixer as default panel
+    * Replacing drum mixer and drum modulation panel
+  * Adds channel strip panels
+  * Adds global inspector and strip panels
+  * Adds Electribe logo and tubes artwork for global panel
+* [v1.0] (03/01/2025)
+  * Initial release
 
 ## Download
 
-[Download v1.0][]
+* [Download v1.1][]
 
 If you appreciate this, feel free to [Buy me a Coffee][].
 
 <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="redconfetti" data-color="#FF5F5F" data-emoji=""  data-font="Arial" data-text="Buy me a coffee, if you want" data-outline-color="#000000" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
 
 [Buy me a Coffee]: https://buymeacoffee.com/redconfetti
-[Download v1.0]: https://s3-us-west-1.amazonaws.com/assets.redconfetti.com/images/posts/2025-03-01-korg-electribe-emx-1-cubase-panel/versions/korg-electribe-emx1-cubase-device-v1.0.zip
+[v1.0]: https://s3-us-west-1.amazonaws.com/assets.redconfetti.com/images/posts/2025-03-01-korg-electribe-emx-1-cubase-panel/versions/korg-electribe-emx1-cubase-device-v1.0.zip
+[Download v1.1]: https://s3-us-west-1.amazonaws.com/assets.redconfetti.com/images/posts/2025-03-01-korg-electribe-emx-1-cubase-panel/versions/korg-electribe-emx1-cubase-device-v1.1.zip
 
 ## Installation
 
@@ -170,6 +190,42 @@ You can also choose to display the Modulation, Oscillator, or Filter panels.
 
 ![Inspector Synth Panels]({{site.assets.url_prefix}}/images/posts/2025-03-01-korg-electribe-emx-1-cubase-panel/usage/6-inspector-synth-panels.png "MIDI Track inspector synth panels")
 
+### Strip Panels
+
+It's also possible to display smaller device panels in the
+[MixConsole window][].
+
+[MixConsole window]: https://www.steinberg.help/r/cubase-pro/14.0/en/cubase_nuendo/topics/mixconsole/mixconsole_device_panels_c.html
+
+You can load the global panels that aren't related to an instrument by choosing
+"Any" as the MIDI channel for a MIDI track.
+
+![choose Any channel]({{site.assets.url_prefix}}/images/posts/2025-03-01-korg-electribe-emx-1-cubase-panel/usage/v2/strip-effects-1-three-midi-tracks-any-channel.png "Choose 'Any' channel in MIDI track")
+
+You'll have to right-click in the top section of the MixConsole and choose
+"Set up Sections" to enable the "Device Panel" section.
+
+After you've done this, you can click on the "Select Panel" button that
+appears when you mouse over the panel header for a track.
+
+![Select Panel]({{site.assets.url_prefix}}/images/posts/2025-03-01-korg-electribe-emx-1-cubase-panel/usage/v2/strip-effects-2-select-panel.png "Select Panel")
+
+![Choose Strip Panel]({{site.assets.url_prefix}}/images/posts/2025-03-01-korg-electribe-emx-1-cubase-panel/usage/v2/strip-effects-3.png "Choose Strip Panel")
+
+Under Channel 1 > Global, you can load the panels that do not apply Globally,
+instead to any specific instrument track.
+
+![global panels]({{site.assets.url_prefix}}/images/posts/2025-03-01-korg-electribe-emx-1-cubase-panel/usage/v2/strip-effects-4.png "Global Strip Panels")
+
+There are also channel strips related to each track that you can load.
+
+![Channel Strip Panels]({{site.assets.url_prefix}}/images/posts/2025-03-01-korg-electribe-emx-1-cubase-panel/usage/v2/channel-strips-1.png "Channel Strip Panels")
+
+Here we have the channel strips for Part Common, Modulation, Filter, and
+Oscillator.
+
+![Channel Strip Panels]({{site.assets.url_prefix}}/images/posts/2025-03-01-korg-electribe-emx-1-cubase-panel/usage/v2/channel-strips-2.png "Channel Strip Panels")
+
 ### General Panels
 
 #### Drum Panel
@@ -226,10 +282,13 @@ Choose the "Global" panel under Korg Electribe EMX-1.
 
 ![Open Global Panel]({{site.assets.url_prefix}}/images/posts/2025-03-01-korg-electribe-emx-1-cubase-panel/usage/9-open-global-panel.png "Open Global Panel")
 
-This will reveal a panel that combines the Drums and Global panels into a single
-window.
+This will reveal a panel that provides channel strips for each of the five
+synthesizer parts, along with global controls.
 
-![Global Panel with Drums]({{site.assets.url_prefix}}/images/posts/2025-03-01-korg-electribe-emx-1-cubase-panel/panels/v1/global-drum-panel.png "Global Panel with Drum mixer")
+![Global Panel with Synth Parts]({{site.assets.url_prefix}}/images/posts/2025-03-01-korg-electribe-emx-1-cubase-panel/panels/v2/synth-mixer-with-global.png "Synthesizer mixer with Global controls")
+
+This panel, and the drum panel, are very powerful in helping you to shape the
+the sound of whatever MIDI tracks you're throwing at the Electribe.
 
 ## Drum Map
 
