@@ -73,7 +73,17 @@ properly mute/unmute parts.
 
 If you appreciate this, feel free to [Buy me a Coffee][].
 
-<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="redconfetti" data-color="#FF5F5F" data-emoji=""  data-font="Arial" data-text="Buy me a coffee, if you want" data-outline-color="#000000" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
+<script
+  type="text/javascript"
+  src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js"
+  data-name="bmc-button" data-slug="redconfetti" data-color="#FF5F5F"
+  data-emoji=""
+  data-font="Arial"
+  data-text="Buy me a coffee, if you want"
+  data-outline-color="#000000"
+  data-font-color="#ffffff"
+  data-coffee-color="#FFDD00">
+</script>
 
 [Buy me a Coffee]: https://buymeacoffee.com/redconfetti
 [v1.0]: https://s3-us-west-1.amazonaws.com/assets.redconfetti.com/images/posts/2025-03-01-korg-electribe-emx-1-cubase-panel/versions/korg-electribe-emx1-cubase-device-v1.0.zip
