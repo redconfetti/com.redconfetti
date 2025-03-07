@@ -576,6 +576,29 @@ to load it for.
   * 370 Pixel Height
   * 155 Pixel Width
 
+## Section Panels and Sub-Nodes
+
+I created a device configuration for the Electribe EMX-1 and ESX-1 grooveboxes,
+which feature controls for multiple drum parts, with each set of controls
+belonging to a sections (common, modulation, oscillator, filter).
+
+I created sub-nodes under Channel 10 (required for drum parts by the device),
+for each part. I configured the parameters under each of these sub-nodes, and
+created Inspector and Channel Strip panels under each of those sub-nodes.
+
+When it came time to combine all of these sections into a drum mixer, the panel
+ended up being huge. It would have been nicer to have a multi-part modulation
+panel, a multi-part common panel, a multipart filter panel, etc.
+
+After entering in NRPN message configurations for every parameter across 9-13
+different drum/sample parts, I don't want to do it all over again just to make
+separate panels possible. The editor only allows panels to feature other
+panels from child nodes, you can't share configurations with sibling nodes.
+
+If I ever do such a configuration again, I would create sub-nodes for each
+section, and then sub-nodes under those for each part. This would enable
+multi-part sub-panels for each section.
+
 ## Other Resources
 
 It was helpful to get some tips from [Cykong Panel Tips][].
