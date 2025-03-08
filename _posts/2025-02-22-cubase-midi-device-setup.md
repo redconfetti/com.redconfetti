@@ -570,8 +570,8 @@ these sizes, the panel will not appear in the menu for the context you're trying
 to load it for.
 
 * Strip Panels
-  * 320 Pixel Height
-  * 86 Pixel Width
+  * 282 Pixel Height
+  * 82 Pixel Width
 * Inspector Panels
   * 370 Pixel Height
   * 155 Pixel Width
