@@ -162,8 +162,16 @@ overkill. I might just need a simple Mac Mini next time.
 Currently an M4 Pro Mac Mini with 48 GB of RAM and 1 TB of storage is
 $1999. That's a good target.
 
-With a Thunderbolt hub being around $200-$300, an SSD enclosure being
-around $100, and 4 TB of SSD storage being around $300, I can expect a
-replacement system to be about $2700, and by then the prices on these things
+* Mac Mini - $1999
+  * Apple M4 Pro chip
+  * 48 GB of RAM
+  * 1 TB SSD
+  * Accessories:
+    * Thunderbolt hub - approx $200 - $300
+    * SSD enclosure - approx $100
+    * 4 TB SSD - $300
+* Total: $2600
+
+By the time I'm ready to replace my current system, the prices on these things
 may come down, or even the Mac Mini M5 or M6 will be just enough power to
 handle music production in say... January of 2028.
