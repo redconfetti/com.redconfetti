@@ -4,7 +4,7 @@ published: true
 title: Korg Electribe EMX-1 Cubase Device Panel
 description: Use the EMX-1 as a sound module with Cubase Pro, then dump
   the MIDI into patterns for live performance
-date: 2025-03-02 12:10:00 -0500
+date: 2025-03-15 01:03:00 -0500
 comments: true
 categories:
   - music-production
@@ -59,19 +59,22 @@ properly mute/unmute parts.
 
 ### ChangeLog
 
-* v1.1 (03/04/2025)
+* v1.2 (03/15/2025)
+  * Adds Global snapshot ability for 100% sound module use
+  * Adds "All" Global Panel to assist with total snapshot
+* [v1.1][] (03/04/2025)
   * Resolves issues with preset loading across banks
   * Adds multi-channel mixer as default panel
     * Replacing drum mixer and drum modulation panel
   * Adds channel strip panels
   * Adds global inspector and strip panels
   * Adds Electribe logo and tubes artwork for global panel
-* [v1.0] (03/01/2025)
+* [v1.0][] (03/01/2025)
   * Initial release
 
 ## Download
 
-* [Download v1.1][]
+* [Download v1.2][]
 
 If you appreciate this, feel free to [Buy me a Coffee][].
 
@@ -89,7 +92,8 @@ If you appreciate this, feel free to [Buy me a Coffee][].
 
 [Buy me a Coffee]: https://buymeacoffee.com/redconfetti
 [v1.0]: https://s3-us-west-1.amazonaws.com/assets.redconfetti.com/images/posts/2025-03-01-korg-electribe-emx-1-cubase-panel/versions/korg-electribe-emx1-cubase-device-v1.0.zip
-[Download v1.1]: https://s3-us-west-1.amazonaws.com/assets.redconfetti.com/images/posts/2025-03-01-korg-electribe-emx-1-cubase-panel/versions/korg-electribe-emx1-cubase-device-v1.1.zip
+[v1.1]: https://s3-us-west-1.amazonaws.com/assets.redconfetti.com/images/posts/2025-03-01-korg-electribe-emx-1-cubase-panel/versions/korg-electribe-emx1-cubase-device-v1.1.zip
+[Download v1.2]: https://s3-us-west-1.amazonaws.com/assets.redconfetti.com/images/posts/2025-03-01-korg-electribe-emx-1-cubase-panel/versions/korg-electribe-emx1-cubase-device-v1.2.zip
 
 ## Installation
 
@@ -301,6 +305,29 @@ synthesizer parts, along with global controls.
 
 This panel, and the drum panel, are very powerful in helping you to shape the
 the sound of whatever MIDI tracks you're throwing at the Electribe.
+
+#### All Panel
+
+With version 1.2, I modified the XML to allow Global snapshots. I configured
+an Global "All" panel that includes all controls, so that one can use the
+EMX-1 as a sound module on a keyboard rack without having it on the desk
+in front of them.
+
+![Global All Panel]({{site.assets.url_prefix}}/images/posts/2025-03-01-korg-electribe-emx-1-cubase-panel/usage/11-all-panel.gif "All Panel")
+
+Instead of needing to save a preset with all the synth and
+drum settings in the machine itself, you can now save a Snapshot from the top
+of the Global windows.
+
+![Save snapshot]({{site.assets.url_prefix}}/images/posts/2025-03-01-korg-electribe-emx-1-cubase-panel/usage/11-save-snapshot.png "Save snapshot")
+
+As long as you don't have another track on MIDI Channel 1 trying to load a
+preset, your MIDI track configured on the "Any Channel" will cause
+
+![Routing panel Snapshot]({{site.assets.url_prefix}}/images/posts/2025-03-01-korg-electribe-emx-1-cubase-panel/usage/11-snapshot-routing.png)
+
+Even in the Routing sections of your MIDI track you'll see that the Snapshot
+you've loaded will be displayed instead of a preset.
 
 ## Drum Map
 
