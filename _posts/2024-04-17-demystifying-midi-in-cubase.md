@@ -57,8 +57,8 @@ Usually a change to the configuration is needed with a MIDI controller to match
 the MIDI Control Change numbers (CC#) used by a hardware synthesizer that you
 are trying to control remotely. A MIDI controller is usually configured by
 default to use non-reserved control change messages, so reconfiguring it should
-be necessary. See [MIDI CC List][] to determine if this is the case for your
-controller.
+not be necessary to use it with Cubase. See [MIDI CC List][] to determine if
+this is the case for your controller.
 
 [MIDI CC List]: https://anotherproducer.com/online-tools-for-musicians/midi-cc-list/
 
@@ -84,7 +84,7 @@ various functions. This feature is known as [MIDI Remote][].
 [MIDI Remote]: https://steinberg.help/cubase_artist/v13/en/cubase_nuendo/topics/midi_remote/midi_remote_c.html
 
 Unless you have a common Akai, Novation Launchkey, or Arturia Keylab controller,
-you'll need to confiture your own "script" for MIDI Remote. This is actually
+you'll need to configure your own "script" for MIDI Remote. This is actually
 very easy once you know how it's meant to be used.
 
 First click on the [Add MIDI Controller Surface][] button to start mapping our
