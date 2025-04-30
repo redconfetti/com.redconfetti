@@ -4,7 +4,7 @@ published: true
 title: Korg Electribe EMX-1 Cubase Device Panel
 description: Use the EMX-1 as a sound module with Cubase Pro, then dump
   the MIDI into patterns for live performance
-date: 2025-03-15 01:03:00 -0500
+date: 2025-03-02 01:03:00 -0500
 comments: true
 categories:
   - music-production
