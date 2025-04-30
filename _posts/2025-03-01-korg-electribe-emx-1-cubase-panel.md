@@ -59,7 +59,9 @@ properly mute/unmute parts.
 
 ### ChangeLog
 
-* v1.2 (03/15/2025)
+* v1.3 (04/30/2025)
+  * Misc fixes to control mapping
+* [v1.2][] (03/15/2025)
   * Adds Global snapshot ability for 100% sound module use
   * Adds "All" Global Panel to assist with total snapshot
 * [v1.1][] (03/04/2025)
@@ -74,7 +76,7 @@ properly mute/unmute parts.
 
 ## Download
 
-* [Download v1.2][]
+* [Download v1.3][]
 
 If you appreciate this, feel free to [Buy me a Coffee][].
 
@@ -93,7 +95,8 @@ If you appreciate this, feel free to [Buy me a Coffee][].
 [Buy me a Coffee]: https://buymeacoffee.com/redconfetti
 [v1.0]: https://s3-us-west-1.amazonaws.com/assets.redconfetti.com/images/posts/2025-03-01-korg-electribe-emx-1-cubase-panel/versions/korg-electribe-emx1-cubase-device-v1.0.zip
 [v1.1]: https://s3-us-west-1.amazonaws.com/assets.redconfetti.com/images/posts/2025-03-01-korg-electribe-emx-1-cubase-panel/versions/korg-electribe-emx1-cubase-device-v1.1.zip
-[Download v1.2]: https://s3-us-west-1.amazonaws.com/assets.redconfetti.com/images/posts/2025-03-01-korg-electribe-emx-1-cubase-panel/versions/korg-electribe-emx1-cubase-device-v1.2.zip
+[v1.2]: https://s3-us-west-1.amazonaws.com/assets.redconfetti.com/images/posts/2025-03-01-korg-electribe-emx-1-cubase-panel/versions/korg-electribe-emx1-cubase-device-v1.2.zip
+[Download v1.3]: https://s3-us-west-1.amazonaws.com/assets.redconfetti.com/images/posts/2025-03-01-korg-electribe-emx-1-cubase-panel/versions/korg-electribe-emx1-cubase-device-v1.3.zip
 
 ## Installation
 
