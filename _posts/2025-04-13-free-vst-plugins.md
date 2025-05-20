@@ -17,41 +17,88 @@ image:
   alt: u-he Triple Cheese Screenshot
 ---
 
-I'm trying to get a friend into music production, but they don't have a budget
-for expensive software.
+If you have a limited budget and want to get the tools you need for music
+production, here's a list of free plugins that will work for Mac or PC.
 
-Here is a list of plugins I compiled for them to install.
+## Effects
 
-* Blamsoft
-  * [VK-1 Viking][] - Classic monophonic analog synthesizer. This is a great
-    start for those wanting to learn classic subtractive synthesis such as that
-    provided by the Mini Moog
-* Cherry Audio
-  * [Surrealistic MG-1 Plus Synthesizer][] - Based on the
-    [Realistic Concertmate MG-1][], it's like a RadioShack MiniMoog. It doesn't
-    have all the capability of the MiniMoog, but still simple and charming.
-* u-He
-  * [Triple Cheese][]
-  * [Zebralette][] - Easy spectral synth
-  * [Tyrell N6][] - Virtual analogue with classic architecture plus extras
-  * [Poldoski][] - Virtual analogue synthesizer
-* DSP56300
-  * [Osirus][] - Access Virus A/B/C emulation
-  * [OsTIrus][] - Access Virus TI/TI2/Snow emulation
-  * [Vavra][] - Waldorf MicroQ emulation
-  * [Xenia][] - Waldorf Microwave II/XT emulation
-* Surge
-  * [Surge XT][]
-* TAL
-  * [Tal Noisemaker][]
-* The Wave Warden
-  * [Odin 2][]
-* One Small Clue
-  * [Poise: Percussion Sampler][] - This will satisfy those needing a percussion
-    sampler for drums
-* Vital
-  * [Vital] - Wavetable / Additive synth
+### Bundle
 
+* [Air Windows Consolidated][] - A single plugin that provides multiple plugin
+  types (Clipping, Distortion, Dynamics, Filter, Noise, Reverb, etc). Hundreds
+  of plugins. See [APMastering Free Plugins Video][]
+
+[APMastering Free Plugins Video]: https://www.youtube.com/watch?v=V3W2sppPjT4&t=5s
+[Air Windows Consolidated]: https://github.com/baconpaul/airwin2rack?tab=readme-ov-file
+
+### Dynamics
+
+This category includes compressors and limiters, used to shape the volume of
+tracks. A very essential music production tool for those that know how to use it.
+
+I highly recommend this 10 hour video on compression -
+[How to Use Compression][]. You can learn so much with just the first 3 hours of
+the video. I highly recommend watching just a bit at a time to take everything
+in.
+
+Honestly you should be able to get by with the compressors included with your
+DAW, but these are free and might provide more options.
+
+* [AP Mastering Versatile Compressor][]
+
+[AP Mastering Versatile Compressor]: https://apmastering.com/plugins/versatile-compressor
+[How to Use Compression]: https://www.youtube.com/watch?v=ksJRgK3viMc
+
+### Equalizers
+
+### Filters
+
+* [Filter Force Free][] - Provides 2 out of 21 filter types. Paid version is
+  only $19
+
+[Filter Force Free]: https://thewavewarden.com/pages/filter-force-free
+
+### Distortions / Saturators
+
+* [AP Mastering Saturation]
+
+[AP Mastering Saturation]: https://apmastering.com/plugins/saturation
+
+### Amp Simulators
+
+## Software Synthesizers
+
+* Classic Subtractive Synthesis - Good for beginners
+  * Blamsoft
+    * [VK-1 Viking][] - Classic monophonic analog synthesizer. This is a great
+      start for those wanting to learn classic subtractive synthesis such as that
+      provided by the [Minimoog][]
+  * TAL
+    * [Tal Noisemaker][]
+  * Cherry Audio
+    * [Surrealistic MG-1 Plus Synthesizer][] - Based on the
+      [Realistic Concertmate MG-1][], it's like a RadioShack MiniMoog. It doesn't
+      have all the capability of the MiniMoog, but still simple and charming.
+* Intermediate
+  * The Wave Warden
+    * [Odin 2][]
+* Advanced
+  * Vital
+    * [Vital] - Wavetable / Additive synth
+  * Surge
+    * [Surge XT][]
+  * u-He
+    * [Triple Cheese][]
+    * [Zebralette][] - Easy spectral synth
+    * [Tyrell N6][] - Virtual analogue with classic architecture plus extras
+    * [Poldoski][] - Virtual analogue synthesizer
+  * DSP56300 - Require firmware files to run, perhaps found in Internet Archive
+    * [Osirus][] - Access Virus A/B/C emulation
+    * [OsTIrus][] - Access Virus TI/TI2/Snow emulation
+    * [Vavra][] - Waldorf MicroQ emulation
+    * [Xenia][] - Waldorf Microwave II/XT emulation
+
+[Minimoog]: https://en.wikipedia.org/wiki/Minimoog
 [VK-1 Viking]: https://blamsoft.com/vst/vk-1-viking-synthesizer/
 [Surrealistic MG-1 Plus Synthesizer]: https://store.cherryaudio.com/bundles/surrealistic-mg-1-plus-synthesizer
 [Realistic Concertmate MG-1]: https://en.wikipedia.org/wiki/Realistic_Concertmate_MG-1
@@ -66,5 +113,25 @@ Here is a list of plugins I compiled for them to install.
 [Surge XT]: https://surge-synthesizer.github.io/
 [Tal Noisemaker]: https://tal-software.com/products/tal-noisemaker
 [Odin 2]: https://thewavewarden.com/pages/odin-2
-[Poise: Percussion Sampler]: https://www.onesmallclue.com/
 [Vital]: https://vital.audio/
+
+## Modular Synths
+
+I recommend that anyone wanting to understand synthesizers learn the basics
+of patching up a subtractive synthesizer, similar to the Minimoog, to understand
+how synthesizers are really wired internally. It will make it so that when
+you see a non-modular synthesizer, you'll be able to guess how it works much
+easier instead of being mystified and confused.
+
+* [Cardinal] - Modular software synth based on [VCVRack]
+
+[Cardinal]: https://cardinal.kx.studio/
+[VCVRack]: https://vcvrack.com/
+
+## Samplers
+
+* One Small Clue
+  * [Poise: Percussion Sampler][] - This will satisfy those needing a percussion
+    sampler for drums
+
+[Poise: Percussion Sampler]: https://www.onesmallclue.com/
