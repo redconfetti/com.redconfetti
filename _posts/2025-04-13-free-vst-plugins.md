@@ -3,7 +3,7 @@ layout: post
 published: true
 title: Free VST Plugins
 description: Recoomended plugins that are free and compatible with Mac and PC
-date: 2025-04-13 08:27:00 -0500
+date: 2025-05-20 10:32:00 -0500
 comments: true
 categories:
   - music-production
@@ -178,10 +178,13 @@ how synthesizers are really wired internally. It will make it so that when
 you see a non-modular synthesizer, you'll be able to guess how it works much
 easier instead of being mystified and confused.
 
-* [Cardinal] - Modular software synth based on [VCVRack]
+* [Cardinal] - Modular software synth based on [VCVRack]. See my video,
+  [Subtractive Synthesis for Beginners Tutorial with Cardinal][] if you need
+  help understanding how to use Cardinal.
 
 [Cardinal]: https://cardinal.kx.studio/
 [VCVRack]: https://vcvrack.com/
+[Subtractive Synthesis for Beginners Tutorial with Cardinal]: https://youtu.be/hapHvg9pnDs
 
 ## Samplers
 
