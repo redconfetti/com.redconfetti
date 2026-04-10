@@ -8,11 +8,8 @@ My name is Jason. I am a website developer living in Erwin, TN.
 
 I contribute to a Ruby / Rails blog called [Ruby Colored Glasses][]
 
-I was formerly a student of the [Diamond Approach][].
-
 <img src="{{site.assets.url_prefix}}/images/jason-miller.jpg" alt="Jason Miller" title="Jason Miller" />
 
-[Diamond Approach]: https://en.wikipedia.org/wiki/A._H._Almaas#Diamond_Approach
 [Ruby Colored Glasses]: http://www.rubycoloredglasses.com/
 
 ```ruby
@@ -21,10 +18,6 @@ I was formerly a student of the [Diamond Approach][].
 ```
 
 I play guitar and keyboard, and produce my own [music].
-
-I'm also currently learning [powered paragliding][] on the weekends.
-
-[powered paragliding]: https://en.wikipedia.org/wiki/Powered_paragliding
 
 I came up with the name 'redconfetti' long ago when I was trying to come up
 with possible band names. Strange enough, I find it interesting that it's in
