@@ -14,11 +14,11 @@ with assets hosted by [Amazon S3](https://aws.amazon.com/s3/).
 
 ```shell
 # Run Jekyll Server while updating pages
-jekyll serve
+bundle exec jekyll serve
 
 # Build static website
 rm -rf _site
-jekyll build
+bundle exec jekyll build
 ```
 
 ## Markdown

@@ -49,7 +49,7 @@ banner:
   height: "340px"
 
 # Build settings
-theme: jekyll-theme-yat
+theme: minima
 markdown: kramdown
 kramdown:
   input: GFM
@@ -73,11 +73,6 @@ twitter:
 assets:
   url_prefix: "https://s3-us-west-1.amazonaws.com/assets.redconfetti.com"
 
-sitemap: true
-
-yat:
-  date_format: "%b %d, %Y"
-
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://redconfetti.com" # the base hostname & protocol for your site, e.g. https://example.com
 favicon: "https://s3-us-west-1.amazonaws.com/assets.redconfetti.com/images/COMP.GIF" # the favicon for your site
@@ -86,13 +81,6 @@ copyright: "© 2005-{currentYear} Jason Miller · All rights reserved"
 
 brand_color: "#DD0000"
 
-utterances:
-  repo: "redconfetti/com.redconfetti"
-  issue_term: "title"
-  label: "utterances comment"
-  theme: "github-light"
-  follow_site_theme: true
-
 header_pages:
   - index.md
   - about.md
@@ -100,11 +88,6 @@ header_pages:
   - other.md
 
 plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-  - jekyll-sitemap
-  - jekyll-paginate
-  - jekyll-spaceship
   - jekyll-youtube-embed
 
 # Exclude from processing.

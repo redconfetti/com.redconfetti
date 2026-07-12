@@ -7,30 +7,9 @@ in Ruby development, and it's pretty simple to use to implement changes.
 
 ## Theme
 
-This site uses the [Jekyll Theme YAT] theme. See [Jekyll Theme YAT Demo].
+This site uses the [Minima Theme] theme.
 
-[Jekyll Theme YAT Demo]: https://jekyll-themes.com/jeffreytse/jekyll-theme-yat
-[Jekyll Theme YAT]: https://github.com/jeffreytse/jekyll-theme-yat
-
-## Utterances
-
-This site uses [Utterances] for the comment system, which relies on Github Issues.
-
-[Utterances]: https://utteranc.es/
-
-## Plugins
-
-* [jekyll-feed][]
-* [jekyll-seo-tag][]
-* [jekyll-sitemap][]
-* [jekyll-paginate][]
-* [jekyll-spaceship][]
-
-[jekyll-feed]: https://github.com/jekyll/jekyll-feed
-[jekyll-seo-tag]: https://github.com/jekyll/jekyll-seo-tag
-[jekyll-sitemap]: https://github.com/jekyll/jekyll-sitemap
-[jekyll-paginate]: https://github.com/jekyll/jekyll-paginate
-[jekyll-spaceship]: https://github.com/jeffreytse/jekyll-spaceship
+[Minima Theme]: https://github.com/jekyll/minima
 
 ## Reference
 
