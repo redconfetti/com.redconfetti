@@ -55,10 +55,7 @@ kramdown:
   input: GFM
 
 logo: https://s3-us-west-1.amazonaws.com/assets.redconfetti.com/images/redconfetti.png
-author:
-  name: Jason Miller
-  picture: https://s3-us-west-1.amazonaws.com/assets.redconfetti.com/images/jason-miller.jpg
-  twitter: redconfetti
+author: Jason Miller
 social:
   name: Jason Miller
   links:
