@@ -96,7 +96,7 @@ amplifier. With the Wavestation, the Filter envelope was designated as a general
 purpose "Envelope 1" that could be assigned to the Filter, Pitch, Amp, or
 LFO1/LFO2 rate and modulation depth.
 
-## Dave Smith's Influence
+### Dave Smith's Influence
 
 After [Sequential Circuits][] ceased operations and its assets were acquired by
 Yamaha in 1987, several former engineers such as [Dave Smith][], John Bowen,
@@ -351,3 +351,105 @@ For a practical presentation of this, see [Mastering Wave Sequencing 2.0][]
 by Ian Dixon.
 
 [Mastering Wave Sequencing 2.0]: https://www.youtube.com/watch?v=0sagFVBO6bU&t=233s
+
+## Conclusion
+
+The presets included with the Korg Wavestate are often designed to demonstrate
+the instrument’s capabilities as clearly as possible. They emphasize obvious
+motion, dense layering, dramatic sequencing, and large-scale changes that
+immediately reveal what Wave Sequencing 2.0 can do. The problem is that this
+kind of demonstration does not always communicate how powerful the instrument
+can be when those same abilities are applied with restraint and taste. Instead
+of sounding subtle, expressive, or inspiring, the Wavestate can initially come
+across as gimmicky.
+
+That impression can lead to a misunderstanding of what the instrument is for.
+The Wavestate is not best understood as a keyboard-zone groovebox where pressing
+one key is supposed to produce a complete drum-and-bass arrangement. It can
+certainly be programmed that way, just as an auto-accompaniment keyboard can
+generate a larger musical structure from a simple gesture, but that is not the
+most interesting use of the design.
+
+The Wavestate occupies a space somewhere between instrument and composition. A
+Performance can contain rhythm, pitch movement, evolving texture, atmosphere,
+and partial musical structure, yet still remain playable. The important point is
+not that the instrument performs a finished composition for the player. It is
+that it can capture a particular musical behavior or “vibe” and turn it into
+something that can be transposed, revoiced, altered, and explored from the
+keyboard.
+
+This makes the Wavestate useful as an inspirational instrument. A musician can
+program a relationship between rhythm, timbre, pitch, modulation, and effects,
+then later load that Performance and discover new harmonic or melodic
+possibilities by playing it in different ways. The original programming may be
+partly compositional, but the result remains open-ended. It becomes a reusable
+musical environment rather than a fixed sequence.
+
+The role of non-chromatic samples is central to this. Traditional sample-based
+instruments often place most of their emphasis on chromatic material such as
+pianos, strings, synth waves, bells, and other sounds intended to follow the
+keyboard. The Wavestate reveals that non-chromatic sounds can be equally
+important. Rumbles, impacts, breaths, scrapes, percussion, mechanical noises,
+environmental recordings, and short textural events can contribute rhythm,
+weight, movement, tension, and atmosphere.
+
+When those sounds are introduced with the right timing and layered with pitched
+material, they become part of the musical identity of the Performance. They are
+not merely sound effects placed around the “real” instrument. They can shape the
+articulation, pulse, space, and emotional character of what is being played. In
+many cases, they are what gives the Performance its sense of place and motion.
+
+A useful comparison is the value of specialized audio tools. Many plugins
+combine processes that could technically be reproduced with stock effects in a
+DAW. A particular result might be built from EQ, compression, saturation,
+modulation, delay, and reverb. The important question is not whether the result
+is possible without the specialized plugin. The important question is how much
+attention, routing, setup, and repetition would be required to reproduce it.
+
+A tool becomes worthwhile when it packages a useful recipe or algorithm in a way
+that lowers the barrier to using it creatively. It preserves relationships
+between processes, makes them easier to recall, and allows the musician to
+manipulate the result as a unified system. The value is not necessarily
+exclusive capability. The value is accessibility, repeatability, and the new
+possibilities that become available once the system has been configured.
+
+The Wavestate provides that kind of value for multilayered rhythmic sound
+design. Its independent lanes, polymetric cycles, probability, modulation,
+sample sequencing, pitch behavior, and layered Performances make it possible to
+construct musical systems that would otherwise require multiple tracks, plugins,
+MIDI regions, automation lanes, and routing decisions in a DAW.
+
+Some of those results may be easier to create in a DAW, especially when the goal
+is a fixed arrangement. Cubase provides greater precision for editing and
+structuring a finished piece. The tradeoff is that the result does not
+automatically become the same kind of playable, transposable object.
+
+Once a Wavestate Performance has been configured, the consequences of that
+configuration become available under the player’s hands. The rhythm can remain
+intact while the harmony changes. Some elements can transpose while others
+remain fixed. Different cycles can continue interacting while new notes and
+chords are introduced. Probability and modulation can create variation without
+destroying the identity of the Performance.
+
+That is where the Wavestate becomes more than a complicated way to reproduce
+something that could be built in a DAW. The programming effort creates an
+instrument that did not previously exist. Its value appears after the setup is
+complete, when the resulting atmosphere can be played, transposed, revisited,
+and used to inspire musical ideas that may not have emerged from a conventional
+sequencing workflow.
+
+A well-designed premium sound library can make this much easier to understand.
+Factory presets often need to be broad and demonstrative, while a commercial
+library can pursue a more focused aesthetic. When the sound designer applies the
+Wavestate’s abilities tastefully, the instrument stops sounding like a technical
+exhibition and begins to reveal its real strength: creating rhythmic, chromatic,
+textural environments that feel coherent, playable, and inspiring.
+
+If you happen to purchase the [Wavestate Native plugin][], or an actual
+wavestate synthesizer, I recommend trying out a sound library such as
+[Cinematic Pulses][] or [Space Western][]. They offer a better peak at what
+kind of Performances are possible, ones that inspire you to play and explore.
+
+[Wavestate Native plugin]: https://www.korg.com/us/products/software/wavestate_native/
+[Cinematic Pulses]: https://korg.shop/sound-libraries/wavestate/cinematic-pulses.html
+[Space Western]: https://korg.shop/sound-libraries/wavestate/space-western.html
