@@ -23,5 +23,8 @@ bundle exec jekyll build
 
 ## Markdown
 
-Use the Rewrap extension for VS-Code by highlighting paragraphs that overflow
-the 80 character width and press OPTION+Q (on Mac), ALT+Q on PC, to reformat.
+Use the [Rewrap][] extension for VS-Code by highlighting paragraphs that
+overflow the 80 character width and press OPTION+Q (on Mac), ALT+Q on PC, to
+reformat.
+
+[Rewrap]: https://marketplace.cursorapi.com/items/?itemName=stkb.rewrap
