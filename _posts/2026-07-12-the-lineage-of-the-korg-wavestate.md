@@ -303,17 +303,17 @@ following across up to 255 steps:
 * Level
 * Crossfade
 
-Wave Sequencing 2.0 separates these into independent lanes.
+Wave Sequencing 2.0 separates these into independent lanes that support up to
+64 steps each (16 steps divided into banks A-D).
 
-* Timing
-* Sample
-* Pitch
-* Shape
-* Gate
-* Step Sequence A
-* Step Sequence B
-* Step Sequence C
-* Step Sequence D
+| Lane          | What it controls                    | Think of it as                  |
+| ------------- | ----------------------------------- | ------------------------------- |
+| Timing        | How long each step lasts            | Rhythm                          |
+| Sample        | Which multisample plays             | Instrument/sample selection     |
+| Pitch         | Pitch offset for that step          | Melody/transposition            |
+| Shape         | The contour applied across the step | Per-step envelope shape         |
+| Gate          | How long the sound remains active   | Note length/articulation        |
+| Step Sequence | An arbitrary modulation value       | Automation/modulation sequencer |
 
 Each lane can have its own number of steps, start and end position, loop start
 and end, and playback behavior.
@@ -354,101 +354,177 @@ by Ian Dixon.
 
 ## Conclusion
 
-The presets included with the Korg Wavestate are often designed to demonstrate
-the instrument’s capabilities as clearly as possible. They emphasize obvious
-motion, dense layering, dramatic sequencing, and large-scale changes that
-immediately reveal what Wave Sequencing 2.0 can do. The problem is that this
-kind of demonstration does not always communicate how powerful the instrument
-can be when those same abilities are applied with restraint and taste. Instead
-of sounding subtle, expressive, or inspiring, the Wavestate can initially come
-across as gimmicky.
+The Korg wavestate can make a poor first impression if it is judged primarily by
+its most dramatic presets. Some Performances emphasize obvious sample switching,
+dense layering, exaggerated movement, or sequencing that borders on novelty.
+Those sounds demonstrate what Wave Sequencing 2.0 is capable of, but they can
+also make the instrument seem more gimmicky than it actually is.
 
-That impression can lead to a misunderstanding of what the instrument is for.
-The Wavestate is not best understood as a keyboard-zone groovebox where pressing
-one key is supposed to produce a complete drum-and-bass arrangement. It can
-certainly be programmed that way, just as an auto-accompaniment keyboard can
-generate a larger musical structure from a simple gesture, but that is not the
-most interesting use of the design.
+That impression is incomplete. The factory library also contains many
+Performances that use the same architecture with considerably more restraint.
+Presets such as *Iceland Piano Pad*, *Dark Sonata Split*, *Subtle Thoughts*,
+*Circular Breathing Hold*, *Floating Mellow*, *The Traveler*, *Om-Manji Split*,
+and *Magic Bellz* demonstrate that Wave Sequencing does not need to call
+attention to itself. The movement can be subtle, musical, and integrated into
+the character of the sound rather than presented as an obvious sequencing
+effect.
 
-The Wavestate occupies a space somewhere between instrument and composition. A
-Performance can contain rhythm, pitch movement, evolving texture, atmosphere,
-and partial musical structure, yet still remain playable. The important point is
-not that the instrument performs a finished composition for the player. It is
-that it can capture a particular musical behavior or “vibe” and turn it into
-something that can be transposed, revoiced, altered, and explored from the
-keyboard.
+This leads to a more useful way of understanding what the wavestate is designed
+to do.
 
-This makes the Wavestate useful as an inspirational instrument. A musician can
-program a relationship between rhythm, timbre, pitch, modulation, and effects,
-then later load that Performance and discover new harmonic or melodic
-possibilities by playing it in different ways. The original programming may be
-partly compositional, but the result remains open-ended. It becomes a reusable
-musical environment rather than a fixed sequence.
+The “sequencing” in Wave Sequencing should be taken seriously. Many synthesizers
+include an arpeggiator or a simple eight- or sixteen-step sequencer that can
+synchronize to the instrument's internal tempo, a DAW, a drum machine, or some
+other MIDI clock source. A musician loads a patch, holds one or more notes, and
+the synthesizer generates some kind of synchronized musical behavior.
 
-The role of non-chromatic samples is central to this. Traditional sample-based
-instruments often place most of their emphasis on chromatic material such as
-pianos, strings, synth waves, bells, and other sounds intended to follow the
-keyboard. The Wavestate reveals that non-chromatic sounds can be equally
-important. Rumbles, impacts, breaths, scrapes, percussion, mechanical noises,
-environmental recordings, and short textural events can contribute rhythm,
-weight, movement, tension, and atmosphere.
+The wavestate develops this idea much further.
 
-When those sounds are introduced with the right timing and layered with pitched
-material, they become part of the musical identity of the Performance. They are
-not merely sound effects placed around the “real” instrument. They can shape the
-articulation, pulse, space, and emotional character of what is being played. In
-many cases, they are what gives the Performance its sense of place and motion.
+Instead of treating sequencing as an optional feature added on top of an
+otherwise conventional synthesizer architecture, Wave Sequencing integrates
+sequencing into the construction of the Program itself. Timing, sample
+selection, pitch, gate length, shape, and modulation can each develop according
+to their own sequences. Those sequences can interact while remaining
+synchronized to the same musical tempo.
 
-A useful comparison is the value of specialized audio tools. Many plugins
-combine processes that could technically be reproduced with stock effects in a
-DAW. A particular result might be built from EQ, compression, saturation,
-modulation, delay, and reverb. The important question is not whether the result
-is possible without the specialized plugin. The important question is how much
-attention, routing, setup, and repetition would be required to reproduce it.
+This does not mean that a wavestate Program must sound obviously rhythmic.
 
-A tool becomes worthwhile when it packages a useful recipe or algorithm in a way
-that lowers the barrier to using it creatively. It preserves relationships
-between processes, makes them easier to recall, and allows the musician to
-manipulate the result as a unified system. The value is not necessarily
-exclusive capability. The value is accessibility, repeatability, and the new
-possibilities that become available once the system has been configured.
+A Wave Sequence might produce clearly articulated sixteenth-note pulses,
+repeated melodic figures, percussion patterns, or other unmistakably sequenced
+material. But it might just as easily produce a slowly evolving pad whose
+internal changes occur over quarter notes, half notes, measures, or longer
+musical divisions. Crossfades can make those transitions so smooth that the
+listener barely perceives a sequence at all.
 
-The Wavestate provides that kind of value for multilayered rhythmic sound
-design. Its independent lanes, polymetric cycles, probability, modulation,
-sample sequencing, pitch behavior, and layered Performances make it possible to
-construct musical systems that would otherwise require multiple tracks, plugins,
-MIDI regions, automation lanes, and routing decisions in a DAW.
+In both cases, the underlying concept is the same.
 
-Some of those results may be easier to create in a DAW, especially when the goal
-is a fixed arrangement. Cubase provides greater precision for editing and
-structuring a finished piece. The tradeoff is that the result does not
-automatically become the same kind of playable, transposable object.
+The Performance has behavior that unfolds through musical time.
 
-Once a Wavestate Performance has been configured, the consequences of that
-configuration become available under the player’s hands. The rhythm can remain
-intact while the harmony changes. Some elements can transpose while others
-remain fixed. Different cycles can continue interacting while new notes and
-chords are introduced. Probability and modulation can create variation without
-destroying the identity of the Performance.
+Synchronizing the wavestate to a DAW or external MIDI clock makes this
+especially clear. Even when the motion is subtle, the evolution of a sound can
+remain related to the tempo of the composition. A timbral transition can happen
+every measure. A sample cycle can repeat every four bars. A modulation pattern
+can slowly move through a different number of steps while remaining synchronized
+to the same clock. An atmospheric sound can therefore breathe with the
+composition rather than evolving according to an arbitrary amount of elapsed
+time.
 
-That is where the Wavestate becomes more than a complicated way to reproduce
-something that could be built in a DAW. The programming effort creates an
-instrument that did not previously exist. Its value appears after the setup is
-complete, when the resulting atmosphere can be played, transposed, revisited,
-and used to inspire musical ideas that may not have emerged from a conventional
-sequencing workflow.
+The distinction between an obvious rhythmic sequence and a subtle evolving
+texture is therefore not a distinction between correct and incorrect uses of
+Wave Sequencing. It is primarily a matter of programming, genre, and taste.
 
-A well-designed premium sound library can make this much easier to understand.
-Factory presets often need to be broad and demonstrative, while a commercial
-library can pursue a more focused aesthetic. When the sound designer applies the
-Wavestate’s abilities tastefully, the instrument stops sounding like a technical
-exhibition and begins to reveal its real strength: creating rhythmic, chromatic,
-textural environments that feel coherent, playable, and inspiring.
+A techno producer might use short steps, strong gates, percussion samples, and
+conspicuous rhythmic modulation. An ambient musician might use long durations
+and smooth crossfades to produce movement that is almost subliminal. A
+soundtrack designer might combine pitched material with impacts, breaths,
+environmental sounds, and slowly changing modulation. All three are using the
+same underlying architecture.
+
+This also clarifies the importance of non-chromatic samples.
+
+Traditional sample-based instruments tend to emphasize chromatic material such
+as pianos, strings, synth waves, bells, guitars, and other sounds intended to
+follow the keyboard. The wavestate makes non-chromatic material equally useful.
+Rumbles, impacts, breaths, scrapes, percussion, mechanical noises, environmental
+recordings, and short textural events can become part of the rhythmic and
+timbral behavior of a Program.
+
+These sounds do not need to function merely as effects placed around the “real”
+instrument. When introduced at appropriate moments within a Wave Sequence, they
+can contribute articulation, pulse, weight, movement, tension, and atmosphere.
+They become part of the identity of the playable sound.
+
+This is where the wavestate begins to occupy a space somewhere between
+synthesis, sequencing, and instrument design.
+
+A Performance can contain rhythm, pitch movement, evolving texture, atmosphere,
+and partial musical structure while still remaining something that is played
+from a keyboard. The programming establishes a set of musical relationships, but
+the player still determines the notes, chords, voicings, register, velocity, and
+performance gestures used to explore those relationships.
+
+The result is not necessarily a miniature composition that plays itself. It is
+better understood as a programmable musical behavior.
+
+That behavior can then be transposed, revoiced, layered, altered, and revisited.
+
+This is also where the wavestate differs from simply recreating the same result
+in a DAW.
+
+Cubase can reproduce nearly anything the wavestate can generate, often with
+considerably greater precision. Multiple MIDI tracks, audio regions, automation
+lanes, samplers, modulators, effects, and routing can duplicate extremely
+complex Wave Sequences. For a fixed arrangement, the DAW may even be the easier
+tool.
+
+But the products of those two workflows are different.
+
+A DAW arrangement normally produces a particular result.
+
+A wavestate Performance produces a system capable of generating a family of
+related results.
+
+Once the Performance has been programmed, its relationships become available
+under the player's hands. The rhythm can remain intact while the harmony
+changes. Some elements can transpose while others remain fixed. Different lane
+lengths can continue interacting while new notes and chords are introduced.
+Probability can create controlled variation. Modulation can alter the sound
+without destroying the identity of the Performance.
+
+The programming effort has therefore created something closer to a new
+instrument than to a finished sequence.
+
+A useful comparison can be made with specialized audio plugins. Many plugins
+combine processes that could technically be recreated with stock effects in a
+DAW. A particular sound might be assembled from EQ, compression, saturation,
+modulation, delay, and reverb. The value of the specialized tool is not
+necessarily that the result would otherwise be impossible. Its value is that it
+packages a useful process in a form that is accessible, repeatable, and easy to
+manipulate as a unified system.
+
+The wavestate provides similar value for time-dependent sound design.
+
+Its independent sequencing lanes, polymetric cycles, probability, sample
+sequencing, pitch behavior, modulation, effects, and four-layer Performances
+make it possible to construct complex musical behaviors and store them as
+playable objects.
+
+This also explains why different sound libraries can produce dramatically
+different impressions of the instrument. Wave Sequencing 2.0 does not impose an
+aesthetic. It provides a framework.
+
+One sound designer may use that framework to create aggressive rhythmic
+demonstrations. Another may produce evolving cinematic textures. Another may
+build restrained pads, keyboard splits, acoustic hybrids, or subtle rhythmic
+instruments whose sequencing is barely apparent.
+
+The wavestate itself is largely indifferent to those choices.
+
+The player decides how obvious the sequencing should be.
+
+For me, this has become the most useful way to conceptualize the instrument. The
+wavestate takes something that is commonly treated as an accessory on other
+synthesizers—the tempo-synchronized arpeggiator or step sequencer—and makes that
+idea fundamental to the sound architecture. It separates different properties of
+a sequence into independent lanes and allows them to interact over musical time.
+
+Wave Sequencing can therefore be dramatic or nearly invisible. It can generate a
+groove, animate a pad, introduce occasional acoustic or environmental events,
+create melodic movement, or simply cause a sound to evolve in a way that remains
+synchronized with the composition.
+
+The important feature is not how noticeable the sequence is.
+
+The important feature is that the sound has programmable behavior in time.
+
+Once that distinction becomes clear, the wavestate stops looking like a
+synthesizer built around a collection of sequencing tricks. It becomes easier to
+understand it as an instrument for designing sounds that do something while they
+are being played.
 
 If you happen to purchase the [Wavestate Native plugin][], or an actual
 wavestate synthesizer, I recommend trying out a sound library such as
-[Cinematic Pulses][] or [Space Western][]. They offer a better peak at what
-kind of Performances are possible, ones that inspire you to play and explore.
+[Cinematic Pulses][] or [Space Western][].
 
 [Wavestate Native plugin]: https://www.korg.com/us/products/software/wavestate_native/
 [Cinematic Pulses]: https://korg.shop/sound-libraries/wavestate/cinematic-pulses.html
