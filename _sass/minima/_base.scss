@@ -1,3 +1,5 @@
+@use "sass:color";
+
 /**
  * Reset some basic elements
  */
@@ -45,57 +47,53 @@
  /**
   * `main` element
   */
- main {
-   display: block; /* Default value of `display` of `main` element is 'inline' in IE 11. */
- }
- 
- 
- 
+main {
+  display: block; /* Default value of `display` of `main` element is 'inline' in IE 11. */
+}
+
  /**
   * Images
   */
- img {
-   max-width: 100%;
-   vertical-align: middle;
- }
- 
- 
- 
+img {
+  max-width: 100%;
+  vertical-align: middle;
+}
+
  /**
   * Figures
   */
- figure > img {
-   display: block;
- }
- 
- figcaption {
-   font-size: $small-font-size;
- }
- 
- 
+figure > img {
+  display: block;
+}
+
+figcaption {
+  font-size: $small-font-size;
+}
+
+
  
  /**
   * Lists
   */
- ul, ol {
-   margin-left: $spacing-unit;
- }
- 
- li {
-   > ul,
-   > ol {
-     margin-bottom: 0;
-   }
- }
+ul, ol {
+  margin-left: $spacing-unit;
+}
+
+li {
+  > ul,
+  > ol {
+    margin-bottom: 0;
+  }
+}
  
  
  
  /**
   * Headings
   */
- h1, h2, h3, h4, h5, h6 {
-   font-weight: $base-font-weight;
- }
+h1, h2, h3, h4, h5, h6 {
+  font-weight: $base-font-weight;
+}
  
  
  
@@ -106,16 +104,16 @@
    color: $brand-color;
    text-decoration: none;
  
-   &:visited {
-     color: darken($brand-color, 15%);
-   }
+  &:visited {
+    color: color.adjust($brand-color, $lightness: -15%);
+  }
  
-   &:hover {
-     color: $text-color;
-     text-decoration: underline;
-   }
+  &:hover {
+    color: $text-color;
+    text-decoration: underline;
+  }
  
-   .social-media-list &:hover {
+  .social-media-list &:hover {
      text-decoration: none;
  
      .username {
@@ -232,21 +230,22 @@
    margin-bottom: $spacing-unit;
    width: 100%;
    text-align: $table-text-align;
-   color: lighten($text-color, 18%);
+   color: color.adjust($text-color, $lightness: 18%);
+
    border-collapse: collapse;
    border: 1px solid $grey-color-light;
    tr {
      &:nth-child(even) {
-       background-color: lighten($grey-color-light, 6%);
+      background-color: color.adjust($grey-color-light, $lightness: 6%);
      }
    }
    th, td {
      padding: ($spacing-unit * 0.3333333333) ($spacing-unit * 0.5);
    }
    th {
-     background-color: lighten($grey-color-light, 3%);
-     border: 1px solid darken($grey-color-light, 4%);
-     border-bottom-color: darken($grey-color-light, 12%);
+     background-color: color.adjust($grey-color-light, $lightness: 3%);
+     border: 1px solid color.adjust($grey-color-light, $lightness: -4%);
+     border-bottom-color: color.adjust($grey-color-light, $lightness: -12%);
    }
    td {
      border: 1px solid $grey-color-light;
