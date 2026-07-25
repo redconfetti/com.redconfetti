@@ -49,6 +49,7 @@ banner:
   height: "340px"
 
 # Build settings
+# https://github.com/jekyll/minima/tree/v2.5.2
 theme: minima
 markdown: kramdown
 kramdown:
